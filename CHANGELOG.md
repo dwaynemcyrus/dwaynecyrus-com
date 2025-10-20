@@ -9,8 +9,6 @@ description: "Log of notable technical changes, updates, and improvements to the
 This document provides a record of notable updates, fixes, and technical improvements.  
 It complements the [ROADMAP](/roadmap) by documenting **what has been completed**.
 
-***
-
 ## [Unreleased]
 ### Planned
 - Add roadmap page to the website
@@ -28,5 +26,3 @@ It complements the [ROADMAP](/roadmap) by documenting **what has been completed*
 
 ### Fixed
 - 
-
-***
