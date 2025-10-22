@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import Navigation from "../components/Navigation.astro";
+import Footer from "../components/Footer.astro";
 
 const pageTitle = "It's Cyrus";
 
@@ -71,8 +72,6 @@ const goal = 3;
 {goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
 
 </main>
-<footer>
-2025 DM Cyrus
-</footer>
+<Footer />
 	</body>
 </html>
