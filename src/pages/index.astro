@@ -1,6 +1,6 @@
 ---
 import "../styles/global.css";
-import Navigation from "../components/Navigation.astro";
+import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
 const pageTitle = "It's Cyrus";
@@ -42,11 +42,7 @@ const goal = 3;
 </style>
 	</head>
 	<body>
-<header>
-
-
-  <Navigation />
-</header>
+<Header />
 <main>
 		<h1>{pageTitle}</h1>
 		<p>Welcome to my website, let's get you up to speed!</p>
@@ -73,5 +69,9 @@ const goal = 3;
 
 </main>
 <Footer />
+  <script>
+import "../scripts/menu.js";
+  </script>
+</body>
 	</body>
 </html>
