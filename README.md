@@ -4,6 +4,10 @@ Versioning](https://semver.org/), and uses [Conventional
 Commits](https://conventionalcommits.org/en/v1.0.0/).
 
 # Dwayne M Cyrus — AI Design Engineer
+**Building Systems That Think, Interfaces That Feel, and Tools That Free.**
+I design and engineer human-centered systems where code, intelligence, and discipline converge into clarity.
+
+---
 
 ## Mission Statement
 This portfolio is the living record of my evolution into an **AI Design Engineer** — a creator who merges design, engineering, and intelligence into cohesive digital systems.  
