@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogPost from '../../components/BlogPost.astro';
+
+
+import { getCollection } from 'astro:content';
+const posts = await getCollection('projects');
+
+
+const allPosts = Object.values(import.meta.glob('../content/projects/*.md', { eager: true }));
+const pageTitle = "AI Dev Projects";
+
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width" />
+    <title>Astro Projects</title>
+  </head>
+  <body>
+
+    <h1>My project posts</h1>
+<ul>
+  {posts.map(post => (
+    <li><a href={`/projects/${post.id}`}>{post.data.title}</a></li>
+  ))}
+</ul>
+
+<hr>
+
+    <BaseLayout pageTitle={pageTitle}>
+    <p>This is where you will get to see my projects in progress. There is also a dev vlog on this site.</p>
+    <ul>
+
+
+
+      {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+
+    </ul>
+    </BaseLayout>
