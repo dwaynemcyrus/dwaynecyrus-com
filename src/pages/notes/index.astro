@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('notes');
+const pageTitle = "List Notes";
+---
+<BaseLayout pageTitle={pageTitle}>
+    <!-- <h2>So H2: {pageTitle}</h2> -->
+<p>This is where you will get to see my notes.</p>
+
+<ul>
+  {posts.map(post => (
+    <li><a href={`/notes/${post.id}`}>{post.data.title}</a></li>
+  ))}
+
+    <!-- {
+        allPosts.map((post) => (
+            <NotesPost url={`/notes/${post.id}/`} title={post.data.title} />
+        ))
+    } -->
+
+      <!-- {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)} -->
+
+</ul>
+    </BaseLayout>

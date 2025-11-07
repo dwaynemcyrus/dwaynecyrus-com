@@ -10,15 +10,20 @@ import { glob, file } from 'astro/loaders';
 
 const dogs = defineCollection({ /* ... */ });
 
-const projects = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/projects" }),
-
-});
-
 const essays = defineCollection({
   loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/essays" }),
 
 });
 
+const notes = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/notes" }),
+
+});
+
+const projects = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/projects" }),
+
+});
+
 // 4. Export a single `collections` object to register your collection(s)
-export const collections = { projects, essays };
+export const collections = { essays, notes, projects };
