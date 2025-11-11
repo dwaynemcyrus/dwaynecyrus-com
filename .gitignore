@@ -1,5 +1,11 @@
 tmp/
 
+# content submodule
+src/content/_templates/
+src/content/.trash/
+src/content/.gitignore
+src/content/README.md
+
 # build output
 dist/
 # generated types
