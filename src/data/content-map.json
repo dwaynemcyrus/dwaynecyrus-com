@@ -1,0 +1,4529 @@
+[
+  {
+    "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+    "cuid": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+    "slug": "document-template",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/contact",
+    "cuid": null,
+    "slug": "process-1/contact",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/daily",
+    "cuid": null,
+    "slug": "process-1/daily",
+    "collection": "_templates",
+    "title": "daily",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-daily",
+    "cuid": null,
+    "slug": "process-1/template-daily",
+    "collection": "_templates",
+    "title": "template-daily",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-daily-1",
+    "cuid": null,
+    "slug": "process-1/template-daily-1",
+    "collection": "_templates",
+    "title": "template-daily-1",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-daily-2",
+    "cuid": null,
+    "slug": "process-1/template-daily-2",
+    "collection": "_templates",
+    "title": "template-daily-2",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-daily-xxx",
+    "cuid": null,
+    "slug": "process-1/template-daily-xxx",
+    "collection": "_templates",
+    "title": "template-daily-xxx",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-diary",
+    "cuid": null,
+    "slug": "process-1/template-diary",
+    "collection": "_templates",
+    "title": "template-diary",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-master",
+    "cuid": null,
+    "slug": "process-1/template-master",
+    "collection": "_templates",
+    "title": "template-master",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-master-1",
+    "cuid": null,
+    "slug": "process-1/template-master-1",
+    "collection": "_templates",
+    "title": "template-master-1",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-master-2",
+    "cuid": null,
+    "slug": "process-1/template-master-2",
+    "collection": "_templates",
+    "title": "template-master-2",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-monthly",
+    "cuid": null,
+    "slug": "process-1/template-monthly",
+    "collection": "_templates",
+    "title": "template-monthly",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-project",
+    "cuid": null,
+    "slug": "process-1/template-project",
+    "collection": "_templates",
+    "title": "template-project",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-1/template-quarterly",
+    "cuid": null,
+    "slug": "process-1/template-quarterly",
+    "collection": "_templates",
+    "title": "template-quarterly",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-3/day",
+    "cuid": null,
+    "slug": "process-3/day",
+    "collection": "_templates",
+    "title": "day",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-3/project-default",
+    "cuid": null,
+    "slug": "process-3/project-default",
+    "collection": "_templates",
+    "title": "project-default",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-3/template-offer-vehicle",
+    "cuid": null,
+    "slug": "process-3/template-offer-vehicle",
+    "collection": "_templates",
+    "title": "template-offer-vehicle",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "..."
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-base",
+    "cuid": null,
+    "slug": "process-4/template-base",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-day-old",
+    "cuid": null,
+    "slug": "process-4/template-day-old",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-projects",
+    "cuid": null,
+    "slug": "process-4/template-projects",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-sovereign",
+    "cuid": null,
+    "slug": "process-4/template-sovereign",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-weekly",
+    "cuid": null,
+    "slug": "process-4/template-weekly",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "WIR 14?? No.??"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-workshop",
+    "cuid": null,
+    "slug": "process-4/template-workshop",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-4/template-yearly",
+    "cuid": null,
+    "slug": "process-4/template-yearly",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "YIR 14??"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-5/template-letter",
+    "cuid": null,
+    "slug": "process-5/template-letter",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "_templates/process-5/template-video",
+    "cuid": null,
+    "slug": "process-5/template-video",
+    "collection": "_templates",
+    "title": "{{title}}",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/100m-leads-by-alex-harmozi",
+    "cuid": null,
+    "slug": "100m-leads-by-alex-harmozi",
+    "collection": "books",
+    "title": "100m-leads-by-alex-harmozi",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/100m-offers-by-alex-harmozi",
+    "cuid": null,
+    "slug": "100m-offers-by-alex-harmozi",
+    "collection": "books",
+    "title": "100m-offers-by-alex-harmozi",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/100m-offers-the-bonus-chapters-by-alex-hormozi",
+    "cuid": null,
+    "slug": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+    "collection": "books",
+    "title": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/100m-offers-the-lost-chapter-by-alex-hormozi",
+    "cuid": null,
+    "slug": "100m-offers-the-lost-chapter-by-alex-hormozi",
+    "collection": "books",
+    "title": "100m-offers-the-lost-chapter-by-alex-hormozi",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250215182714",
+    "cuid": "20250215182714",
+    "slug": "breaking-the-habit-of-being-yourself-by-joe-dispenza",
+    "collection": "books",
+    "title": "Breaking the Habit of Being Yourself",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/ebook-post-course-reference-guide",
+    "cuid": null,
+    "slug": "ebook-post-course-reference-guide",
+    "collection": "books",
+    "title": "ebook-post-course-reference-guide",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241023102846",
+    "cuid": "20241023102846",
+    "slug": "how-to-take-smart-notes-by-s-nke-ahrens",
+    "collection": "books",
+    "title": "How to Take Smart Notes",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241023111937",
+        "cuid": "20241023111937",
+        "title": "Sönke Ahrens 2017 - Smart Notes",
+        "slug": "s-nke-ahrens-2017-smart-notes",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/muslimah-rights-pdf",
+    "cuid": null,
+    "slug": "muslimah-rights-pdf",
+    "collection": "books",
+    "title": "muslimah-rights-pdf",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/snow-leopard-by",
+    "cuid": null,
+    "slug": "snow-leopard-by",
+    "collection": "books",
+    "title": "snow-leopard-by",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250215234038",
+    "cuid": "20250215234038",
+    "slug": "the-creative-act-by-rick-rubin",
+    "collection": "books",
+    "title": "The Creative Act",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+    "cuid": null,
+    "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+    "collection": "books",
+    "title": "draft-01-foundation-or-planning-1",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+    "cuid": null,
+    "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+    "collection": "books",
+    "title": "the-purpose-of-marriage-it-s-never-been-about-love",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+    "cuid": null,
+    "slug": "the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+    "collection": "books",
+    "title": "draft-01-investing-2-preparation",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+    "cuid": null,
+    "slug": "the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+    "collection": "books",
+    "title": "getting-ready-understanding-marriage-minded-men",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+    "collection": "books",
+    "title": "draft-01-ebook-positioning-for-a-husband",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+    "collection": "books",
+    "title": "draft-02-human-review",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+        "cuid": null,
+        "title": "draft-03-positioning-3",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+    "collection": "books",
+    "title": "draft-03-positioning-3",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+        "cuid": null,
+        "title": "draft-04-chatgpt",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+        "cuid": null,
+        "title": "draft-02-human-review",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+    "collection": "books",
+    "title": "draft-04-chatgpt",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+        "cuid": null,
+        "title": "draft-03-positioning-3",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+    "collection": "books",
+    "title": "draft-05",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+    "collection": "books",
+    "title": "draft-06-final-draft-review",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+    "collection": "books",
+    "title": "draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+        "cuid": null,
+        "title": "the-optional-chapter",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+    "collection": "books",
+    "title": "draft-08",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+    "collection": "books",
+    "title": "draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+    "collection": "books",
+    "title": "draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+    "collection": "books",
+    "title": "the-optional-chapter",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "cuid": null,
+        "title": "draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+    "collection": "books",
+    "title": "manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+    "collection": "books",
+    "title": "manuscript-the-hidden-wife-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+    "collection": "books",
+    "title": "marketing-the-book",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+    "collection": "books",
+    "title": "draft-01-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+    "collection": "books",
+    "title": "draft-02-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+    "collection": "books",
+    "title": "draft-03-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+    "collection": "books",
+    "title": "draft-04-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+    "collection": "books",
+    "title": "draft-05-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+    "collection": "books",
+    "title": "draft-06-the-unknown-wife-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+    "cuid": null,
+    "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+    "collection": "books",
+    "title": "draft-07-the-hidden-wife-workbook",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+    "cuid": null,
+    "slug": "the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+    "collection": "books",
+    "title": "dating-is-stupid-courtship-is-the-only-way-to-marriage",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+    "cuid": null,
+    "slug": "the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+    "collection": "books",
+    "title": "draft-01-courting-4",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+    "cuid": null,
+    "slug": "the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+    "collection": "books",
+    "title": "draft-01-the-four-pillars",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+    "cuid": null,
+    "slug": "the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+    "collection": "books",
+    "title": "the-four-pillars-the-foundation-for-a-functional-marriage",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/the-homebody-series-moc",
+    "cuid": null,
+    "slug": "the-homebody-series/the-homebody-series-moc",
+    "collection": "books",
+    "title": "the-homebody-series-moc",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+        "cuid": null,
+        "title": "the-purpose-of-marriage-it-s-never-been-about-love",
+        "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+        "cuid": null,
+        "title": "getting-ready-understanding-marriage-minded-men",
+        "slug": "the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "cuid": null,
+        "title": "draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+        "cuid": null,
+        "title": "draft-01-ebook-positioning-for-a-husband",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+        "cuid": null,
+        "title": "draft-02-human-review",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+        "cuid": null,
+        "title": "draft-03-positioning-3",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+        "cuid": null,
+        "title": "draft-04-chatgpt",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+        "cuid": null,
+        "title": "draft-05",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+        "cuid": null,
+        "title": "draft-06-final-draft-review",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+        "cuid": null,
+        "title": "marketing-the-book",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+        "cuid": null,
+        "title": "dating-is-stupid-courtship-is-the-only-way-to-marriage",
+        "slug": "the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+        "collection": "books",
+        "kind": "body"
+      },
+      {
+        "id": "books/the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+        "cuid": null,
+        "title": "the-four-pillars-the-foundation-for-a-functional-marriage",
+        "slug": "the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+        "collection": "books",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/the-homebody-series/the-homebody-series-overview",
+    "cuid": null,
+    "slug": "the-homebody-series/the-homebody-series-overview",
+    "collection": "books",
+    "title": "the-homebody-series-overview",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250301211643",
+    "cuid": "20250301211643",
+    "slug": "the-way-of-kings-by-brandon-sanderson",
+    "collection": "books",
+    "title": "The Way of Kings",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "books/think-and-grow-rich-by",
+    "cuid": null,
+    "slug": "think-and-grow-rich-by",
+    "collection": "books",
+    "title": "think-and-grow-rich-by",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241111091339",
+    "cuid": "20241111091339",
+    "slug": "a-walled-garden-cultivates-the-wife",
+    "collection": "essays",
+    "title": "A Walled Garden Cultivates the Wife",
+    "description": "",
+    "tags": [
+      "marriage",
+      "leadership",
+      "protection"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "resources"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113203048",
+        "cuid": "20251113203048",
+        "title": "Essay B Test",
+        "slug": "aessay-b",
+        "collection": "essays",
+        "kind": "body"
+      },
+      {
+        "id": "20251113202504",
+        "cuid": "20251113202504",
+        "title": "Essay C Test",
+        "slug": "aessay-c",
+        "collection": "essays",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20251113203756",
+    "cuid": "20251113203756",
+    "slug": "aessay-a",
+    "collection": "essays",
+    "title": "Essay A Test",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "Essay A"
+    ],
+    "outboundLinks": [
+      {
+        "id": "20251113203048",
+        "cuid": "20251113203048",
+        "title": "Essay B Test",
+        "slug": "aessay-b",
+        "collection": "essays",
+        "kind": "body"
+      },
+      {
+        "id": "20251113202504",
+        "cuid": "20251113202504",
+        "title": "Essay C Test",
+        "slug": "aessay-c",
+        "collection": "essays",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20251113203048",
+    "cuid": "20251113203048",
+    "slug": "aessay-b",
+    "collection": "essays",
+    "title": "Essay B Test",
+    "description": "",
+    "tags": [
+      "belief",
+      "testessay"
+    ],
+    "aliases": [
+      "Essay B"
+    ],
+    "outboundLinks": [
+      {
+        "id": "20241111091339",
+        "cuid": "20241111091339",
+        "title": "A Walled Garden Cultivates the Wife",
+        "slug": "a-walled-garden-cultivates-the-wife",
+        "collection": "essays",
+        "kind": "body"
+      },
+      {
+        "id": "20251113201318",
+        "cuid": "20251113201318",
+        "title": "Note One-B",
+        "slug": "anote-1b",
+        "collection": "notes",
+        "kind": "resources"
+      },
+      {
+        "id": "20251113201644",
+        "cuid": "20251113201644",
+        "title": "Note Two-B",
+        "slug": "anote-2b",
+        "collection": "notes",
+        "kind": "resources"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113203756",
+        "cuid": "20251113203756",
+        "title": "Essay A Test",
+        "slug": "aessay-a",
+        "collection": "essays",
+        "kind": "body"
+      },
+      {
+        "id": "20251113202504",
+        "cuid": "20251113202504",
+        "title": "Essay C Test",
+        "slug": "aessay-c",
+        "collection": "essays",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20251113202504",
+    "cuid": "20251113202504",
+    "slug": "aessay-c",
+    "collection": "essays",
+    "title": "Essay C Test",
+    "description": "",
+    "tags": [
+      "testessay"
+    ],
+    "aliases": [
+      "Essay C"
+    ],
+    "outboundLinks": [
+      {
+        "id": "20241111091339",
+        "cuid": "20241111091339",
+        "title": "A Walled Garden Cultivates the Wife",
+        "slug": "a-walled-garden-cultivates-the-wife",
+        "collection": "essays",
+        "kind": "body"
+      },
+      {
+        "id": "20251113203048",
+        "cuid": "20251113203048",
+        "title": "Essay B Test",
+        "slug": "aessay-b",
+        "collection": "essays",
+        "kind": "body"
+      },
+      {
+        "id": "20251113201522",
+        "cuid": "20251113201522",
+        "title": "Note One-C",
+        "slug": "anote-1c",
+        "collection": "notes",
+        "kind": "resources"
+      },
+      {
+        "id": "20251113201839",
+        "cuid": "20251113201839",
+        "title": "Note Two-C",
+        "slug": "anote-2c",
+        "collection": "notes",
+        "kind": "resources"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113203756",
+        "cuid": "20251113203756",
+        "title": "Essay A Test",
+        "slug": "aessay-a",
+        "collection": "essays",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/being-in-a-relationship-as-a-neurodivergent-person",
+    "cuid": null,
+    "slug": "being-in-a-relationship-as-a-neurodivergent-person",
+    "collection": "essays",
+    "title": "being-in-a-relationship-as-a-neurodivergent-person",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/building-self-worth-and-confidence",
+    "cuid": null,
+    "slug": "building-self-worth-and-confidence",
+    "collection": "essays",
+    "title": "building-self-worth-and-confidence",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/creating-a-fulfilling-life-beyond-trauma",
+    "cuid": null,
+    "slug": "creating-a-fulfilling-life-beyond-trauma",
+    "collection": "essays",
+    "title": "creating-a-fulfilling-life-beyond-trauma",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/developing-healthy-relationships",
+    "cuid": null,
+    "slug": "developing-healthy-relationships",
+    "collection": "essays",
+    "title": "developing-healthy-relationships",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/enhancing-emotional-intelligence",
+    "cuid": null,
+    "slug": "enhancing-emotional-intelligence",
+    "collection": "essays",
+    "title": "enhancing-emotional-intelligence",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/healing-emotional-wounds",
+    "cuid": null,
+    "slug": "healing-emotional-wounds",
+    "collection": "essays",
+    "title": "healing-emotional-wounds",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/the-burden-of-masculinity",
+    "cuid": null,
+    "slug": "the-burden-of-masculinity",
+    "collection": "essays",
+    "title": "the burden of masculinity",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/the-change-need-to-fix-the-male-development-space",
+    "cuid": null,
+    "slug": "the-change-need-to-fix-the-male-development-space",
+    "collection": "essays",
+    "title": "the-change-need-to-fix-the-male-development-space",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/the-ignored-trauma-of-men",
+    "cuid": null,
+    "slug": "the-ignored-trauma-of-men",
+    "collection": "essays",
+    "title": "the-ignored-trauma-of-men",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/the-problem-with-today-s-male-ladership-spaces",
+    "cuid": null,
+    "slug": "the-problem-with-today-s-male-ladership-spaces",
+    "collection": "essays",
+    "title": "the-problem-with-today-s-male-ladership-spaces",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/why-am-i-the-one-to-make-the-stand-for-men",
+    "cuid": null,
+    "slug": "why-am-i-the-one-to-make-the-stand-for-men",
+    "collection": "essays",
+    "title": "why-am-i-the-one-to-make-the-stand-for-men",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "essays/why-my-male-centered-content-needs-to-exist",
+    "cuid": null,
+    "slug": "why-my-male-centered-content-needs-to-exist",
+    "collection": "essays",
+    "title": "why-my-male-centered-content-needs-to-exist",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108163917",
+    "cuid": "20241108163917",
+    "slug": "always-give-the-exact-change-when-you-can",
+    "collection": "notes",
+    "title": "Always give the exact change when you can",
+    "description": "",
+    "tags": [
+      "switzerland",
+      "money",
+      "manners"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20251113140926",
+    "cuid": "20251113140926",
+    "slug": "anote-1a",
+    "collection": "notes",
+    "title": "Note One-A",
+    "description": "",
+    "tags": [
+      "test1"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20251113201318",
+        "cuid": "20251113201318",
+        "title": "Note One-B",
+        "slug": "anote-1b",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20251113201318",
+    "cuid": "20251113201318",
+    "slug": "anote-1b",
+    "collection": "notes",
+    "title": "Note One-B",
+    "description": "",
+    "tags": [
+      "test1"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20251113140926",
+        "cuid": "20251113140926",
+        "title": "Note One-A",
+        "slug": "anote-1a",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113203048",
+        "cuid": "20251113203048",
+        "title": "Essay B Test",
+        "slug": "aessay-b",
+        "collection": "essays",
+        "kind": "resources"
+      },
+      {
+        "id": "20251113201522",
+        "cuid": "20251113201522",
+        "title": "Note One-C",
+        "slug": "anote-1c",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20251113140926",
+        "cuid": "20251113140926",
+        "title": "Note One-A",
+        "slug": "anote-1a",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20251113201522",
+    "cuid": "20251113201522",
+    "slug": "anote-1c",
+    "collection": "notes",
+    "title": "Note One-C",
+    "description": "",
+    "tags": [
+      "test1"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20251113201318",
+        "cuid": "20251113201318",
+        "title": "Note One-B",
+        "slug": "anote-1b",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113202504",
+        "cuid": "20251113202504",
+        "title": "Essay C Test",
+        "slug": "aessay-c",
+        "collection": "essays",
+        "kind": "resources"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20251113201318",
+        "cuid": "20251113201318",
+        "title": "Note One-B",
+        "slug": "anote-1b",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20251113201624",
+    "cuid": "20251113201624",
+    "slug": "anote-2a",
+    "collection": "notes",
+    "title": "Note Two-A",
+    "description": "",
+    "tags": [
+      "test2"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20251113201644",
+        "cuid": "20251113201644",
+        "title": "Note Two-B",
+        "slug": "anote-2b",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20251113201644",
+    "cuid": "20251113201644",
+    "slug": "anote-2b",
+    "collection": "notes",
+    "title": "Note Two-B",
+    "description": "",
+    "tags": [
+      "test2"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20251113201624",
+        "cuid": "20251113201624",
+        "title": "Note Two-A",
+        "slug": "anote-2a",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113203048",
+        "cuid": "20251113203048",
+        "title": "Essay B Test",
+        "slug": "aessay-b",
+        "collection": "essays",
+        "kind": "resources"
+      },
+      {
+        "id": "20251113201839",
+        "cuid": "20251113201839",
+        "title": "Note Two-C",
+        "slug": "anote-2c",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20251113201624",
+        "cuid": "20251113201624",
+        "title": "Note Two-A",
+        "slug": "anote-2a",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20251113201839",
+    "cuid": "20251113201839",
+    "slug": "anote-2c",
+    "collection": "notes",
+    "title": "Note Two-C",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20251113201644",
+        "cuid": "20251113201644",
+        "title": "Note Two-B",
+        "slug": "anote-2b",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20251113202504",
+        "cuid": "20251113202504",
+        "title": "Essay C Test",
+        "slug": "aessay-c",
+        "collection": "essays",
+        "kind": "resources"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20251113201644",
+        "cuid": "20251113201644",
+        "title": "Note Two-B",
+        "slug": "anote-2b",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110172942",
+    "cuid": "20241110172942",
+    "slug": "become-the-reader-to-remove-creative-block",
+    "collection": "notes",
+    "title": "Become the reader to remove creative block",
+    "description": "",
+    "tags": [
+      "block",
+      "creativity",
+      "writing"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110081624",
+        "cuid": "20241110081624",
+        "title": "Teach others to expose the gaps in your knowledge",
+        "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108183655",
+    "cuid": "20241108183655",
+    "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+    "collection": "notes",
+    "title": "Build her a walled garden",
+    "description": "",
+    "tags": [
+      "garden",
+      "standards",
+      "boundaries",
+      "wife"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110152245",
+        "cuid": "20241110152245",
+        "title": "The tallest trees have the deepest roots",
+        "slug": "the-tallest-trees-have-the-deepest-roots",
+        "collection": "quotes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241111091339",
+        "cuid": "20241111091339",
+        "title": "A Walled Garden Cultivates the Wife",
+        "slug": "a-walled-garden-cultivates-the-wife",
+        "collection": "essays",
+        "kind": "resources"
+      },
+      {
+        "id": "20241110083059",
+        "cuid": "20241110083059",
+        "title": "Tags are meant to spark connections between your writings",
+        "slug": "tags-are-meant-to-spark-connections-between-your-written-thoughts",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108181156",
+        "cuid": "20241108181156",
+        "title": "Women are under constant threat and as a man you must be their shield",
+        "slug": "women-are-under-constant-threat-and-as-a-man-you-must-be-their-shield",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110152245",
+        "cuid": "20241110152245",
+        "title": "The tallest trees have the deepest roots",
+        "slug": "the-tallest-trees-have-the-deepest-roots",
+        "collection": "quotes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110150913",
+    "cuid": "20241110150913",
+    "slug": "digital-organization-of-your-notes-is-a-necessary-tool-for-creative-output",
+    "collection": "notes",
+    "title": "Digital organization of your notes is a necessary tool for creative output",
+    "description": "",
+    "tags": [
+      "writing",
+      "organization",
+      "tools",
+      "digital",
+      "creativity"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110083059",
+        "cuid": "20241110083059",
+        "title": "Tags are meant to spark connections between your writings",
+        "slug": "tags-are-meant-to-spark-connections-between-your-written-thoughts",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241110153301",
+    "cuid": "20241110153301",
+    "slug": "do-not-be-mysterious-and-vague-with-your-words",
+    "collection": "notes",
+    "title": "Do not be mysterious and vague with your words",
+    "description": "",
+    "tags": [
+      "attention",
+      "confusion",
+      "expectations"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110175056",
+        "cuid": "20241110175056",
+        "title": "The conclusion is your last impression",
+        "slug": "the-conclusion-is-your-last-impression",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110152719",
+        "cuid": "20241110152719",
+        "title": "Emotional language captures attention",
+        "slug": "emotional-language-captures-attention",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241110175056",
+        "cuid": "20241110175056",
+        "title": "The conclusion is your last impression",
+        "slug": "the-conclusion-is-your-last-impression",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110152719",
+    "cuid": "20241110152719",
+    "slug": "emotional-language-captures-attention",
+    "collection": "notes",
+    "title": "Emotional language captures attention",
+    "description": "",
+    "tags": [
+      "attention",
+      "emotions",
+      "language",
+      "words",
+      "connection",
+      "humans"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "slug": "men-want-women-who-are-childlike",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241108152421",
+        "cuid": "20241108152421",
+        "title": "Profess Protect Provide",
+        "slug": "man-must-profess-protect-and-provide-for-his-women",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "slug": "men-want-women-who-are-childlike",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241024113422",
+    "cuid": "20241024113422",
+    "slug": "fundamental-weakness-of-manhood-is-sexual-desire",
+    "collection": "notes",
+    "title": "Fundamental weakness of manhood is sexual desire",
+    "description": "",
+    "tags": [
+      "manhood",
+      "sex",
+      "weakness"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "slug": "men-want-women-who-are-childlike",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "slug": "men-want-women-who-are-childlike",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241108152421",
+    "cuid": "20241108152421",
+    "slug": "man-must-profess-protect-and-provide-for-his-women",
+    "collection": "notes",
+    "title": "Profess Protect Provide",
+    "description": "",
+    "tags": [
+      "trust",
+      "women",
+      "men",
+      "responsibility"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110152719",
+        "cuid": "20241110152719",
+        "title": "Emotional language captures attention",
+        "slug": "emotional-language-captures-attention",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "slug": "men-want-women-who-are-childlike",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241110152719",
+        "cuid": "20241110152719",
+        "title": "Emotional language captures attention",
+        "slug": "emotional-language-captures-attention",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "slug": "men-want-women-who-are-childlike",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110195140",
+    "cuid": "20241110195140",
+    "slug": "match-the-story-to-the-idea-you-want-to-express",
+    "collection": "notes",
+    "title": "Match the story to the idea you want to express",
+    "description": "",
+    "tags": [
+      "storytelling",
+      "communication"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110084222",
+        "cuid": "20241110084222",
+        "title": "When writing mini essays restrict it to one single idea",
+        "slug": "when-writing-mini-essays-restrict-it-to-one-single-idea",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108151742",
+    "cuid": "20241108151742",
+    "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+    "collection": "notes",
+    "title": "Men fail to set standards and in turn have no boundaries",
+    "description": "",
+    "tags": [
+      "women",
+      "manhood",
+      "boundaries",
+      "standards",
+      "leadership"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241108163917",
+        "cuid": "20241108163917",
+        "title": "Always give the exact change when you can",
+        "slug": "always-give-the-exact-change-when-you-can",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241024113422",
+        "cuid": "20241024113422",
+        "title": "Fundamental weakness of manhood is sexual desire",
+        "slug": "fundamental-weakness-of-manhood-is-sexual-desire",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108224645",
+        "cuid": "20241108224645",
+        "title": "Vetting a woman with kids",
+        "slug": "vetting-a-woman-with-kids-is-simple",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108151215",
+        "cuid": "20241108151215",
+        "title": "Women set standards and struggle to maintain boundaries",
+        "slug": "women-set-standards-and-struggle-to-maintain-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241024234138",
+    "cuid": "20241024234138",
+    "slug": "men-seek-to-experience-comfort-more-than-women",
+    "collection": "notes",
+    "title": "Men seek to experience comfort more than women",
+    "description": "",
+    "tags": [
+      "manhood",
+      "womanhood",
+      "risk",
+      "comfort",
+      "desire"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "persons/souen-ursule-cyrus",
+        "cuid": null,
+        "title": "souen-ursule-cyrus",
+        "slug": "souen-ursule-cyrus",
+        "collection": "persons",
+        "kind": "source"
+      },
+      {
+        "id": "20241108143911",
+        "cuid": "20241108143911",
+        "title": "Kill the boy let the man be born",
+        "slug": "kill-the-boy-let-the-man-be-born",
+        "collection": "quotes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108143911",
+        "cuid": "20241108143911",
+        "title": "Kill the boy let the man be born",
+        "slug": "kill-the-boy-let-the-man-be-born",
+        "collection": "quotes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241209102640",
+    "cuid": "20241209102640",
+    "slug": "men-want-women-who-are-childlike",
+    "collection": "notes",
+    "title": "Men want women who are childlike",
+    "description": "",
+    "tags": [
+      "women",
+      "character",
+      "men",
+      "marriage",
+      "triggers",
+      "desire"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241110152719",
+        "cuid": "20241110152719",
+        "title": "Emotional language captures attention",
+        "slug": "emotional-language-captures-attention",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241024113422",
+        "cuid": "20241024113422",
+        "title": "Fundamental weakness of manhood is sexual desire",
+        "slug": "fundamental-weakness-of-manhood-is-sexual-desire",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108152421",
+        "cuid": "20241108152421",
+        "title": "Profess Protect Provide",
+        "slug": "man-must-profess-protect-and-provide-for-his-women",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108190055",
+    "cuid": "20241108190055",
+    "slug": "rough-human-beings-around-children",
+    "collection": "notes",
+    "title": "Rough human beings around children",
+    "description": "",
+    "tags": [
+      "children",
+      "switzerland",
+      "walking",
+      "biking"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108173042",
+    "cuid": "20241108173042",
+    "slug": "sex-to-keep-your-man-is-stupid",
+    "collection": "notes",
+    "title": "Sex to “keep” your man is stupid.",
+    "description": "",
+    "tags": [
+      "sex",
+      "marriage",
+      "dating"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108143911",
+        "cuid": "20241108143911",
+        "title": "Kill the boy let the man be born",
+        "slug": "kill-the-boy-let-the-man-be-born",
+        "collection": "quotes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108143911",
+        "cuid": "20241108143911",
+        "title": "Kill the boy let the man be born",
+        "slug": "kill-the-boy-let-the-man-be-born",
+        "collection": "quotes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110193914",
+    "cuid": "20241110193914",
+    "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+    "collection": "notes",
+    "title": "Stories are powerful vehicles to drive ideas home",
+    "description": "",
+    "tags": [
+      "ideas",
+      "vehicles",
+      "experiences",
+      "storytelling"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110195140",
+        "cuid": "20241110195140",
+        "title": "Match the story to the idea you want to express",
+        "slug": "match-the-story-to-the-idea-you-want-to-express",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110152719",
+        "cuid": "20241110152719",
+        "title": "Emotional language captures attention",
+        "slug": "emotional-language-captures-attention",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110081624",
+        "cuid": "20241110081624",
+        "title": "Teach others to expose the gaps in your knowledge",
+        "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241110195140",
+        "cuid": "20241110195140",
+        "title": "Match the story to the idea you want to express",
+        "slug": "match-the-story-to-the-idea-you-want-to-express",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110083059",
+    "cuid": "20241110083059",
+    "slug": "tags-are-meant-to-spark-connections-between-your-written-thoughts",
+    "collection": "notes",
+    "title": "Tags are meant to spark connections between your writings",
+    "description": "",
+    "tags": [
+      "tags",
+      "writing",
+      "connection",
+      "obsidian"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108235922",
+        "cuid": "20241108235922",
+        "title": "Odysseas",
+        "slug": "odysseas-2024-mini-essays",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110150913",
+        "cuid": "20241110150913",
+        "title": "Digital organization of your notes is a necessary tool for creative output",
+        "slug": "digital-organization-of-your-notes-is-a-necessary-tool-for-creative-output",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110081624",
+        "cuid": "20241110081624",
+        "title": "Teach others to expose the gaps in your knowledge",
+        "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241110150913",
+        "cuid": "20241110150913",
+        "title": "Digital organization of your notes is a necessary tool for creative output",
+        "slug": "digital-organization-of-your-notes-is-a-necessary-tool-for-creative-output",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110081624",
+    "cuid": "20241110081624",
+    "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+    "collection": "notes",
+    "title": "Teach others to expose the gaps in your knowledge",
+    "description": "",
+    "tags": [
+      "teaching",
+      "writing",
+      "essays"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108235922",
+        "cuid": "20241108235922",
+        "title": "Odysseas",
+        "slug": "odysseas-2024-mini-essays",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110172942",
+        "cuid": "20241110172942",
+        "title": "Become the reader to remove creative block",
+        "slug": "become-the-reader-to-remove-creative-block",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110083059",
+        "cuid": "20241110083059",
+        "title": "Tags are meant to spark connections between your writings",
+        "slug": "tags-are-meant-to-spark-connections-between-your-written-thoughts",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110084739",
+        "cuid": "20241110084739",
+        "title": "Writing with the intention for skill development",
+        "slug": "writing-with-the-intention-for-skill-development",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": [
+      {
+        "id": "20241110172942",
+        "cuid": "20241110172942",
+        "title": "Become the reader to remove creative block",
+        "slug": "become-the-reader-to-remove-creative-block",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241110083059",
+        "cuid": "20241110083059",
+        "title": "Tags are meant to spark connections between your writings",
+        "slug": "tags-are-meant-to-spark-connections-between-your-written-thoughts",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110091822",
+    "cuid": "20241110091822",
+    "slug": "the-best-size-to-mimic-hand-written-slip-notes-for-zettlekasten",
+    "collection": "notes",
+    "title": "The best size to mimic hand written slip notes for Zettlekasten",
+    "description": "",
+    "tags": [
+      "notes",
+      "writing",
+      "zettlekasten"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241023111937",
+        "cuid": "20241023111937",
+        "title": "Sönke Ahrens 2017 - Smart Notes",
+        "slug": "s-nke-ahrens-2017-smart-notes",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241110175056",
+    "cuid": "20241110175056",
+    "slug": "the-conclusion-is-your-last-impression",
+    "collection": "notes",
+    "title": "The conclusion is your last impression",
+    "description": "",
+    "tags": [
+      "impressions",
+      "impact"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241024235705",
+    "cuid": "20241024235705",
+    "slug": "the-necessary-alignment-of-belief-focus-and-action",
+    "collection": "notes",
+    "title": "WoW an acronym for walk on water",
+    "description": "",
+    "tags": [
+      "walk",
+      "water",
+      "bible",
+      "belief",
+      "faith"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108224645",
+    "cuid": "20241108224645",
+    "slug": "vetting-a-woman-with-kids-is-simple",
+    "collection": "notes",
+    "title": "Vetting a woman with kids",
+    "description": "",
+    "tags": [
+      "vetting",
+      "women",
+      "children",
+      "marriage",
+      "standards"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110084222",
+    "cuid": "20241110084222",
+    "slug": "when-writing-mini-essays-restrict-it-to-one-single-idea",
+    "collection": "notes",
+    "title": "When writing mini essays restrict it to one single idea",
+    "description": "",
+    "tags": [
+      "essays",
+      "writing",
+      "thinking"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108235922",
+        "cuid": "20241108235922",
+        "title": "Odysseas",
+        "slug": "odysseas-2024-mini-essays",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110195140",
+        "cuid": "20241110195140",
+        "title": "Match the story to the idea you want to express",
+        "slug": "match-the-story-to-the-idea-you-want-to-express",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241110195140",
+        "cuid": "20241110195140",
+        "title": "Match the story to the idea you want to express",
+        "slug": "match-the-story-to-the-idea-you-want-to-express",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241108181156",
+    "cuid": "20241108181156",
+    "slug": "women-are-under-constant-threat-and-as-a-man-you-must-be-their-shield",
+    "collection": "notes",
+    "title": "Women are under constant threat and as a man you must be their shield",
+    "description": "",
+    "tags": [
+      "protection",
+      "responsibility",
+      "women",
+      "men",
+      "enemies"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241108151215",
+    "cuid": "20241108151215",
+    "slug": "women-set-standards-and-struggle-to-maintain-boundaries",
+    "collection": "notes",
+    "title": "Women set standards and struggle to maintain boundaries",
+    "description": "",
+    "tags": [
+      "women",
+      "dating",
+      "standards",
+      "boundaries"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241108151742",
+        "cuid": "20241108151742",
+        "title": "Men fail to set standards and in turn have no boundaries",
+        "slug": "men-fail-to-set-standards-and-in-turn-have-no-boundaries",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "20241110084739",
+    "cuid": "20241110084739",
+    "slug": "writing-with-the-intention-for-skill-development",
+    "collection": "notes",
+    "title": "Writing with the intention for skill development",
+    "description": "",
+    "tags": [
+      "writing",
+      "skills",
+      "practice"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108235922",
+        "cuid": "20241108235922",
+        "title": "Odysseas",
+        "slug": "odysseas-2024-mini-essays",
+        "collection": "references",
+        "kind": "source"
+      },
+      {
+        "id": "20241110081624",
+        "cuid": "20241110081624",
+        "title": "Teach others to expose the gaps in your knowledge",
+        "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": [
+      {
+        "id": "20241110081624",
+        "cuid": "20241110081624",
+        "title": "Teach others to expose the gaps in your knowledge",
+        "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ]
+  },
+  {
+    "id": "pages/about",
+    "cuid": null,
+    "slug": "about",
+    "collection": "pages",
+    "title": "About",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/contact",
+    "cuid": null,
+    "slug": "contact",
+    "collection": "pages",
+    "title": "contact",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/essays",
+    "cuid": null,
+    "slug": "essays",
+    "collection": "pages",
+    "title": "Essays",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/home",
+    "cuid": null,
+    "slug": "home",
+    "collection": "pages",
+    "title": "Home",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/loe-subscriber-offer",
+    "cuid": null,
+    "slug": "loe-subscriber-offer",
+    "collection": "pages",
+    "title": "Subscription Success",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/loe-subscriber-reminder",
+    "cuid": null,
+    "slug": "loe-subscriber-reminder",
+    "collection": "pages",
+    "title": "Subscription Reminder",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/mocs",
+    "cuid": null,
+    "slug": "mocs",
+    "collection": "pages",
+    "title": "Maps of Content",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "pages/notes",
+        "cuid": null,
+        "title": "Notes",
+        "slug": "notes",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "pages/notes",
+        "cuid": null,
+        "title": "Notes",
+        "slug": "notes",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/notes",
+    "cuid": null,
+    "slug": "notes",
+    "collection": "pages",
+    "title": "Notes",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "pages/mocs",
+        "cuid": null,
+        "title": "Maps of Content",
+        "slug": "mocs",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "pages/mocs",
+        "cuid": null,
+        "title": "Maps of Content",
+        "slug": "mocs",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/roadmap",
+    "cuid": null,
+    "slug": "roadmap",
+    "collection": "pages",
+    "title": "Website Roadmap",
+    "description": "Technical development roadmap for ongoing and upcoming improvements to the website.",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/service",
+    "cuid": null,
+    "slug": "service",
+    "collection": "pages",
+    "title": "Service",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "pages/waitlist",
+        "cuid": null,
+        "title": "Waitlist",
+        "slug": "waitlist",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "pages/voyagers",
+        "cuid": null,
+        "title": "Voyager’s Harbour",
+        "slug": "voyagers",
+        "collection": "pages",
+        "kind": "body"
+      },
+      {
+        "id": "pages/waitlist",
+        "cuid": null,
+        "title": "Waitlist",
+        "slug": "waitlist",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/staff",
+    "cuid": null,
+    "slug": "staff",
+    "collection": "pages",
+    "title": "Staff",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "home",
+    "cuid": "home",
+    "slug": "test",
+    "collection": "pages",
+    "title": "test",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/voyagers",
+    "cuid": null,
+    "slug": "voyagers",
+    "collection": "pages",
+    "title": "Voyager’s Harbour",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "pages/waitlist",
+        "cuid": null,
+        "title": "Waitlist",
+        "slug": "waitlist",
+        "collection": "pages",
+        "kind": "body"
+      },
+      {
+        "id": "pages/service",
+        "cuid": null,
+        "title": "Service",
+        "slug": "service",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "pages/waitlist",
+    "cuid": null,
+    "slug": "waitlist",
+    "collection": "pages",
+    "title": "Waitlist",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "pages/service",
+        "cuid": null,
+        "title": "Service",
+        "slug": "service",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "pages/service",
+        "cuid": null,
+        "title": "Service",
+        "slug": "service",
+        "collection": "pages",
+        "kind": "body"
+      },
+      {
+        "id": "pages/voyagers",
+        "cuid": null,
+        "title": "Voyager’s Harbour",
+        "slug": "voyagers",
+        "collection": "pages",
+        "kind": "body"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/alan-watts",
+    "cuid": null,
+    "slug": "alan-watts",
+    "collection": "persons",
+    "title": "alan-watts",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/alan-watts-2",
+    "cuid": null,
+    "slug": "alan-watts-2",
+    "collection": "persons",
+    "title": "alan-watts-2",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/austin-kleon",
+    "cuid": null,
+    "slug": "austin-kleon",
+    "collection": "persons",
+    "title": "austin-kleon",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/bessel-van-der-kolk",
+    "cuid": null,
+    "slug": "bessel-van-der-kolk",
+    "collection": "persons",
+    "title": "bessel-van-der-kolk",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "Dr. Bessel van der Kolk"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/bren-brown",
+    "cuid": null,
+    "slug": "bren-brown",
+    "collection": "persons",
+    "title": "bren-brown",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/charlie-munger",
+    "cuid": null,
+    "slug": "charlie-munger",
+    "collection": "persons",
+    "title": "charlie-munger",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/dale-carnegie",
+    "cuid": null,
+    "slug": "dale-carnegie",
+    "collection": "persons",
+    "title": "dale-carnegie",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/elizabeth-gilbert",
+    "cuid": null,
+    "slug": "elizabeth-gilbert",
+    "collection": "persons",
+    "title": "elizabeth-gilbert",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/esther-perel",
+    "cuid": null,
+    "slug": "esther-perel",
+    "collection": "persons",
+    "title": "esther-perel",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/gabor-mat",
+    "cuid": null,
+    "slug": "gabor-mat",
+    "collection": "persons",
+    "title": "gabor-mat",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "Dr. Gabor Maté"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/hassan-clay",
+    "cuid": null,
+    "slug": "hassan-clay",
+    "collection": "persons",
+    "title": "hassan-clay",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/james-allen",
+    "cuid": null,
+    "slug": "james-allen",
+    "collection": "persons",
+    "title": "james-allen",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/james-clear",
+    "cuid": null,
+    "slug": "james-clear",
+    "collection": "persons",
+    "title": "james-clear",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/john-gottman",
+    "cuid": null,
+    "slug": "john-gottman",
+    "collection": "persons",
+    "title": "john-gottman",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "Dr. John Gottman"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/marie-forleo",
+    "cuid": null,
+    "slug": "marie-forleo",
+    "collection": "persons",
+    "title": "marie-forleo",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/mike-nisbett",
+    "cuid": null,
+    "slug": "mike-nisbett",
+    "collection": "persons",
+    "title": "mike-nisbett",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/peter-a-levine",
+    "cuid": null,
+    "slug": "peter-a-levine",
+    "collection": "persons",
+    "title": "peter-a-levine",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/robert-greene",
+    "cuid": null,
+    "slug": "robert-greene",
+    "collection": "persons",
+    "title": "robert-greene",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/s-nke-ahrens",
+    "cuid": null,
+    "slug": "s-nke-ahrens",
+    "collection": "persons",
+    "title": "s-nke-ahrens",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/shane-parrish",
+    "cuid": null,
+    "slug": "shane-parrish",
+    "collection": "persons",
+    "title": "shane-parrish",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/simon-sinek",
+    "cuid": null,
+    "slug": "simon-sinek",
+    "collection": "persons",
+    "title": "simon-sinek",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/souen-ursule-cyrus",
+    "cuid": null,
+    "slug": "souen-ursule-cyrus",
+    "collection": "persons",
+    "title": "souen-ursule-cyrus",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241024234138",
+        "cuid": "20241024234138",
+        "title": "Men seek to experience comfort more than women",
+        "slug": "men-seek-to-experience-comfort-more-than-women",
+        "collection": "notes",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/sue-johnson",
+    "cuid": null,
+    "slug": "sue-johnson",
+    "collection": "persons",
+    "title": "sue-johnson",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "Dr. Sue Johnson"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "persons/tony-robbins",
+    "cuid": null,
+    "slug": "tony-robbins",
+    "collection": "persons",
+    "title": "tony-robbins",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250302093919",
+    "cuid": "20250302093919",
+    "slug": "how-to-build-an-online-community-jay-clouse",
+    "collection": "podcasts",
+    "title": "How to Build an Online Community - Jay Clouse",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20250402093821",
+        "cuid": "20250402093821",
+        "title": "Ali Abdaal 2024 - Build an Online Community",
+        "slug": "ali-abdaal-2024-build-an-online-community",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/data-viz-dashboard",
+    "cuid": null,
+    "slug": "data-viz-dashboard",
+    "collection": "projects",
+    "title": "Data Visualization Dashboard",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/mini-lims",
+    "cuid": null,
+    "slug": "mini-lims",
+    "collection": "projects",
+    "title": "Mini LIMS — Laboratory Information Prototype",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/personal-knowledge-hub",
+    "cuid": null,
+    "slug": "personal-knowledge-hub",
+    "collection": "projects",
+    "title": "Personal Knowledge Hub",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/scriptorium",
+    "cuid": null,
+    "slug": "scriptorium",
+    "collection": "projects",
+    "title": "Scriptorium — The Second Brain Editor",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/thunder-recall",
+    "cuid": null,
+    "slug": "thunder-recall",
+    "collection": "projects",
+    "title": "Thunder Recall — The Memory Engine",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/ui-library",
+    "cuid": null,
+    "slug": "ui-library",
+    "collection": "projects",
+    "title": "Interactive UI System Library",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "projects/voyager-os",
+    "cuid": null,
+    "slug": "voyager-os",
+    "collection": "projects",
+    "title": "Voyager OS (V-OS)",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108154310",
+    "cuid": "20241108154310",
+    "slug": "if-i-fail-it-is-only-because-i-have-too-much-pride-and-ambition",
+    "collection": "quotes",
+    "title": "If I fail it is only because I have too much pride and ambition",
+    "description": "",
+    "tags": [
+      "pride",
+      "ambition",
+      "failure"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108162151",
+    "cuid": "20241108162151",
+    "slug": "if-you-are-asked-to-be-the-hero-be-the-hero",
+    "collection": "quotes",
+    "title": "If you are asked to be the hero be the hero",
+    "description": "",
+    "tags": [
+      "heroism"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20250314004100",
+        "cuid": "20250314004100",
+        "title": "The Walking Dead 2010 - Season 8",
+        "slug": "the-walking-dead-2010-season-8",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108143911",
+    "cuid": "20241108143911",
+    "slug": "kill-the-boy-let-the-man-be-born",
+    "collection": "quotes",
+    "title": "Kill the boy let the man be born",
+    "description": "",
+    "tags": [
+      "boy",
+      "manhood",
+      "kill",
+      "birth"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20250402091639",
+        "cuid": "20250402091639",
+        "title": "Game of Thrones 2011 - Season 5",
+        "slug": "game-of-thrones-2011-season-5",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241024234138",
+        "cuid": "20241024234138",
+        "title": "Men seek to experience comfort more than women",
+        "slug": "men-seek-to-experience-comfort-more-than-women",
+        "collection": "notes",
+        "kind": "chains"
+      },
+      {
+        "id": "20241108173042",
+        "cuid": "20241108173042",
+        "title": "Sex to “keep” your man is stupid.",
+        "slug": "sex-to-keep-your-man-is-stupid",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108161826",
+    "cuid": "20241108161826",
+    "slug": "the-impact-of-what-you-are-thinking-is-what-is-judged",
+    "collection": "quotes",
+    "title": "The impact of what you are thinking is what is judged",
+    "description": "",
+    "tags": [
+      "judgement",
+      "thinking",
+      "impact"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241209133153",
+    "cuid": "20241209133153",
+    "slug": "the-last-tree-the-last-fish-the-last-river",
+    "collection": "quotes",
+    "title": "The last tree the last fish the last river",
+    "description": "",
+    "tags": [
+      "trees",
+      "fish",
+      "river",
+      "manhood",
+      "money",
+      "european",
+      "nature"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241110152245",
+    "cuid": "20241110152245",
+    "slug": "the-tallest-trees-have-the-deepest-roots",
+    "collection": "quotes",
+    "title": "The tallest trees have the deepest roots",
+    "description": "",
+    "tags": [
+      "trees",
+      "roots"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241108183655",
+        "cuid": "20241108183655",
+        "title": "Build her a walled garden",
+        "slug": "build-her-a-walled-garden-for-her-growth-and-safety",
+        "collection": "notes",
+        "kind": "chains"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108160044",
+    "cuid": "20241108160044",
+    "slug": "thought-is-mastery-calmness-is-power",
+    "collection": "quotes",
+    "title": "Thought is mastery, calmness is power",
+    "description": "",
+    "tags": [
+      "mastery",
+      "thought",
+      "power",
+      "calmness"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241110085057",
+    "cuid": "20241110085057",
+    "slug": "use-your-weaknesses-to-drive-your-strengths",
+    "collection": "quotes",
+    "title": "Use your weaknesses to drive your strengths",
+    "description": "",
+    "tags": [
+      "weakness",
+      "strength"
+    ],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20250314004100",
+        "cuid": "20250314004100",
+        "title": "The Walking Dead 2010 - Season 8",
+        "slug": "the-walking-dead-2010-season-8",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108161155",
+    "cuid": "20241108161155",
+    "slug": "wealth-is-how-long-can-you-go-without-working",
+    "collection": "quotes",
+    "title": "Wealth is how long can you go without working",
+    "description": "",
+    "tags": [
+      "wealth",
+      "working"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108191138",
+    "cuid": "20241108191138",
+    "slug": "you-do-and-you-are-what-he-thinks-of-you-fathers-to-daughters",
+    "collection": "quotes",
+    "title": "You do and you are what he thinks of you — fathers to daughters",
+    "description": "",
+    "tags": [
+      "daughters",
+      "fathers"
+    ],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241216124803",
+    "cuid": "20241216124803",
+    "slug": "10-000hrs-2024-art-with-spaced-repetition",
+    "collection": "references",
+    "title": "10,000hrs 2024 - Art with Spaced Repetition",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241216124905",
+        "cuid": "20241216124905",
+        "title": "Improve Your Art With Spaced Repitition - the ultimate step-by-step guide",
+        "slug": "improve-your-art-with-spaced-repitition-the-ultimate-step-by-step-guide",
+        "collection": "videos",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250402093821",
+    "cuid": "20250402093821",
+    "slug": "ali-abdaal-2024-build-an-online-community",
+    "collection": "references",
+    "title": "Ali Abdaal 2024 - Build an Online Community",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20250302093919",
+        "cuid": "20250302093919",
+        "title": "How to Build an Online Community - Jay Clouse",
+        "slug": "how-to-build-an-online-community-jay-clouse",
+        "collection": "podcasts",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "references/brian-p-moran-2013-the-12-week-year",
+    "cuid": null,
+    "slug": "brian-p-moran-2013-the-12-week-year",
+    "collection": "references",
+    "title": "brian-p-moran-2013-the-12-week-year",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250402091639",
+    "cuid": "20250402091639",
+    "slug": "game-of-thrones-2011-season-5",
+    "collection": "references",
+    "title": "Game of Thrones 2011 - Season 5",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241108143911",
+        "cuid": "20241108143911",
+        "title": "Kill the boy let the man be born",
+        "slug": "kill-the-boy-let-the-man-be-born",
+        "collection": "quotes",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241110140031",
+    "cuid": "20241110140031",
+    "slug": "odysseas-2024-how-to-mini-essay",
+    "collection": "references",
+    "title": "Odysseas 2024 - How to Mini-Essay",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241110135020",
+        "cuid": "20241110135020",
+        "title": "How to Write a Mini-Essay",
+        "slug": "how-to-write-a-mini-essay-by-odysseas",
+        "collection": "videos",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110172942",
+        "cuid": "20241110172942",
+        "title": "Become the reader to remove creative block",
+        "slug": "become-the-reader-to-remove-creative-block",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110150913",
+        "cuid": "20241110150913",
+        "title": "Digital organization of your notes is a necessary tool for creative output",
+        "slug": "digital-organization-of-your-notes-is-a-necessary-tool-for-creative-output",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110153301",
+        "cuid": "20241110153301",
+        "title": "Do not be mysterious and vague with your words",
+        "slug": "do-not-be-mysterious-and-vague-with-your-words",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110152719",
+        "cuid": "20241110152719",
+        "title": "Emotional language captures attention",
+        "slug": "emotional-language-captures-attention",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110193914",
+        "cuid": "20241110193914",
+        "title": "Stories are powerful vehicles to drive ideas home",
+        "slug": "stories-are-powerful-vehicles-to-drive-ideas-home",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110175056",
+        "cuid": "20241110175056",
+        "title": "The conclusion is your last impression",
+        "slug": "the-conclusion-is-your-last-impression",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110152245",
+        "cuid": "20241110152245",
+        "title": "The tallest trees have the deepest roots",
+        "slug": "the-tallest-trees-have-the-deepest-roots",
+        "collection": "quotes",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108235922",
+    "cuid": "20241108235922",
+    "slug": "odysseas-2024-mini-essays",
+    "collection": "references",
+    "title": "Odysseas",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241108225900",
+        "cuid": "20241108225900",
+        "title": "Mini Essays",
+        "slug": "mini-essays-the-ultimate-learning-tool-by-odysseas",
+        "collection": "videos",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110083059",
+        "cuid": "20241110083059",
+        "title": "Tags are meant to spark connections between your writings",
+        "slug": "tags-are-meant-to-spark-connections-between-your-written-thoughts",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110081624",
+        "cuid": "20241110081624",
+        "title": "Teach others to expose the gaps in your knowledge",
+        "slug": "teach-others-in-order-to-expose-the-gaps-in-your-knowledge",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110084222",
+        "cuid": "20241110084222",
+        "title": "When writing mini essays restrict it to one single idea",
+        "slug": "when-writing-mini-essays-restrict-it-to-one-single-idea",
+        "collection": "notes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110084739",
+        "cuid": "20241110084739",
+        "title": "Writing with the intention for skill development",
+        "slug": "writing-with-the-intention-for-skill-development",
+        "collection": "notes",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241023111937",
+    "cuid": "20241023111937",
+    "slug": "s-nke-ahrens-2017-smart-notes",
+    "collection": "references",
+    "title": "Sönke Ahrens 2017 - Smart Notes",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [
+      {
+        "id": "20241023102846",
+        "cuid": "20241023102846",
+        "title": "How to Take Smart Notes",
+        "slug": "how-to-take-smart-notes-by-s-nke-ahrens",
+        "collection": "books",
+        "kind": "source"
+      }
+    ],
+    "inboundLinks": [
+      {
+        "id": "20241110091822",
+        "cuid": "20241110091822",
+        "title": "The best size to mimic hand written slip notes for Zettlekasten",
+        "slug": "the-best-size-to-mimic-hand-written-slip-notes-for-zettlekasten",
+        "collection": "notes",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20250314004100",
+    "cuid": "20250314004100",
+    "slug": "the-walking-dead-2010-season-8",
+    "collection": "references",
+    "title": "The Walking Dead 2010 - Season 8",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241108162151",
+        "cuid": "20241108162151",
+        "title": "If you are asked to be the hero be the hero",
+        "slug": "if-you-are-asked-to-be-the-hero-be-the-hero",
+        "collection": "quotes",
+        "kind": "source"
+      },
+      {
+        "id": "20241110085057",
+        "cuid": "20241110085057",
+        "title": "Use your weaknesses to drive your strengths",
+        "slug": "use-your-weaknesses-to-drive-your-strengths",
+        "collection": "quotes",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/10-most-profitable-niches-for-freelance-copywriting-in-2021",
+    "cuid": null,
+    "slug": "10-most-profitable-niches-for-freelance-copywriting-in-2021",
+    "collection": "videos",
+    "title": "10 Most Profitable Niches for Freelance Copywriting in 2021",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/13-000-in-a-month-the-digital-product-money-making-blueprint",
+    "cuid": null,
+    "slug": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+    "collection": "videos",
+    "title": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/how-i-use-maps-of-content-mocs",
+    "cuid": null,
+    "slug": "how-i-use-maps-of-content-mocs",
+    "collection": "videos",
+    "title": "How I Use Maps Of Content (MOCs)",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/how-i-use-tags-in-obsidian",
+    "cuid": null,
+    "slug": "how-i-use-tags-in-obsidian",
+    "collection": "videos",
+    "title": "How I Use Tags In Obsidian",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/how-to-backup-obsidian-best-options",
+    "cuid": null,
+    "slug": "how-to-backup-obsidian-best-options",
+    "collection": "videos",
+    "title": "How To Backup Obsidian - Best Options",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+    "cuid": null,
+    "slug": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+    "collection": "videos",
+    "title": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/how-to-motivate-yourself-out-of-rock-bottom",
+    "cuid": null,
+    "slug": "how-to-motivate-yourself-out-of-rock-bottom",
+    "collection": "videos",
+    "title": "how-to-motivate-yourself-out-of-rock-bottom",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241110135020",
+    "cuid": "20241110135020",
+    "slug": "how-to-write-a-mini-essay-by-odysseas",
+    "collection": "videos",
+    "title": "How to Write a Mini-Essay",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241110140031",
+        "cuid": "20241110140031",
+        "title": "Odysseas 2024 - How to Mini-Essay",
+        "slug": "odysseas-2024-how-to-mini-essay",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/i-made-800-000-in-one-year-writing-2-hours-a-day",
+    "cuid": null,
+    "slug": "i-made-800-000-in-one-year-writing-2-hours-a-day",
+    "collection": "videos",
+    "title": "I Made $800,000 In One Year Writing 2 Hours A Day",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241216124905",
+    "cuid": "20241216124905",
+    "slug": "improve-your-art-with-spaced-repitition-the-ultimate-step-by-step-guide",
+    "collection": "videos",
+    "title": "Improve Your Art With Spaced Repitition - the ultimate step-by-step guide",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241216124803",
+        "cuid": "20241216124803",
+        "title": "10,000hrs 2024 - Art with Spaced Repetition",
+        "slug": "10-000hrs-2024-art-with-spaced-repetition",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241203144614",
+    "cuid": "20241203144614",
+    "slug": "learn-art-on-your-own-complete-guide-no-art-school",
+    "collection": "videos",
+    "title": "LEARN ART ON YOUR OWN - Complete Guide (no art school)",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241108225900",
+    "cuid": "20241108225900",
+    "slug": "mini-essays-the-ultimate-learning-tool-by-odysseas",
+    "collection": "videos",
+    "title": "Mini Essays",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [
+      {
+        "id": "20241108235922",
+        "cuid": "20241108235922",
+        "title": "Odysseas",
+        "slug": "odysseas-2024-mini-essays",
+        "collection": "references",
+        "kind": "source"
+      }
+    ],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/my-simple-note-taking-setup",
+    "cuid": null,
+    "slug": "my-simple-note-taking-setup",
+    "collection": "videos",
+    "title": "My simple note-taking setup",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "My simple note-taking setup"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/obsidian-note-taking-tutorial-for-beginners",
+    "cuid": null,
+    "slug": "obsidian-note-taking-tutorial-for-beginners",
+    "collection": "videos",
+    "title": "Obsidian Note Taking Tutorial for Beginners",
+    "description": "",
+    "tags": [],
+    "aliases": [
+      "Obsidian Note Taking Tutorial for Beginners"
+    ],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/phases-of-inner-work",
+    "cuid": null,
+    "slug": "phases-of-inner-work",
+    "collection": "videos",
+    "title": "phases-of-inner-work",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "20241203100942",
+    "cuid": "20241203100942",
+    "slug": "start-looking-at-everything-as-practice",
+    "collection": "videos",
+    "title": "Start looking at EVERYTHING as Practice",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/test-video",
+    "cuid": null,
+    "slug": "test-video",
+    "collection": "videos",
+    "title": "Test Note",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/the-5-best-obsidian-plugins-i-use",
+    "cuid": null,
+    "slug": "the-5-best-obsidian-plugins-i-use",
+    "collection": "videos",
+    "title": "The 5 Best Obsidian Plugins I Use",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/the-5-best-obsidian-themes",
+    "cuid": null,
+    "slug": "the-5-best-obsidian-themes",
+    "collection": "videos",
+    "title": "The 5 Best Obsidian Themes",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/the-best-way-to-add-media-to-your-obsidian-vault",
+    "cuid": null,
+    "slug": "the-best-way-to-add-media-to-your-obsidian-vault",
+    "collection": "videos",
+    "title": "The Best Way To Add Media To Your Obsidian Vault",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/top-10-obsidian-plugins",
+    "cuid": null,
+    "slug": "top-10-obsidian-plugins",
+    "collection": "videos",
+    "title": "top-10-obsidian-plugins",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/why-you-need-to-learn-obsidian",
+    "cuid": null,
+    "slug": "why-you-need-to-learn-obsidian",
+    "collection": "videos",
+    "title": "Why You Need To Learn Obsidian",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+    "cuid": null,
+    "slug": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+    "collection": "videos",
+    "title": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  },
+  {
+    "id": "videos/zettelkasten-smart-notes-step-by-step-with-obsidian",
+    "cuid": null,
+    "slug": "zettelkasten-smart-notes-step-by-step-with-obsidian",
+    "collection": "videos",
+    "title": "Zettelkasten Smart Notes",
+    "description": "",
+    "tags": [],
+    "aliases": [],
+    "outboundLinks": [],
+    "inboundLinks": [],
+    "chainedLinks": []
+  }
+]

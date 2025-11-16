@@ -1,0 +1,4639 @@
+{
+  "badFiles": [],
+  "unresolvedWikiLinks": [
+    "Unresolved wiki-link \"Love to Self -\"",
+    "Unresolved wiki-link \"Diary -\"",
+    "Unresolved wiki-link \"Istikarah -\"",
+    "Unresolved wiki-link \"Obvious Problem\"",
+    "Unresolved wiki-link \"Non-Obvious Solution\"",
+    "Unresolved wiki-link \"Obvious Outcome\"",
+    "Unresolved wiki-link \"Non-Obvious Problem\"",
+    "Unresolved wiki-link \"Obvious Solution\"",
+    "Unresolved wiki-link \"Non-Obvious Outcome\"",
+    "Unresolved wiki-link \"Michael Lewis\"",
+    "Unresolved wiki-link \"Malcolm Gladwell\"",
+    "Unresolved wiki-link \"Doris Kearns Goodwin\"",
+    "Unresolved wiki-link \"Bob Woodward\"",
+    "Unresolved wiki-link \"You Are Not Disposable by Dwayne Cyrus\"",
+    "Unresolved wiki-link \"Image 1.jpeg\"",
+    "Unresolved wiki-link \"Dwayne Cyrus\"",
+    "Unresolved wiki-link \"Humma\"",
+    "Unresolved wiki-link \"Noah Ursule-Cyrus\"",
+    "Unresolved wiki-link \"Mimi Rüegg\"",
+    "Unresolved wiki-link \"anime\"",
+    "Unresolved wiki-link \"dragons\"",
+    "Unresolved wiki-link \"cats\"",
+    "Unresolved wiki-link \"Dwayne\"",
+    "Unresolved wiki-link \"anime stuff\"",
+    "Unresolved wiki-link \"Your first note\"",
+    "Unresolved wiki-link \"Jill\"",
+    "Unresolved wiki-link \"jill\"",
+    "Unresolved wiki-link \"j.smith\"",
+    "Unresolved wiki-link \"invalid link\"",
+    "Unresolved wiki-link \"links\"",
+    "Unresolved wiki-link \"Dunning-Kruger effect\"",
+    "Unresolved wiki-link \"David Allen\"",
+    "Unresolved wiki-link \"Niklas Luhmann\"",
+    "Unresolved wiki-link \"Helmut Schelsky\"",
+    "Unresolved wiki-link \"University of Bielefeld\"",
+    "Unresolved wiki-link \"Johannes F.K. Schmidt\"",
+    "Unresolved wiki-link \"Henry Ford\"",
+    "Unresolved wiki-link \"map of content\"",
+    "Unresolved wiki-link \"Oxford Handbook of Neuroethics by Neil Levy\"",
+    "Unresolved wiki-link \"Neil Levy\"",
+    "Unresolved wiki-link \"Richard Feynman\"",
+    "Unresolved wiki-link \"Benjamin Franklin\"",
+    "Unresolved wiki-link \"slip-box\"",
+    "Unresolved wiki-link \"Daniel Lüdecke\"",
+    "Unresolved wiki-link \"MOC Directory\"",
+    "Unresolved wiki-link \"YT Channel MOC\"",
+    "Unresolved wiki-link \"Map Of Content\"",
+    "Unresolved wiki-link \"eternal market\"",
+    "Unresolved wiki-link \"The Non-Needy Networking Process\"",
+    "Unresolved wiki-link \"EDR 016 - An Oath of Self-Direction\"",
+    "Unresolved wiki-link \"Pareto Principle\"",
+    "Unresolved wiki-link \"Daily Note Template\"",
+    "Unresolved wiki-link \"Weekly Note Template\"",
+    "Unresolved wiki-link \"OODA Loop\"",
+    "Unresolved wiki-link \"Sample Typography in Markdown\"",
+    "Unresolved wiki-link \"affect-heuristic\"",
+    "Unresolved wiki-link \"framing-effect\"",
+    "Unresolved wiki-link \"cognitive-bias\""
+  ],
+  "idCollisions": [
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/Essay Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/Note Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Ask Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Book Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Essay Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Journal Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/MOC Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Month Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Plan Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Podcast Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Quote Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Reference Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Template - Day.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Template - Document.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Template - Dream.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Week Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 1/Year Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Ask Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Book Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Journal Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/MOC Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Month Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Plan Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Podcast Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Quote Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Reference Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Template - Day.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Template - Document.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Template - Dream.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Week Template.md"
+    },
+    {
+      "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+      "existingFile": "_templates/Document Template.md",
+      "duplicateFile": "_templates/process 2/Year Template.md"
+    }
+  ],
+  "missingCuids": [
+    {
+      "filePath": "_templates/process 1/Contact.md",
+      "collection": "_templates",
+      "slug": "process-1/contact",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 1/Daily.md",
+      "collection": "_templates",
+      "slug": "process-1/daily",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Daily 1.md",
+      "collection": "_templates",
+      "slug": "process-1/template-daily-1",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Daily 2.md",
+      "collection": "_templates",
+      "slug": "process-1/template-daily-2",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Daily XXX.md",
+      "collection": "_templates",
+      "slug": "process-1/template-daily-xxx",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Daily.md",
+      "collection": "_templates",
+      "slug": "process-1/template-daily",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Diary.md",
+      "collection": "_templates",
+      "slug": "process-1/template-diary",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Master 1.md",
+      "collection": "_templates",
+      "slug": "process-1/template-master-1",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Master 2.md",
+      "collection": "_templates",
+      "slug": "process-1/template-master-2",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Master.md",
+      "collection": "_templates",
+      "slug": "process-1/template-master",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Monthly.md",
+      "collection": "_templates",
+      "slug": "process-1/template-monthly",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Project.md",
+      "collection": "_templates",
+      "slug": "process-1/template-project",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 1/Template Quarterly.md",
+      "collection": "_templates",
+      "slug": "process-1/template-quarterly",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 3/Day.md",
+      "collection": "_templates",
+      "slug": "process-3/day",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 3/Project — Default.md",
+      "collection": "_templates",
+      "slug": "process-3/project-default",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 3/Template - Offer Vehicle.md",
+      "collection": "_templates",
+      "slug": "process-3/template-offer-vehicle",
+      "title": ""
+    },
+    {
+      "filePath": "_templates/process 4/Template - Base.md",
+      "collection": "_templates",
+      "slug": "process-4/template-base",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 4/Template - Day old.md",
+      "collection": "_templates",
+      "slug": "process-4/template-day-old",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 4/Template - Projects.md",
+      "collection": "_templates",
+      "slug": "process-4/template-projects",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 4/Template - Sovereign.md",
+      "collection": "_templates",
+      "slug": "process-4/template-sovereign",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 4/Template - Weekly.md",
+      "collection": "_templates",
+      "slug": "process-4/template-weekly",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 4/Template - Workshop.md",
+      "collection": "_templates",
+      "slug": "process-4/template-workshop",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 4/Template - Yearly.md",
+      "collection": "_templates",
+      "slug": "process-4/template-yearly",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 5/Template - Letter.md",
+      "collection": "_templates",
+      "slug": "process-5/template-letter",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "_templates/process 5/Template - Video.md",
+      "collection": "_templates",
+      "slug": "process-5/template-video",
+      "title": "{{title}}"
+    },
+    {
+      "filePath": "books/$100M Leads by Alex Harmozi.md",
+      "collection": "books",
+      "slug": "100m-leads-by-alex-harmozi",
+      "title": ""
+    },
+    {
+      "filePath": "books/$100M Offers - The Bonus Chapters by Alex Hormozi.md",
+      "collection": "books",
+      "slug": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+      "title": ""
+    },
+    {
+      "filePath": "books/$100M Offers - The Lost Chapter by Alex Hormozi.md",
+      "collection": "books",
+      "slug": "100m-offers-the-lost-chapter-by-alex-hormozi",
+      "title": ""
+    },
+    {
+      "filePath": "books/$100M Offers by Alex Harmozi.md",
+      "collection": "books",
+      "slug": "100m-offers-by-alex-harmozi",
+      "title": ""
+    },
+    {
+      "filePath": "books/Muslimah rights PDF.md",
+      "collection": "books",
+      "slug": "muslimah-rights-pdf",
+      "title": ""
+    },
+    {
+      "filePath": "books/Snow Leopard by.md",
+      "collection": "books",
+      "slug": "snow-leopard-by",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 01 - The Purpose Of Marriage for Women/Draft 01 - Foundation or Planning (1) -.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 01 - The Purpose Of Marriage for Women/The Purpose of Marriage - It's Never Been About Love.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 02 - Getting Ready/Draft 01 Investing (2) - Preparation.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 02 - Getting Ready/Getting Ready - Understanding Marriage Minded Men.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 01 eBook — Positioning for a Husband.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 02 — Human Review.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 03 — Positioning (3) -.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-03-positioning-3",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 04 - ChatGPT.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 05.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 06 - Final Draft Review.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 07 - The Unknown Wife - A Homebody’s Guide To Being Found.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-07-the-unknown-wife-a-homebody-s-guide-to-being-found",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 08 -.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 09 - The Unknown Wife - A Homebody’s Guide To Being Found.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 10 - The Hidden Wife - The Guide to Being Found by a Husband.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/The Optional Chapter.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - The Guide to Being Found by a Husband.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Marketing the Book.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 01 — Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 02 - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 03 - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 04 - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 05 - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 06 - The Unknown Wife - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 07 - The Hidden Wife - Workbook.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 04 - Dating Is Stupid/Dating Is Stupid - Courtship Is The Only Way To Marriage.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 04 - Dating Is Stupid/Draft 01 — Courting (4) -.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 05 - The Four Pillars/Draft 01 - The Four Pillars.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/Book 05 - The Four Pillars/The Four Pillars - The Foundation For A Functional Marriage.md",
+      "collection": "books",
+      "slug": "the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/The Homebody Series MOC.md",
+      "collection": "books",
+      "slug": "the-homebody-series/the-homebody-series-moc",
+      "title": ""
+    },
+    {
+      "filePath": "books/The Homebody Series/The Homebody Series Overview.md",
+      "collection": "books",
+      "slug": "the-homebody-series/the-homebody-series-overview",
+      "title": ""
+    },
+    {
+      "filePath": "books/Think and Grow Rich by.md",
+      "collection": "books",
+      "slug": "think-and-grow-rich-by",
+      "title": ""
+    },
+    {
+      "filePath": "books/eBook - Post Course Reference guide.md",
+      "collection": "books",
+      "slug": "ebook-post-course-reference-guide",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Being in a relationship as a neurodivergent person.md",
+      "collection": "essays",
+      "slug": "being-in-a-relationship-as-a-neurodivergent-person",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Building Self-Worth and Confidence.md",
+      "collection": "essays",
+      "slug": "building-self-worth-and-confidence",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Creating a Fulfilling Life Beyond Trauma.md",
+      "collection": "essays",
+      "slug": "creating-a-fulfilling-life-beyond-trauma",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Developing Healthy Relationships.md",
+      "collection": "essays",
+      "slug": "developing-healthy-relationships",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Enhancing Emotional Intelligence.md",
+      "collection": "essays",
+      "slug": "enhancing-emotional-intelligence",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Healing Emotional Wounds.md",
+      "collection": "essays",
+      "slug": "healing-emotional-wounds",
+      "title": ""
+    },
+    {
+      "filePath": "essays/The Ignored trauma. Of men.md",
+      "collection": "essays",
+      "slug": "the-ignored-trauma-of-men",
+      "title": ""
+    },
+    {
+      "filePath": "essays/Why am i the one to make the stand for men.md",
+      "collection": "essays",
+      "slug": "why-am-i-the-one-to-make-the-stand-for-men",
+      "title": ""
+    },
+    {
+      "filePath": "essays/the burden of masculinity.md",
+      "collection": "essays",
+      "slug": "the-burden-of-masculinity",
+      "title": "the burden of masculinity"
+    },
+    {
+      "filePath": "essays/the change need to fix the male development space.md",
+      "collection": "essays",
+      "slug": "the-change-need-to-fix-the-male-development-space",
+      "title": ""
+    },
+    {
+      "filePath": "essays/the problem with today's male ladership spaces.md",
+      "collection": "essays",
+      "slug": "the-problem-with-today-s-male-ladership-spaces",
+      "title": ""
+    },
+    {
+      "filePath": "essays/why my male centered content needs to exist.md",
+      "collection": "essays",
+      "slug": "why-my-male-centered-content-needs-to-exist",
+      "title": ""
+    },
+    {
+      "filePath": "pages/about.md",
+      "collection": "pages",
+      "slug": "about",
+      "title": "About"
+    },
+    {
+      "filePath": "pages/contact.md",
+      "collection": "pages",
+      "slug": "contact",
+      "title": ""
+    },
+    {
+      "filePath": "pages/essays.md",
+      "collection": "pages",
+      "slug": "essays",
+      "title": "Essays"
+    },
+    {
+      "filePath": "pages/home.md",
+      "collection": "pages",
+      "slug": "home",
+      "title": "Home"
+    },
+    {
+      "filePath": "pages/loe-subscriber-offer.md",
+      "collection": "pages",
+      "slug": "loe-subscriber-offer",
+      "title": "Subscription Success"
+    },
+    {
+      "filePath": "pages/loe-subscriber-reminder.md",
+      "collection": "pages",
+      "slug": "loe-subscriber-reminder",
+      "title": "Subscription Reminder"
+    },
+    {
+      "filePath": "pages/mocs.md",
+      "collection": "pages",
+      "slug": "mocs",
+      "title": "Maps of Content"
+    },
+    {
+      "filePath": "pages/notes.md",
+      "collection": "pages",
+      "slug": "notes",
+      "title": "Notes"
+    },
+    {
+      "filePath": "pages/roadmap.md",
+      "collection": "pages",
+      "slug": "roadmap",
+      "title": "Website Roadmap"
+    },
+    {
+      "filePath": "pages/service.md",
+      "collection": "pages",
+      "slug": "service",
+      "title": "Service"
+    },
+    {
+      "filePath": "pages/staff.md",
+      "collection": "pages",
+      "slug": "staff",
+      "title": "Staff"
+    },
+    {
+      "filePath": "pages/voyagers.md",
+      "collection": "pages",
+      "slug": "voyagers",
+      "title": "Voyager’s Harbour"
+    },
+    {
+      "filePath": "pages/waitlist.md",
+      "collection": "pages",
+      "slug": "waitlist",
+      "title": "Waitlist"
+    },
+    {
+      "filePath": "persons/Alan Watts 2.md",
+      "collection": "persons",
+      "slug": "alan-watts-2",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Alan Watts.md",
+      "collection": "persons",
+      "slug": "alan-watts",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Austin Kleon.md",
+      "collection": "persons",
+      "slug": "austin-kleon",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Bessel van der Kolk.md",
+      "collection": "persons",
+      "slug": "bessel-van-der-kolk",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Brené Brown.md",
+      "collection": "persons",
+      "slug": "bren-brown",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Charlie Munger.md",
+      "collection": "persons",
+      "slug": "charlie-munger",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Dale Carnegie.md",
+      "collection": "persons",
+      "slug": "dale-carnegie",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Elizabeth Gilbert.md",
+      "collection": "persons",
+      "slug": "elizabeth-gilbert",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Esther Perel.md",
+      "collection": "persons",
+      "slug": "esther-perel",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Gabor Maté.md",
+      "collection": "persons",
+      "slug": "gabor-mat",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Hassan Clay.md",
+      "collection": "persons",
+      "slug": "hassan-clay",
+      "title": ""
+    },
+    {
+      "filePath": "persons/James Allen.md",
+      "collection": "persons",
+      "slug": "james-allen",
+      "title": ""
+    },
+    {
+      "filePath": "persons/James Clear.md",
+      "collection": "persons",
+      "slug": "james-clear",
+      "title": ""
+    },
+    {
+      "filePath": "persons/John Gottman.md",
+      "collection": "persons",
+      "slug": "john-gottman",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Marie Forleo.md",
+      "collection": "persons",
+      "slug": "marie-forleo",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Mike Nisbett.md",
+      "collection": "persons",
+      "slug": "mike-nisbett",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Peter A. Levine.md",
+      "collection": "persons",
+      "slug": "peter-a-levine",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Robert Greene.md",
+      "collection": "persons",
+      "slug": "robert-greene",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Shane Parrish.md",
+      "collection": "persons",
+      "slug": "shane-parrish",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Simon Sinek.md",
+      "collection": "persons",
+      "slug": "simon-sinek",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Souen Ursule-Cyrus.md",
+      "collection": "persons",
+      "slug": "souen-ursule-cyrus",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Sue Johnson.md",
+      "collection": "persons",
+      "slug": "sue-johnson",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Sönke Ahrens.md",
+      "collection": "persons",
+      "slug": "s-nke-ahrens",
+      "title": ""
+    },
+    {
+      "filePath": "persons/Tony Robbins.md",
+      "collection": "persons",
+      "slug": "tony-robbins",
+      "title": ""
+    },
+    {
+      "filePath": "projects/data-viz-dashboard.md",
+      "collection": "projects",
+      "slug": "data-viz-dashboard",
+      "title": "Data Visualization Dashboard"
+    },
+    {
+      "filePath": "projects/mini-lims.md",
+      "collection": "projects",
+      "slug": "mini-lims",
+      "title": "Mini LIMS — Laboratory Information Prototype"
+    },
+    {
+      "filePath": "projects/personal-knowledge-hub.md",
+      "collection": "projects",
+      "slug": "personal-knowledge-hub",
+      "title": "Personal Knowledge Hub"
+    },
+    {
+      "filePath": "projects/scriptorium.md",
+      "collection": "projects",
+      "slug": "scriptorium",
+      "title": "Scriptorium — The Second Brain Editor"
+    },
+    {
+      "filePath": "projects/thunder-recall.md",
+      "collection": "projects",
+      "slug": "thunder-recall",
+      "title": "Thunder Recall — The Memory Engine"
+    },
+    {
+      "filePath": "projects/ui-library.md",
+      "collection": "projects",
+      "slug": "ui-library",
+      "title": "Interactive UI System Library"
+    },
+    {
+      "filePath": "projects/voyager-os.md",
+      "collection": "projects",
+      "slug": "voyager-os",
+      "title": "Voyager OS (V-OS)"
+    },
+    {
+      "filePath": "references/Brian P Moran 2013 - The 12 Week Year.md",
+      "collection": "references",
+      "slug": "brian-p-moran-2013-the-12-week-year",
+      "title": ""
+    },
+    {
+      "filePath": "videos/$13,000 in a Month - The Digital Product Money-Making Blueprint.md",
+      "collection": "videos",
+      "slug": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+      "title": ""
+    },
+    {
+      "filePath": "videos/10 Most Profitable Niches for Freelance Copywriting in 2021.md",
+      "collection": "videos",
+      "slug": "10-most-profitable-niches-for-freelance-copywriting-in-2021",
+      "title": "10 Most Profitable Niches for Freelance Copywriting in 2021"
+    },
+    {
+      "filePath": "videos/How I Use Maps Of Content (MOCs).md",
+      "collection": "videos",
+      "slug": "how-i-use-maps-of-content-mocs",
+      "title": "How I Use Maps Of Content (MOCs)"
+    },
+    {
+      "filePath": "videos/How I Use Tags In Obsidian.md",
+      "collection": "videos",
+      "slug": "how-i-use-tags-in-obsidian",
+      "title": "How I Use Tags In Obsidian"
+    },
+    {
+      "filePath": "videos/How To Backup Obsidian - Best Options.md",
+      "collection": "videos",
+      "slug": "how-to-backup-obsidian-best-options",
+      "title": "How To Backup Obsidian - Best Options"
+    },
+    {
+      "filePath": "videos/How To Motivate Yourself Out Of Rock Bottom.md",
+      "collection": "videos",
+      "slug": "how-to-motivate-yourself-out-of-rock-bottom",
+      "title": ""
+    },
+    {
+      "filePath": "videos/How to Build a Successful YouTube Channel in 2023 with Ruri Ohama.md",
+      "collection": "videos",
+      "slug": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+      "title": ""
+    },
+    {
+      "filePath": "videos/I Made $800,000 In One Year Writing 2 Hours A Day.md",
+      "collection": "videos",
+      "slug": "i-made-800-000-in-one-year-writing-2-hours-a-day",
+      "title": "I Made $800,000 In One Year Writing 2 Hours A Day"
+    },
+    {
+      "filePath": "videos/Phases of Inner Work.md",
+      "collection": "videos",
+      "slug": "phases-of-inner-work",
+      "title": ""
+    },
+    {
+      "filePath": "videos/Test Video.md",
+      "collection": "videos",
+      "slug": "test-video",
+      "title": "Test Note"
+    },
+    {
+      "filePath": "videos/The 5 Best Obsidian Plugins I Use.md",
+      "collection": "videos",
+      "slug": "the-5-best-obsidian-plugins-i-use",
+      "title": "The 5 Best Obsidian Plugins I Use"
+    },
+    {
+      "filePath": "videos/The 5 Best Obsidian Themes.md",
+      "collection": "videos",
+      "slug": "the-5-best-obsidian-themes",
+      "title": "The 5 Best Obsidian Themes"
+    },
+    {
+      "filePath": "videos/The Best Way To Add Media To Your Obsidian Vault.md",
+      "collection": "videos",
+      "slug": "the-best-way-to-add-media-to-your-obsidian-vault",
+      "title": "The Best Way To Add Media To Your Obsidian Vault"
+    },
+    {
+      "filePath": "videos/Top 10 Obsidian Plugins.md",
+      "collection": "videos",
+      "slug": "top-10-obsidian-plugins",
+      "title": ""
+    },
+    {
+      "filePath": "videos/Why You Need To Learn Obsidian.md",
+      "collection": "videos",
+      "slug": "why-you-need-to-learn-obsidian",
+      "title": "Why You Need To Learn Obsidian"
+    },
+    {
+      "filePath": "videos/Zettelkasten Smart Notes Step by Step with Obsidian.md",
+      "collection": "videos",
+      "slug": "zettelkasten-smart-notes-step-by-step-with-obsidian",
+      "title": "Zettelkasten Smart Notes"
+    },
+    {
+      "filePath": "videos/my-simple-note-taking-setup.md",
+      "collection": "videos",
+      "slug": "my-simple-note-taking-setup",
+      "title": "My simple note-taking setup"
+    },
+    {
+      "filePath": "videos/obsidian-note-taking-tutorial-for-beginners.md",
+      "collection": "videos",
+      "slug": "obsidian-note-taking-tutorial-for-beginners",
+      "title": "Obsidian Note Taking Tutorial for Beginners"
+    },
+    {
+      "filePath": "videos/zettelkasten-note-taking-what-i-wish-i-knew about-smart-notes.md",
+      "collection": "videos",
+      "slug": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+      "title": ""
+    }
+  ],
+  "aliasConflicts": [],
+  "orphans": {
+    "strict": [
+      {
+        "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+        "cuid": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "document-template",
+        "filePath": "_templates/Document Template.md"
+      },
+      {
+        "id": "_templates/process-1/contact",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-1/contact",
+        "filePath": "_templates/process 1/Contact.md"
+      },
+      {
+        "id": "_templates/process-1/daily",
+        "cuid": null,
+        "title": "daily",
+        "collection": "_templates",
+        "slug": "process-1/daily",
+        "filePath": "_templates/process 1/Daily.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-1",
+        "cuid": null,
+        "title": "template-daily-1",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-1",
+        "filePath": "_templates/process 1/Template Daily 1.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-2",
+        "cuid": null,
+        "title": "template-daily-2",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-2",
+        "filePath": "_templates/process 1/Template Daily 2.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-xxx",
+        "cuid": null,
+        "title": "template-daily-xxx",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-xxx",
+        "filePath": "_templates/process 1/Template Daily XXX.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily",
+        "cuid": null,
+        "title": "template-daily",
+        "collection": "_templates",
+        "slug": "process-1/template-daily",
+        "filePath": "_templates/process 1/Template Daily.md"
+      },
+      {
+        "id": "_templates/process-1/template-diary",
+        "cuid": null,
+        "title": "template-diary",
+        "collection": "_templates",
+        "slug": "process-1/template-diary",
+        "filePath": "_templates/process 1/Template Diary.md"
+      },
+      {
+        "id": "_templates/process-1/template-master-1",
+        "cuid": null,
+        "title": "template-master-1",
+        "collection": "_templates",
+        "slug": "process-1/template-master-1",
+        "filePath": "_templates/process 1/Template Master 1.md"
+      },
+      {
+        "id": "_templates/process-1/template-master-2",
+        "cuid": null,
+        "title": "template-master-2",
+        "collection": "_templates",
+        "slug": "process-1/template-master-2",
+        "filePath": "_templates/process 1/Template Master 2.md"
+      },
+      {
+        "id": "_templates/process-1/template-master",
+        "cuid": null,
+        "title": "template-master",
+        "collection": "_templates",
+        "slug": "process-1/template-master",
+        "filePath": "_templates/process 1/Template Master.md"
+      },
+      {
+        "id": "_templates/process-1/template-monthly",
+        "cuid": null,
+        "title": "template-monthly",
+        "collection": "_templates",
+        "slug": "process-1/template-monthly",
+        "filePath": "_templates/process 1/Template Monthly.md"
+      },
+      {
+        "id": "_templates/process-1/template-project",
+        "cuid": null,
+        "title": "template-project",
+        "collection": "_templates",
+        "slug": "process-1/template-project",
+        "filePath": "_templates/process 1/Template Project.md"
+      },
+      {
+        "id": "_templates/process-1/template-quarterly",
+        "cuid": null,
+        "title": "template-quarterly",
+        "collection": "_templates",
+        "slug": "process-1/template-quarterly",
+        "filePath": "_templates/process 1/Template Quarterly.md"
+      },
+      {
+        "id": "_templates/process-3/day",
+        "cuid": null,
+        "title": "day",
+        "collection": "_templates",
+        "slug": "process-3/day",
+        "filePath": "_templates/process 3/Day.md"
+      },
+      {
+        "id": "_templates/process-3/project-default",
+        "cuid": null,
+        "title": "project-default",
+        "collection": "_templates",
+        "slug": "process-3/project-default",
+        "filePath": "_templates/process 3/Project — Default.md"
+      },
+      {
+        "id": "_templates/process-3/template-offer-vehicle",
+        "cuid": null,
+        "title": "template-offer-vehicle",
+        "collection": "_templates",
+        "slug": "process-3/template-offer-vehicle",
+        "filePath": "_templates/process 3/Template - Offer Vehicle.md"
+      },
+      {
+        "id": "_templates/process-4/template-base",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-base",
+        "filePath": "_templates/process 4/Template - Base.md"
+      },
+      {
+        "id": "_templates/process-4/template-day-old",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-day-old",
+        "filePath": "_templates/process 4/Template - Day old.md"
+      },
+      {
+        "id": "_templates/process-4/template-projects",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-projects",
+        "filePath": "_templates/process 4/Template - Projects.md"
+      },
+      {
+        "id": "_templates/process-4/template-sovereign",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-sovereign",
+        "filePath": "_templates/process 4/Template - Sovereign.md"
+      },
+      {
+        "id": "_templates/process-4/template-weekly",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-weekly",
+        "filePath": "_templates/process 4/Template - Weekly.md"
+      },
+      {
+        "id": "_templates/process-4/template-workshop",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-workshop",
+        "filePath": "_templates/process 4/Template - Workshop.md"
+      },
+      {
+        "id": "_templates/process-4/template-yearly",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-yearly",
+        "filePath": "_templates/process 4/Template - Yearly.md"
+      },
+      {
+        "id": "_templates/process-5/template-letter",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-5/template-letter",
+        "filePath": "_templates/process 5/Template - Letter.md"
+      },
+      {
+        "id": "_templates/process-5/template-video",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-5/template-video",
+        "filePath": "_templates/process 5/Template - Video.md"
+      },
+      {
+        "id": "books/100m-leads-by-alex-harmozi",
+        "cuid": null,
+        "title": "100m-leads-by-alex-harmozi",
+        "collection": "books",
+        "slug": "100m-leads-by-alex-harmozi",
+        "filePath": "books/$100M Leads by Alex Harmozi.md"
+      },
+      {
+        "id": "books/100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "cuid": null,
+        "title": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "collection": "books",
+        "slug": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "filePath": "books/$100M Offers - The Bonus Chapters by Alex Hormozi.md"
+      },
+      {
+        "id": "books/100m-offers-the-lost-chapter-by-alex-hormozi",
+        "cuid": null,
+        "title": "100m-offers-the-lost-chapter-by-alex-hormozi",
+        "collection": "books",
+        "slug": "100m-offers-the-lost-chapter-by-alex-hormozi",
+        "filePath": "books/$100M Offers - The Lost Chapter by Alex Hormozi.md"
+      },
+      {
+        "id": "books/100m-offers-by-alex-harmozi",
+        "cuid": null,
+        "title": "100m-offers-by-alex-harmozi",
+        "collection": "books",
+        "slug": "100m-offers-by-alex-harmozi",
+        "filePath": "books/$100M Offers by Alex Harmozi.md"
+      },
+      {
+        "id": "20250215182714",
+        "cuid": "20250215182714",
+        "title": "Breaking the Habit of Being Yourself",
+        "collection": "books",
+        "slug": "breaking-the-habit-of-being-yourself-by-joe-dispenza",
+        "filePath": "books/Breaking the Habit of Being Yourself by Joe Dispenza.md"
+      },
+      {
+        "id": "books/muslimah-rights-pdf",
+        "cuid": null,
+        "title": "muslimah-rights-pdf",
+        "collection": "books",
+        "slug": "muslimah-rights-pdf",
+        "filePath": "books/Muslimah rights PDF.md"
+      },
+      {
+        "id": "books/snow-leopard-by",
+        "cuid": null,
+        "title": "snow-leopard-by",
+        "collection": "books",
+        "slug": "snow-leopard-by",
+        "filePath": "books/Snow Leopard by.md"
+      },
+      {
+        "id": "20250215234038",
+        "cuid": "20250215234038",
+        "title": "The Creative Act",
+        "collection": "books",
+        "slug": "the-creative-act-by-rick-rubin",
+        "filePath": "books/The Creative Act by Rick Rubin.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+        "cuid": null,
+        "title": "draft-01-foundation-or-planning-1",
+        "collection": "books",
+        "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+        "filePath": "books/The Homebody Series/Book 01 - The Purpose Of Marriage for Women/Draft 01 - Foundation or Planning (1) -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+        "cuid": null,
+        "title": "draft-01-investing-2-preparation",
+        "collection": "books",
+        "slug": "the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+        "filePath": "books/The Homebody Series/Book 02 - Getting Ready/Draft 01 Investing (2) - Preparation.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+        "cuid": null,
+        "title": "draft-08",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 08 -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "cuid": null,
+        "title": "draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 09 - The Unknown Wife - A Homebody’s Guide To Being Found.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "cuid": null,
+        "title": "draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 10 - The Hidden Wife - The Guide to Being Found by a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "cuid": null,
+        "title": "manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - The Guide to Being Found by a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+        "cuid": null,
+        "title": "manuscript-the-hidden-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+        "cuid": null,
+        "title": "draft-01-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 01 — Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+        "cuid": null,
+        "title": "draft-02-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 02 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+        "cuid": null,
+        "title": "draft-03-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 03 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+        "cuid": null,
+        "title": "draft-04-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 04 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+        "cuid": null,
+        "title": "draft-05-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 05 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+        "cuid": null,
+        "title": "draft-06-the-unknown-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 06 - The Unknown Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+        "cuid": null,
+        "title": "draft-07-the-hidden-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 07 - The Hidden Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+        "cuid": null,
+        "title": "draft-01-courting-4",
+        "collection": "books",
+        "slug": "the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+        "filePath": "books/The Homebody Series/Book 04 - Dating Is Stupid/Draft 01 — Courting (4) -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+        "cuid": null,
+        "title": "draft-01-the-four-pillars",
+        "collection": "books",
+        "slug": "the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+        "filePath": "books/The Homebody Series/Book 05 - The Four Pillars/Draft 01 - The Four Pillars.md"
+      },
+      {
+        "id": "books/the-homebody-series/the-homebody-series-overview",
+        "cuid": null,
+        "title": "the-homebody-series-overview",
+        "collection": "books",
+        "slug": "the-homebody-series/the-homebody-series-overview",
+        "filePath": "books/The Homebody Series/The Homebody Series Overview.md"
+      },
+      {
+        "id": "20250301211643",
+        "cuid": "20250301211643",
+        "title": "The Way of Kings",
+        "collection": "books",
+        "slug": "the-way-of-kings-by-brandon-sanderson",
+        "filePath": "books/The Way of Kings by Brandon Sanderson.md"
+      },
+      {
+        "id": "books/think-and-grow-rich-by",
+        "cuid": null,
+        "title": "think-and-grow-rich-by",
+        "collection": "books",
+        "slug": "think-and-grow-rich-by",
+        "filePath": "books/Think and Grow Rich by.md"
+      },
+      {
+        "id": "books/ebook-post-course-reference-guide",
+        "cuid": null,
+        "title": "ebook-post-course-reference-guide",
+        "collection": "books",
+        "slug": "ebook-post-course-reference-guide",
+        "filePath": "books/eBook - Post Course Reference guide.md"
+      },
+      {
+        "id": "essays/being-in-a-relationship-as-a-neurodivergent-person",
+        "cuid": null,
+        "title": "being-in-a-relationship-as-a-neurodivergent-person",
+        "collection": "essays",
+        "slug": "being-in-a-relationship-as-a-neurodivergent-person",
+        "filePath": "essays/Being in a relationship as a neurodivergent person.md"
+      },
+      {
+        "id": "essays/building-self-worth-and-confidence",
+        "cuid": null,
+        "title": "building-self-worth-and-confidence",
+        "collection": "essays",
+        "slug": "building-self-worth-and-confidence",
+        "filePath": "essays/Building Self-Worth and Confidence.md"
+      },
+      {
+        "id": "essays/creating-a-fulfilling-life-beyond-trauma",
+        "cuid": null,
+        "title": "creating-a-fulfilling-life-beyond-trauma",
+        "collection": "essays",
+        "slug": "creating-a-fulfilling-life-beyond-trauma",
+        "filePath": "essays/Creating a Fulfilling Life Beyond Trauma.md"
+      },
+      {
+        "id": "essays/developing-healthy-relationships",
+        "cuid": null,
+        "title": "developing-healthy-relationships",
+        "collection": "essays",
+        "slug": "developing-healthy-relationships",
+        "filePath": "essays/Developing Healthy Relationships.md"
+      },
+      {
+        "id": "essays/enhancing-emotional-intelligence",
+        "cuid": null,
+        "title": "enhancing-emotional-intelligence",
+        "collection": "essays",
+        "slug": "enhancing-emotional-intelligence",
+        "filePath": "essays/Enhancing Emotional Intelligence.md"
+      },
+      {
+        "id": "essays/healing-emotional-wounds",
+        "cuid": null,
+        "title": "healing-emotional-wounds",
+        "collection": "essays",
+        "slug": "healing-emotional-wounds",
+        "filePath": "essays/Healing Emotional Wounds.md"
+      },
+      {
+        "id": "essays/the-ignored-trauma-of-men",
+        "cuid": null,
+        "title": "the-ignored-trauma-of-men",
+        "collection": "essays",
+        "slug": "the-ignored-trauma-of-men",
+        "filePath": "essays/The Ignored trauma. Of men.md"
+      },
+      {
+        "id": "essays/why-am-i-the-one-to-make-the-stand-for-men",
+        "cuid": null,
+        "title": "why-am-i-the-one-to-make-the-stand-for-men",
+        "collection": "essays",
+        "slug": "why-am-i-the-one-to-make-the-stand-for-men",
+        "filePath": "essays/Why am i the one to make the stand for men.md"
+      },
+      {
+        "id": "essays/the-burden-of-masculinity",
+        "cuid": null,
+        "title": "the burden of masculinity",
+        "collection": "essays",
+        "slug": "the-burden-of-masculinity",
+        "filePath": "essays/the burden of masculinity.md"
+      },
+      {
+        "id": "essays/the-change-need-to-fix-the-male-development-space",
+        "cuid": null,
+        "title": "the-change-need-to-fix-the-male-development-space",
+        "collection": "essays",
+        "slug": "the-change-need-to-fix-the-male-development-space",
+        "filePath": "essays/the change need to fix the male development space.md"
+      },
+      {
+        "id": "essays/the-problem-with-today-s-male-ladership-spaces",
+        "cuid": null,
+        "title": "the-problem-with-today-s-male-ladership-spaces",
+        "collection": "essays",
+        "slug": "the-problem-with-today-s-male-ladership-spaces",
+        "filePath": "essays/the problem with today's male ladership spaces.md"
+      },
+      {
+        "id": "essays/why-my-male-centered-content-needs-to-exist",
+        "cuid": null,
+        "title": "why-my-male-centered-content-needs-to-exist",
+        "collection": "essays",
+        "slug": "why-my-male-centered-content-needs-to-exist",
+        "filePath": "essays/why my male centered content needs to exist.md"
+      },
+      {
+        "id": "20241108190055",
+        "cuid": "20241108190055",
+        "title": "Rough human beings around children",
+        "collection": "notes",
+        "slug": "rough-human-beings-around-children",
+        "filePath": "notes/Rough human beings around children.md"
+      },
+      {
+        "id": "20241024235705",
+        "cuid": "20241024235705",
+        "title": "WoW an acronym for walk on water",
+        "collection": "notes",
+        "slug": "the-necessary-alignment-of-belief-focus-and-action",
+        "filePath": "notes/The necessary alignment of belief, focus, and action.md"
+      },
+      {
+        "id": "pages/about",
+        "cuid": null,
+        "title": "About",
+        "collection": "pages",
+        "slug": "about",
+        "filePath": "pages/about.md"
+      },
+      {
+        "id": "pages/contact",
+        "cuid": null,
+        "title": "contact",
+        "collection": "pages",
+        "slug": "contact",
+        "filePath": "pages/contact.md"
+      },
+      {
+        "id": "pages/essays",
+        "cuid": null,
+        "title": "Essays",
+        "collection": "pages",
+        "slug": "essays",
+        "filePath": "pages/essays.md"
+      },
+      {
+        "id": "pages/home",
+        "cuid": null,
+        "title": "Home",
+        "collection": "pages",
+        "slug": "home",
+        "filePath": "pages/home.md"
+      },
+      {
+        "id": "pages/loe-subscriber-offer",
+        "cuid": null,
+        "title": "Subscription Success",
+        "collection": "pages",
+        "slug": "loe-subscriber-offer",
+        "filePath": "pages/loe-subscriber-offer.md"
+      },
+      {
+        "id": "pages/loe-subscriber-reminder",
+        "cuid": null,
+        "title": "Subscription Reminder",
+        "collection": "pages",
+        "slug": "loe-subscriber-reminder",
+        "filePath": "pages/loe-subscriber-reminder.md"
+      },
+      {
+        "id": "pages/roadmap",
+        "cuid": null,
+        "title": "Website Roadmap",
+        "collection": "pages",
+        "slug": "roadmap",
+        "filePath": "pages/roadmap.md"
+      },
+      {
+        "id": "pages/staff",
+        "cuid": null,
+        "title": "Staff",
+        "collection": "pages",
+        "slug": "staff",
+        "filePath": "pages/staff.md"
+      },
+      {
+        "id": "home",
+        "cuid": "home",
+        "title": "test",
+        "collection": "pages",
+        "slug": "test",
+        "filePath": "pages/test.md"
+      },
+      {
+        "id": "persons/alan-watts-2",
+        "cuid": null,
+        "title": "alan-watts-2",
+        "collection": "persons",
+        "slug": "alan-watts-2",
+        "filePath": "persons/Alan Watts 2.md"
+      },
+      {
+        "id": "persons/alan-watts",
+        "cuid": null,
+        "title": "alan-watts",
+        "collection": "persons",
+        "slug": "alan-watts",
+        "filePath": "persons/Alan Watts.md"
+      },
+      {
+        "id": "persons/austin-kleon",
+        "cuid": null,
+        "title": "austin-kleon",
+        "collection": "persons",
+        "slug": "austin-kleon",
+        "filePath": "persons/Austin Kleon.md"
+      },
+      {
+        "id": "persons/bessel-van-der-kolk",
+        "cuid": null,
+        "title": "bessel-van-der-kolk",
+        "collection": "persons",
+        "slug": "bessel-van-der-kolk",
+        "filePath": "persons/Bessel van der Kolk.md"
+      },
+      {
+        "id": "persons/bren-brown",
+        "cuid": null,
+        "title": "bren-brown",
+        "collection": "persons",
+        "slug": "bren-brown",
+        "filePath": "persons/Brené Brown.md"
+      },
+      {
+        "id": "persons/charlie-munger",
+        "cuid": null,
+        "title": "charlie-munger",
+        "collection": "persons",
+        "slug": "charlie-munger",
+        "filePath": "persons/Charlie Munger.md"
+      },
+      {
+        "id": "persons/dale-carnegie",
+        "cuid": null,
+        "title": "dale-carnegie",
+        "collection": "persons",
+        "slug": "dale-carnegie",
+        "filePath": "persons/Dale Carnegie.md"
+      },
+      {
+        "id": "persons/elizabeth-gilbert",
+        "cuid": null,
+        "title": "elizabeth-gilbert",
+        "collection": "persons",
+        "slug": "elizabeth-gilbert",
+        "filePath": "persons/Elizabeth Gilbert.md"
+      },
+      {
+        "id": "persons/esther-perel",
+        "cuid": null,
+        "title": "esther-perel",
+        "collection": "persons",
+        "slug": "esther-perel",
+        "filePath": "persons/Esther Perel.md"
+      },
+      {
+        "id": "persons/gabor-mat",
+        "cuid": null,
+        "title": "gabor-mat",
+        "collection": "persons",
+        "slug": "gabor-mat",
+        "filePath": "persons/Gabor Maté.md"
+      },
+      {
+        "id": "persons/hassan-clay",
+        "cuid": null,
+        "title": "hassan-clay",
+        "collection": "persons",
+        "slug": "hassan-clay",
+        "filePath": "persons/Hassan Clay.md"
+      },
+      {
+        "id": "persons/james-allen",
+        "cuid": null,
+        "title": "james-allen",
+        "collection": "persons",
+        "slug": "james-allen",
+        "filePath": "persons/James Allen.md"
+      },
+      {
+        "id": "persons/james-clear",
+        "cuid": null,
+        "title": "james-clear",
+        "collection": "persons",
+        "slug": "james-clear",
+        "filePath": "persons/James Clear.md"
+      },
+      {
+        "id": "persons/john-gottman",
+        "cuid": null,
+        "title": "john-gottman",
+        "collection": "persons",
+        "slug": "john-gottman",
+        "filePath": "persons/John Gottman.md"
+      },
+      {
+        "id": "persons/marie-forleo",
+        "cuid": null,
+        "title": "marie-forleo",
+        "collection": "persons",
+        "slug": "marie-forleo",
+        "filePath": "persons/Marie Forleo.md"
+      },
+      {
+        "id": "persons/mike-nisbett",
+        "cuid": null,
+        "title": "mike-nisbett",
+        "collection": "persons",
+        "slug": "mike-nisbett",
+        "filePath": "persons/Mike Nisbett.md"
+      },
+      {
+        "id": "persons/peter-a-levine",
+        "cuid": null,
+        "title": "peter-a-levine",
+        "collection": "persons",
+        "slug": "peter-a-levine",
+        "filePath": "persons/Peter A. Levine.md"
+      },
+      {
+        "id": "persons/robert-greene",
+        "cuid": null,
+        "title": "robert-greene",
+        "collection": "persons",
+        "slug": "robert-greene",
+        "filePath": "persons/Robert Greene.md"
+      },
+      {
+        "id": "persons/shane-parrish",
+        "cuid": null,
+        "title": "shane-parrish",
+        "collection": "persons",
+        "slug": "shane-parrish",
+        "filePath": "persons/Shane Parrish.md"
+      },
+      {
+        "id": "persons/simon-sinek",
+        "cuid": null,
+        "title": "simon-sinek",
+        "collection": "persons",
+        "slug": "simon-sinek",
+        "filePath": "persons/Simon Sinek.md"
+      },
+      {
+        "id": "persons/sue-johnson",
+        "cuid": null,
+        "title": "sue-johnson",
+        "collection": "persons",
+        "slug": "sue-johnson",
+        "filePath": "persons/Sue Johnson.md"
+      },
+      {
+        "id": "persons/s-nke-ahrens",
+        "cuid": null,
+        "title": "s-nke-ahrens",
+        "collection": "persons",
+        "slug": "s-nke-ahrens",
+        "filePath": "persons/Sönke Ahrens.md"
+      },
+      {
+        "id": "persons/tony-robbins",
+        "cuid": null,
+        "title": "tony-robbins",
+        "collection": "persons",
+        "slug": "tony-robbins",
+        "filePath": "persons/Tony Robbins.md"
+      },
+      {
+        "id": "projects/data-viz-dashboard",
+        "cuid": null,
+        "title": "Data Visualization Dashboard",
+        "collection": "projects",
+        "slug": "data-viz-dashboard",
+        "filePath": "projects/data-viz-dashboard.md"
+      },
+      {
+        "id": "projects/mini-lims",
+        "cuid": null,
+        "title": "Mini LIMS — Laboratory Information Prototype",
+        "collection": "projects",
+        "slug": "mini-lims",
+        "filePath": "projects/mini-lims.md"
+      },
+      {
+        "id": "projects/personal-knowledge-hub",
+        "cuid": null,
+        "title": "Personal Knowledge Hub",
+        "collection": "projects",
+        "slug": "personal-knowledge-hub",
+        "filePath": "projects/personal-knowledge-hub.md"
+      },
+      {
+        "id": "projects/scriptorium",
+        "cuid": null,
+        "title": "Scriptorium — The Second Brain Editor",
+        "collection": "projects",
+        "slug": "scriptorium",
+        "filePath": "projects/scriptorium.md"
+      },
+      {
+        "id": "projects/thunder-recall",
+        "cuid": null,
+        "title": "Thunder Recall — The Memory Engine",
+        "collection": "projects",
+        "slug": "thunder-recall",
+        "filePath": "projects/thunder-recall.md"
+      },
+      {
+        "id": "projects/ui-library",
+        "cuid": null,
+        "title": "Interactive UI System Library",
+        "collection": "projects",
+        "slug": "ui-library",
+        "filePath": "projects/ui-library.md"
+      },
+      {
+        "id": "projects/voyager-os",
+        "cuid": null,
+        "title": "Voyager OS (V-OS)",
+        "collection": "projects",
+        "slug": "voyager-os",
+        "filePath": "projects/voyager-os.md"
+      },
+      {
+        "id": "20241108154310",
+        "cuid": "20241108154310",
+        "title": "If I fail it is only because I have too much pride and ambition",
+        "collection": "quotes",
+        "slug": "if-i-fail-it-is-only-because-i-have-too-much-pride-and-ambition",
+        "filePath": "quotes/If I fail it is only because I have too much pride and ambition.md"
+      },
+      {
+        "id": "20241108161826",
+        "cuid": "20241108161826",
+        "title": "The impact of what you are thinking is what is judged",
+        "collection": "quotes",
+        "slug": "the-impact-of-what-you-are-thinking-is-what-is-judged",
+        "filePath": "quotes/The impact of what you are thinking is what is judged.md"
+      },
+      {
+        "id": "20241209133153",
+        "cuid": "20241209133153",
+        "title": "The last tree the last fish the last river",
+        "collection": "quotes",
+        "slug": "the-last-tree-the-last-fish-the-last-river",
+        "filePath": "quotes/The last tree the last fish the last river.md"
+      },
+      {
+        "id": "20241108160044",
+        "cuid": "20241108160044",
+        "title": "Thought is mastery, calmness is power",
+        "collection": "quotes",
+        "slug": "thought-is-mastery-calmness-is-power",
+        "filePath": "quotes/Thought is mastery, calmness is power.md"
+      },
+      {
+        "id": "20241108161155",
+        "cuid": "20241108161155",
+        "title": "Wealth is how long can you go without working",
+        "collection": "quotes",
+        "slug": "wealth-is-how-long-can-you-go-without-working",
+        "filePath": "quotes/Wealth is how long can you go without working.md"
+      },
+      {
+        "id": "20241108191138",
+        "cuid": "20241108191138",
+        "title": "You do and you are what he thinks of you — fathers to daughters",
+        "collection": "quotes",
+        "slug": "you-do-and-you-are-what-he-thinks-of-you-fathers-to-daughters",
+        "filePath": "quotes/You do and you are what he thinks of you — fathers to daughters.md"
+      },
+      {
+        "id": "references/brian-p-moran-2013-the-12-week-year",
+        "cuid": null,
+        "title": "brian-p-moran-2013-the-12-week-year",
+        "collection": "references",
+        "slug": "brian-p-moran-2013-the-12-week-year",
+        "filePath": "references/Brian P Moran 2013 - The 12 Week Year.md"
+      },
+      {
+        "id": "videos/13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "cuid": null,
+        "title": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "collection": "videos",
+        "slug": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "filePath": "videos/$13,000 in a Month - The Digital Product Money-Making Blueprint.md"
+      },
+      {
+        "id": "videos/10-most-profitable-niches-for-freelance-copywriting-in-2021",
+        "cuid": null,
+        "title": "10 Most Profitable Niches for Freelance Copywriting in 2021",
+        "collection": "videos",
+        "slug": "10-most-profitable-niches-for-freelance-copywriting-in-2021",
+        "filePath": "videos/10 Most Profitable Niches for Freelance Copywriting in 2021.md"
+      },
+      {
+        "id": "videos/how-i-use-maps-of-content-mocs",
+        "cuid": null,
+        "title": "How I Use Maps Of Content (MOCs)",
+        "collection": "videos",
+        "slug": "how-i-use-maps-of-content-mocs",
+        "filePath": "videos/How I Use Maps Of Content (MOCs).md"
+      },
+      {
+        "id": "videos/how-i-use-tags-in-obsidian",
+        "cuid": null,
+        "title": "How I Use Tags In Obsidian",
+        "collection": "videos",
+        "slug": "how-i-use-tags-in-obsidian",
+        "filePath": "videos/How I Use Tags In Obsidian.md"
+      },
+      {
+        "id": "videos/how-to-backup-obsidian-best-options",
+        "cuid": null,
+        "title": "How To Backup Obsidian - Best Options",
+        "collection": "videos",
+        "slug": "how-to-backup-obsidian-best-options",
+        "filePath": "videos/How To Backup Obsidian - Best Options.md"
+      },
+      {
+        "id": "videos/how-to-motivate-yourself-out-of-rock-bottom",
+        "cuid": null,
+        "title": "how-to-motivate-yourself-out-of-rock-bottom",
+        "collection": "videos",
+        "slug": "how-to-motivate-yourself-out-of-rock-bottom",
+        "filePath": "videos/How To Motivate Yourself Out Of Rock Bottom.md"
+      },
+      {
+        "id": "videos/how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "cuid": null,
+        "title": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "collection": "videos",
+        "slug": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "filePath": "videos/How to Build a Successful YouTube Channel in 2023 with Ruri Ohama.md"
+      },
+      {
+        "id": "videos/i-made-800-000-in-one-year-writing-2-hours-a-day",
+        "cuid": null,
+        "title": "I Made $800,000 In One Year Writing 2 Hours A Day",
+        "collection": "videos",
+        "slug": "i-made-800-000-in-one-year-writing-2-hours-a-day",
+        "filePath": "videos/I Made $800,000 In One Year Writing 2 Hours A Day.md"
+      },
+      {
+        "id": "20241203144614",
+        "cuid": "20241203144614",
+        "title": "LEARN ART ON YOUR OWN - Complete Guide (no art school)",
+        "collection": "videos",
+        "slug": "learn-art-on-your-own-complete-guide-no-art-school",
+        "filePath": "videos/LEARN ART ON YOUR OWN - Complete Guide (no art school).md"
+      },
+      {
+        "id": "videos/phases-of-inner-work",
+        "cuid": null,
+        "title": "phases-of-inner-work",
+        "collection": "videos",
+        "slug": "phases-of-inner-work",
+        "filePath": "videos/Phases of Inner Work.md"
+      },
+      {
+        "id": "20241203100942",
+        "cuid": "20241203100942",
+        "title": "Start looking at EVERYTHING as Practice",
+        "collection": "videos",
+        "slug": "start-looking-at-everything-as-practice",
+        "filePath": "videos/Start looking at EVERYTHING as Practice.md"
+      },
+      {
+        "id": "videos/test-video",
+        "cuid": null,
+        "title": "Test Note",
+        "collection": "videos",
+        "slug": "test-video",
+        "filePath": "videos/Test Video.md"
+      },
+      {
+        "id": "videos/the-5-best-obsidian-plugins-i-use",
+        "cuid": null,
+        "title": "The 5 Best Obsidian Plugins I Use",
+        "collection": "videos",
+        "slug": "the-5-best-obsidian-plugins-i-use",
+        "filePath": "videos/The 5 Best Obsidian Plugins I Use.md"
+      },
+      {
+        "id": "videos/the-5-best-obsidian-themes",
+        "cuid": null,
+        "title": "The 5 Best Obsidian Themes",
+        "collection": "videos",
+        "slug": "the-5-best-obsidian-themes",
+        "filePath": "videos/The 5 Best Obsidian Themes.md"
+      },
+      {
+        "id": "videos/the-best-way-to-add-media-to-your-obsidian-vault",
+        "cuid": null,
+        "title": "The Best Way To Add Media To Your Obsidian Vault",
+        "collection": "videos",
+        "slug": "the-best-way-to-add-media-to-your-obsidian-vault",
+        "filePath": "videos/The Best Way To Add Media To Your Obsidian Vault.md"
+      },
+      {
+        "id": "videos/top-10-obsidian-plugins",
+        "cuid": null,
+        "title": "top-10-obsidian-plugins",
+        "collection": "videos",
+        "slug": "top-10-obsidian-plugins",
+        "filePath": "videos/Top 10 Obsidian Plugins.md"
+      },
+      {
+        "id": "videos/why-you-need-to-learn-obsidian",
+        "cuid": null,
+        "title": "Why You Need To Learn Obsidian",
+        "collection": "videos",
+        "slug": "why-you-need-to-learn-obsidian",
+        "filePath": "videos/Why You Need To Learn Obsidian.md"
+      },
+      {
+        "id": "videos/zettelkasten-smart-notes-step-by-step-with-obsidian",
+        "cuid": null,
+        "title": "Zettelkasten Smart Notes",
+        "collection": "videos",
+        "slug": "zettelkasten-smart-notes-step-by-step-with-obsidian",
+        "filePath": "videos/Zettelkasten Smart Notes Step by Step with Obsidian.md"
+      },
+      {
+        "id": "videos/my-simple-note-taking-setup",
+        "cuid": null,
+        "title": "My simple note-taking setup",
+        "collection": "videos",
+        "slug": "my-simple-note-taking-setup",
+        "filePath": "videos/my-simple-note-taking-setup.md"
+      },
+      {
+        "id": "videos/obsidian-note-taking-tutorial-for-beginners",
+        "cuid": null,
+        "title": "Obsidian Note Taking Tutorial for Beginners",
+        "collection": "videos",
+        "slug": "obsidian-note-taking-tutorial-for-beginners",
+        "filePath": "videos/obsidian-note-taking-tutorial-for-beginners.md"
+      },
+      {
+        "id": "videos/zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "cuid": null,
+        "title": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "collection": "videos",
+        "slug": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "filePath": "videos/zettelkasten-note-taking-what-i-wish-i-knew about-smart-notes.md"
+      }
+    ],
+    "noInbound": [
+      {
+        "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+        "cuid": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "document-template",
+        "filePath": "_templates/Document Template.md"
+      },
+      {
+        "id": "_templates/process-1/contact",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-1/contact",
+        "filePath": "_templates/process 1/Contact.md"
+      },
+      {
+        "id": "_templates/process-1/daily",
+        "cuid": null,
+        "title": "daily",
+        "collection": "_templates",
+        "slug": "process-1/daily",
+        "filePath": "_templates/process 1/Daily.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-1",
+        "cuid": null,
+        "title": "template-daily-1",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-1",
+        "filePath": "_templates/process 1/Template Daily 1.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-2",
+        "cuid": null,
+        "title": "template-daily-2",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-2",
+        "filePath": "_templates/process 1/Template Daily 2.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-xxx",
+        "cuid": null,
+        "title": "template-daily-xxx",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-xxx",
+        "filePath": "_templates/process 1/Template Daily XXX.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily",
+        "cuid": null,
+        "title": "template-daily",
+        "collection": "_templates",
+        "slug": "process-1/template-daily",
+        "filePath": "_templates/process 1/Template Daily.md"
+      },
+      {
+        "id": "_templates/process-1/template-diary",
+        "cuid": null,
+        "title": "template-diary",
+        "collection": "_templates",
+        "slug": "process-1/template-diary",
+        "filePath": "_templates/process 1/Template Diary.md"
+      },
+      {
+        "id": "_templates/process-1/template-master-1",
+        "cuid": null,
+        "title": "template-master-1",
+        "collection": "_templates",
+        "slug": "process-1/template-master-1",
+        "filePath": "_templates/process 1/Template Master 1.md"
+      },
+      {
+        "id": "_templates/process-1/template-master-2",
+        "cuid": null,
+        "title": "template-master-2",
+        "collection": "_templates",
+        "slug": "process-1/template-master-2",
+        "filePath": "_templates/process 1/Template Master 2.md"
+      },
+      {
+        "id": "_templates/process-1/template-master",
+        "cuid": null,
+        "title": "template-master",
+        "collection": "_templates",
+        "slug": "process-1/template-master",
+        "filePath": "_templates/process 1/Template Master.md"
+      },
+      {
+        "id": "_templates/process-1/template-monthly",
+        "cuid": null,
+        "title": "template-monthly",
+        "collection": "_templates",
+        "slug": "process-1/template-monthly",
+        "filePath": "_templates/process 1/Template Monthly.md"
+      },
+      {
+        "id": "_templates/process-1/template-project",
+        "cuid": null,
+        "title": "template-project",
+        "collection": "_templates",
+        "slug": "process-1/template-project",
+        "filePath": "_templates/process 1/Template Project.md"
+      },
+      {
+        "id": "_templates/process-1/template-quarterly",
+        "cuid": null,
+        "title": "template-quarterly",
+        "collection": "_templates",
+        "slug": "process-1/template-quarterly",
+        "filePath": "_templates/process 1/Template Quarterly.md"
+      },
+      {
+        "id": "_templates/process-3/day",
+        "cuid": null,
+        "title": "day",
+        "collection": "_templates",
+        "slug": "process-3/day",
+        "filePath": "_templates/process 3/Day.md"
+      },
+      {
+        "id": "_templates/process-3/project-default",
+        "cuid": null,
+        "title": "project-default",
+        "collection": "_templates",
+        "slug": "process-3/project-default",
+        "filePath": "_templates/process 3/Project — Default.md"
+      },
+      {
+        "id": "_templates/process-3/template-offer-vehicle",
+        "cuid": null,
+        "title": "template-offer-vehicle",
+        "collection": "_templates",
+        "slug": "process-3/template-offer-vehicle",
+        "filePath": "_templates/process 3/Template - Offer Vehicle.md"
+      },
+      {
+        "id": "_templates/process-4/template-base",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-base",
+        "filePath": "_templates/process 4/Template - Base.md"
+      },
+      {
+        "id": "_templates/process-4/template-day-old",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-day-old",
+        "filePath": "_templates/process 4/Template - Day old.md"
+      },
+      {
+        "id": "_templates/process-4/template-projects",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-projects",
+        "filePath": "_templates/process 4/Template - Projects.md"
+      },
+      {
+        "id": "_templates/process-4/template-sovereign",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-sovereign",
+        "filePath": "_templates/process 4/Template - Sovereign.md"
+      },
+      {
+        "id": "_templates/process-4/template-weekly",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-weekly",
+        "filePath": "_templates/process 4/Template - Weekly.md"
+      },
+      {
+        "id": "_templates/process-4/template-workshop",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-workshop",
+        "filePath": "_templates/process 4/Template - Workshop.md"
+      },
+      {
+        "id": "_templates/process-4/template-yearly",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-yearly",
+        "filePath": "_templates/process 4/Template - Yearly.md"
+      },
+      {
+        "id": "_templates/process-5/template-letter",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-5/template-letter",
+        "filePath": "_templates/process 5/Template - Letter.md"
+      },
+      {
+        "id": "_templates/process-5/template-video",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-5/template-video",
+        "filePath": "_templates/process 5/Template - Video.md"
+      },
+      {
+        "id": "books/100m-leads-by-alex-harmozi",
+        "cuid": null,
+        "title": "100m-leads-by-alex-harmozi",
+        "collection": "books",
+        "slug": "100m-leads-by-alex-harmozi",
+        "filePath": "books/$100M Leads by Alex Harmozi.md"
+      },
+      {
+        "id": "books/100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "cuid": null,
+        "title": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "collection": "books",
+        "slug": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "filePath": "books/$100M Offers - The Bonus Chapters by Alex Hormozi.md"
+      },
+      {
+        "id": "books/100m-offers-the-lost-chapter-by-alex-hormozi",
+        "cuid": null,
+        "title": "100m-offers-the-lost-chapter-by-alex-hormozi",
+        "collection": "books",
+        "slug": "100m-offers-the-lost-chapter-by-alex-hormozi",
+        "filePath": "books/$100M Offers - The Lost Chapter by Alex Hormozi.md"
+      },
+      {
+        "id": "books/100m-offers-by-alex-harmozi",
+        "cuid": null,
+        "title": "100m-offers-by-alex-harmozi",
+        "collection": "books",
+        "slug": "100m-offers-by-alex-harmozi",
+        "filePath": "books/$100M Offers by Alex Harmozi.md"
+      },
+      {
+        "id": "20250215182714",
+        "cuid": "20250215182714",
+        "title": "Breaking the Habit of Being Yourself",
+        "collection": "books",
+        "slug": "breaking-the-habit-of-being-yourself-by-joe-dispenza",
+        "filePath": "books/Breaking the Habit of Being Yourself by Joe Dispenza.md"
+      },
+      {
+        "id": "books/muslimah-rights-pdf",
+        "cuid": null,
+        "title": "muslimah-rights-pdf",
+        "collection": "books",
+        "slug": "muslimah-rights-pdf",
+        "filePath": "books/Muslimah rights PDF.md"
+      },
+      {
+        "id": "books/snow-leopard-by",
+        "cuid": null,
+        "title": "snow-leopard-by",
+        "collection": "books",
+        "slug": "snow-leopard-by",
+        "filePath": "books/Snow Leopard by.md"
+      },
+      {
+        "id": "20250215234038",
+        "cuid": "20250215234038",
+        "title": "The Creative Act",
+        "collection": "books",
+        "slug": "the-creative-act-by-rick-rubin",
+        "filePath": "books/The Creative Act by Rick Rubin.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+        "cuid": null,
+        "title": "draft-01-foundation-or-planning-1",
+        "collection": "books",
+        "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+        "filePath": "books/The Homebody Series/Book 01 - The Purpose Of Marriage for Women/Draft 01 - Foundation or Planning (1) -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+        "cuid": null,
+        "title": "draft-01-investing-2-preparation",
+        "collection": "books",
+        "slug": "the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+        "filePath": "books/The Homebody Series/Book 02 - Getting Ready/Draft 01 Investing (2) - Preparation.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+        "cuid": null,
+        "title": "draft-08",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 08 -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "cuid": null,
+        "title": "draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 09 - The Unknown Wife - A Homebody’s Guide To Being Found.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "cuid": null,
+        "title": "draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 10 - The Hidden Wife - The Guide to Being Found by a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "cuid": null,
+        "title": "manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - The Guide to Being Found by a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+        "cuid": null,
+        "title": "manuscript-the-hidden-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+        "cuid": null,
+        "title": "draft-01-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 01 — Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+        "cuid": null,
+        "title": "draft-02-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 02 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+        "cuid": null,
+        "title": "draft-03-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 03 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+        "cuid": null,
+        "title": "draft-04-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 04 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+        "cuid": null,
+        "title": "draft-05-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 05 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+        "cuid": null,
+        "title": "draft-06-the-unknown-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 06 - The Unknown Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+        "cuid": null,
+        "title": "draft-07-the-hidden-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 07 - The Hidden Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+        "cuid": null,
+        "title": "draft-01-courting-4",
+        "collection": "books",
+        "slug": "the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+        "filePath": "books/The Homebody Series/Book 04 - Dating Is Stupid/Draft 01 — Courting (4) -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+        "cuid": null,
+        "title": "draft-01-the-four-pillars",
+        "collection": "books",
+        "slug": "the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+        "filePath": "books/The Homebody Series/Book 05 - The Four Pillars/Draft 01 - The Four Pillars.md"
+      },
+      {
+        "id": "books/the-homebody-series/the-homebody-series-moc",
+        "cuid": null,
+        "title": "the-homebody-series-moc",
+        "collection": "books",
+        "slug": "the-homebody-series/the-homebody-series-moc",
+        "filePath": "books/The Homebody Series/The Homebody Series MOC.md"
+      },
+      {
+        "id": "books/the-homebody-series/the-homebody-series-overview",
+        "cuid": null,
+        "title": "the-homebody-series-overview",
+        "collection": "books",
+        "slug": "the-homebody-series/the-homebody-series-overview",
+        "filePath": "books/The Homebody Series/The Homebody Series Overview.md"
+      },
+      {
+        "id": "20250301211643",
+        "cuid": "20250301211643",
+        "title": "The Way of Kings",
+        "collection": "books",
+        "slug": "the-way-of-kings-by-brandon-sanderson",
+        "filePath": "books/The Way of Kings by Brandon Sanderson.md"
+      },
+      {
+        "id": "books/think-and-grow-rich-by",
+        "cuid": null,
+        "title": "think-and-grow-rich-by",
+        "collection": "books",
+        "slug": "think-and-grow-rich-by",
+        "filePath": "books/Think and Grow Rich by.md"
+      },
+      {
+        "id": "books/ebook-post-course-reference-guide",
+        "cuid": null,
+        "title": "ebook-post-course-reference-guide",
+        "collection": "books",
+        "slug": "ebook-post-course-reference-guide",
+        "filePath": "books/eBook - Post Course Reference guide.md"
+      },
+      {
+        "id": "essays/being-in-a-relationship-as-a-neurodivergent-person",
+        "cuid": null,
+        "title": "being-in-a-relationship-as-a-neurodivergent-person",
+        "collection": "essays",
+        "slug": "being-in-a-relationship-as-a-neurodivergent-person",
+        "filePath": "essays/Being in a relationship as a neurodivergent person.md"
+      },
+      {
+        "id": "essays/building-self-worth-and-confidence",
+        "cuid": null,
+        "title": "building-self-worth-and-confidence",
+        "collection": "essays",
+        "slug": "building-self-worth-and-confidence",
+        "filePath": "essays/Building Self-Worth and Confidence.md"
+      },
+      {
+        "id": "essays/creating-a-fulfilling-life-beyond-trauma",
+        "cuid": null,
+        "title": "creating-a-fulfilling-life-beyond-trauma",
+        "collection": "essays",
+        "slug": "creating-a-fulfilling-life-beyond-trauma",
+        "filePath": "essays/Creating a Fulfilling Life Beyond Trauma.md"
+      },
+      {
+        "id": "essays/developing-healthy-relationships",
+        "cuid": null,
+        "title": "developing-healthy-relationships",
+        "collection": "essays",
+        "slug": "developing-healthy-relationships",
+        "filePath": "essays/Developing Healthy Relationships.md"
+      },
+      {
+        "id": "essays/enhancing-emotional-intelligence",
+        "cuid": null,
+        "title": "enhancing-emotional-intelligence",
+        "collection": "essays",
+        "slug": "enhancing-emotional-intelligence",
+        "filePath": "essays/Enhancing Emotional Intelligence.md"
+      },
+      {
+        "id": "essays/healing-emotional-wounds",
+        "cuid": null,
+        "title": "healing-emotional-wounds",
+        "collection": "essays",
+        "slug": "healing-emotional-wounds",
+        "filePath": "essays/Healing Emotional Wounds.md"
+      },
+      {
+        "id": "essays/the-ignored-trauma-of-men",
+        "cuid": null,
+        "title": "the-ignored-trauma-of-men",
+        "collection": "essays",
+        "slug": "the-ignored-trauma-of-men",
+        "filePath": "essays/The Ignored trauma. Of men.md"
+      },
+      {
+        "id": "essays/why-am-i-the-one-to-make-the-stand-for-men",
+        "cuid": null,
+        "title": "why-am-i-the-one-to-make-the-stand-for-men",
+        "collection": "essays",
+        "slug": "why-am-i-the-one-to-make-the-stand-for-men",
+        "filePath": "essays/Why am i the one to make the stand for men.md"
+      },
+      {
+        "id": "20251113203756",
+        "cuid": "20251113203756",
+        "title": "Essay A Test",
+        "collection": "essays",
+        "slug": "aessay-a",
+        "filePath": "essays/aessay-a.md"
+      },
+      {
+        "id": "essays/the-burden-of-masculinity",
+        "cuid": null,
+        "title": "the burden of masculinity",
+        "collection": "essays",
+        "slug": "the-burden-of-masculinity",
+        "filePath": "essays/the burden of masculinity.md"
+      },
+      {
+        "id": "essays/the-change-need-to-fix-the-male-development-space",
+        "cuid": null,
+        "title": "the-change-need-to-fix-the-male-development-space",
+        "collection": "essays",
+        "slug": "the-change-need-to-fix-the-male-development-space",
+        "filePath": "essays/the change need to fix the male development space.md"
+      },
+      {
+        "id": "essays/the-problem-with-today-s-male-ladership-spaces",
+        "cuid": null,
+        "title": "the-problem-with-today-s-male-ladership-spaces",
+        "collection": "essays",
+        "slug": "the-problem-with-today-s-male-ladership-spaces",
+        "filePath": "essays/the problem with today's male ladership spaces.md"
+      },
+      {
+        "id": "essays/why-my-male-centered-content-needs-to-exist",
+        "cuid": null,
+        "title": "why-my-male-centered-content-needs-to-exist",
+        "collection": "essays",
+        "slug": "why-my-male-centered-content-needs-to-exist",
+        "filePath": "essays/why my male centered content needs to exist.md"
+      },
+      {
+        "id": "20241108163917",
+        "cuid": "20241108163917",
+        "title": "Always give the exact change when you can",
+        "collection": "notes",
+        "slug": "always-give-the-exact-change-when-you-can",
+        "filePath": "notes/Always give the exact change when you can.md"
+      },
+      {
+        "id": "20241024113422",
+        "cuid": "20241024113422",
+        "title": "Fundamental weakness of manhood is sexual desire",
+        "collection": "notes",
+        "slug": "fundamental-weakness-of-manhood-is-sexual-desire",
+        "filePath": "notes/Fundamental weakness of manhood is sexual desire.md"
+      },
+      {
+        "id": "20241108152421",
+        "cuid": "20241108152421",
+        "title": "Profess Protect Provide",
+        "collection": "notes",
+        "slug": "man-must-profess-protect-and-provide-for-his-women",
+        "filePath": "notes/Man must profess, protect, and provide for his women.md"
+      },
+      {
+        "id": "20241024234138",
+        "cuid": "20241024234138",
+        "title": "Men seek to experience comfort more than women",
+        "collection": "notes",
+        "slug": "men-seek-to-experience-comfort-more-than-women",
+        "filePath": "notes/Men seek to experience comfort more than women.md"
+      },
+      {
+        "id": "20241108190055",
+        "cuid": "20241108190055",
+        "title": "Rough human beings around children",
+        "collection": "notes",
+        "slug": "rough-human-beings-around-children",
+        "filePath": "notes/Rough human beings around children.md"
+      },
+      {
+        "id": "20241108173042",
+        "cuid": "20241108173042",
+        "title": "Sex to “keep” your man is stupid.",
+        "collection": "notes",
+        "slug": "sex-to-keep-your-man-is-stupid",
+        "filePath": "notes/Sex to “keep” your man is stupid.md"
+      },
+      {
+        "id": "20241110091822",
+        "cuid": "20241110091822",
+        "title": "The best size to mimic hand written slip notes for Zettlekasten",
+        "collection": "notes",
+        "slug": "the-best-size-to-mimic-hand-written-slip-notes-for-zettlekasten",
+        "filePath": "notes/The best size to mimic hand written slip notes for Zettlekasten.md"
+      },
+      {
+        "id": "20241024235705",
+        "cuid": "20241024235705",
+        "title": "WoW an acronym for walk on water",
+        "collection": "notes",
+        "slug": "the-necessary-alignment-of-belief-focus-and-action",
+        "filePath": "notes/The necessary alignment of belief, focus, and action.md"
+      },
+      {
+        "id": "20241108224645",
+        "cuid": "20241108224645",
+        "title": "Vetting a woman with kids",
+        "collection": "notes",
+        "slug": "vetting-a-woman-with-kids-is-simple",
+        "filePath": "notes/Vetting a woman with kids is simple.md"
+      },
+      {
+        "id": "20241110084222",
+        "cuid": "20241110084222",
+        "title": "When writing mini essays restrict it to one single idea",
+        "collection": "notes",
+        "slug": "when-writing-mini-essays-restrict-it-to-one-single-idea",
+        "filePath": "notes/When writing mini essays restrict it to one single idea.md"
+      },
+      {
+        "id": "20241108181156",
+        "cuid": "20241108181156",
+        "title": "Women are under constant threat and as a man you must be their shield",
+        "collection": "notes",
+        "slug": "women-are-under-constant-threat-and-as-a-man-you-must-be-their-shield",
+        "filePath": "notes/Women are under constant threat and as a man you must be their shield.md"
+      },
+      {
+        "id": "20241108151215",
+        "cuid": "20241108151215",
+        "title": "Women set standards and struggle to maintain boundaries",
+        "collection": "notes",
+        "slug": "women-set-standards-and-struggle-to-maintain-boundaries",
+        "filePath": "notes/Women set standards and struggle to maintain boundaries.md"
+      },
+      {
+        "id": "20241110084739",
+        "cuid": "20241110084739",
+        "title": "Writing with the intention for skill development",
+        "collection": "notes",
+        "slug": "writing-with-the-intention-for-skill-development",
+        "filePath": "notes/Writing with the intention for skill development.md"
+      },
+      {
+        "id": "pages/about",
+        "cuid": null,
+        "title": "About",
+        "collection": "pages",
+        "slug": "about",
+        "filePath": "pages/about.md"
+      },
+      {
+        "id": "pages/contact",
+        "cuid": null,
+        "title": "contact",
+        "collection": "pages",
+        "slug": "contact",
+        "filePath": "pages/contact.md"
+      },
+      {
+        "id": "pages/essays",
+        "cuid": null,
+        "title": "Essays",
+        "collection": "pages",
+        "slug": "essays",
+        "filePath": "pages/essays.md"
+      },
+      {
+        "id": "pages/home",
+        "cuid": null,
+        "title": "Home",
+        "collection": "pages",
+        "slug": "home",
+        "filePath": "pages/home.md"
+      },
+      {
+        "id": "pages/loe-subscriber-offer",
+        "cuid": null,
+        "title": "Subscription Success",
+        "collection": "pages",
+        "slug": "loe-subscriber-offer",
+        "filePath": "pages/loe-subscriber-offer.md"
+      },
+      {
+        "id": "pages/loe-subscriber-reminder",
+        "cuid": null,
+        "title": "Subscription Reminder",
+        "collection": "pages",
+        "slug": "loe-subscriber-reminder",
+        "filePath": "pages/loe-subscriber-reminder.md"
+      },
+      {
+        "id": "pages/roadmap",
+        "cuid": null,
+        "title": "Website Roadmap",
+        "collection": "pages",
+        "slug": "roadmap",
+        "filePath": "pages/roadmap.md"
+      },
+      {
+        "id": "pages/staff",
+        "cuid": null,
+        "title": "Staff",
+        "collection": "pages",
+        "slug": "staff",
+        "filePath": "pages/staff.md"
+      },
+      {
+        "id": "home",
+        "cuid": "home",
+        "title": "test",
+        "collection": "pages",
+        "slug": "test",
+        "filePath": "pages/test.md"
+      },
+      {
+        "id": "pages/voyagers",
+        "cuid": null,
+        "title": "Voyager’s Harbour",
+        "collection": "pages",
+        "slug": "voyagers",
+        "filePath": "pages/voyagers.md"
+      },
+      {
+        "id": "persons/alan-watts-2",
+        "cuid": null,
+        "title": "alan-watts-2",
+        "collection": "persons",
+        "slug": "alan-watts-2",
+        "filePath": "persons/Alan Watts 2.md"
+      },
+      {
+        "id": "persons/alan-watts",
+        "cuid": null,
+        "title": "alan-watts",
+        "collection": "persons",
+        "slug": "alan-watts",
+        "filePath": "persons/Alan Watts.md"
+      },
+      {
+        "id": "persons/austin-kleon",
+        "cuid": null,
+        "title": "austin-kleon",
+        "collection": "persons",
+        "slug": "austin-kleon",
+        "filePath": "persons/Austin Kleon.md"
+      },
+      {
+        "id": "persons/bessel-van-der-kolk",
+        "cuid": null,
+        "title": "bessel-van-der-kolk",
+        "collection": "persons",
+        "slug": "bessel-van-der-kolk",
+        "filePath": "persons/Bessel van der Kolk.md"
+      },
+      {
+        "id": "persons/bren-brown",
+        "cuid": null,
+        "title": "bren-brown",
+        "collection": "persons",
+        "slug": "bren-brown",
+        "filePath": "persons/Brené Brown.md"
+      },
+      {
+        "id": "persons/charlie-munger",
+        "cuid": null,
+        "title": "charlie-munger",
+        "collection": "persons",
+        "slug": "charlie-munger",
+        "filePath": "persons/Charlie Munger.md"
+      },
+      {
+        "id": "persons/dale-carnegie",
+        "cuid": null,
+        "title": "dale-carnegie",
+        "collection": "persons",
+        "slug": "dale-carnegie",
+        "filePath": "persons/Dale Carnegie.md"
+      },
+      {
+        "id": "persons/elizabeth-gilbert",
+        "cuid": null,
+        "title": "elizabeth-gilbert",
+        "collection": "persons",
+        "slug": "elizabeth-gilbert",
+        "filePath": "persons/Elizabeth Gilbert.md"
+      },
+      {
+        "id": "persons/esther-perel",
+        "cuid": null,
+        "title": "esther-perel",
+        "collection": "persons",
+        "slug": "esther-perel",
+        "filePath": "persons/Esther Perel.md"
+      },
+      {
+        "id": "persons/gabor-mat",
+        "cuid": null,
+        "title": "gabor-mat",
+        "collection": "persons",
+        "slug": "gabor-mat",
+        "filePath": "persons/Gabor Maté.md"
+      },
+      {
+        "id": "persons/hassan-clay",
+        "cuid": null,
+        "title": "hassan-clay",
+        "collection": "persons",
+        "slug": "hassan-clay",
+        "filePath": "persons/Hassan Clay.md"
+      },
+      {
+        "id": "persons/james-allen",
+        "cuid": null,
+        "title": "james-allen",
+        "collection": "persons",
+        "slug": "james-allen",
+        "filePath": "persons/James Allen.md"
+      },
+      {
+        "id": "persons/james-clear",
+        "cuid": null,
+        "title": "james-clear",
+        "collection": "persons",
+        "slug": "james-clear",
+        "filePath": "persons/James Clear.md"
+      },
+      {
+        "id": "persons/john-gottman",
+        "cuid": null,
+        "title": "john-gottman",
+        "collection": "persons",
+        "slug": "john-gottman",
+        "filePath": "persons/John Gottman.md"
+      },
+      {
+        "id": "persons/marie-forleo",
+        "cuid": null,
+        "title": "marie-forleo",
+        "collection": "persons",
+        "slug": "marie-forleo",
+        "filePath": "persons/Marie Forleo.md"
+      },
+      {
+        "id": "persons/mike-nisbett",
+        "cuid": null,
+        "title": "mike-nisbett",
+        "collection": "persons",
+        "slug": "mike-nisbett",
+        "filePath": "persons/Mike Nisbett.md"
+      },
+      {
+        "id": "persons/peter-a-levine",
+        "cuid": null,
+        "title": "peter-a-levine",
+        "collection": "persons",
+        "slug": "peter-a-levine",
+        "filePath": "persons/Peter A. Levine.md"
+      },
+      {
+        "id": "persons/robert-greene",
+        "cuid": null,
+        "title": "robert-greene",
+        "collection": "persons",
+        "slug": "robert-greene",
+        "filePath": "persons/Robert Greene.md"
+      },
+      {
+        "id": "persons/shane-parrish",
+        "cuid": null,
+        "title": "shane-parrish",
+        "collection": "persons",
+        "slug": "shane-parrish",
+        "filePath": "persons/Shane Parrish.md"
+      },
+      {
+        "id": "persons/simon-sinek",
+        "cuid": null,
+        "title": "simon-sinek",
+        "collection": "persons",
+        "slug": "simon-sinek",
+        "filePath": "persons/Simon Sinek.md"
+      },
+      {
+        "id": "persons/sue-johnson",
+        "cuid": null,
+        "title": "sue-johnson",
+        "collection": "persons",
+        "slug": "sue-johnson",
+        "filePath": "persons/Sue Johnson.md"
+      },
+      {
+        "id": "persons/s-nke-ahrens",
+        "cuid": null,
+        "title": "s-nke-ahrens",
+        "collection": "persons",
+        "slug": "s-nke-ahrens",
+        "filePath": "persons/Sönke Ahrens.md"
+      },
+      {
+        "id": "persons/tony-robbins",
+        "cuid": null,
+        "title": "tony-robbins",
+        "collection": "persons",
+        "slug": "tony-robbins",
+        "filePath": "persons/Tony Robbins.md"
+      },
+      {
+        "id": "projects/data-viz-dashboard",
+        "cuid": null,
+        "title": "Data Visualization Dashboard",
+        "collection": "projects",
+        "slug": "data-viz-dashboard",
+        "filePath": "projects/data-viz-dashboard.md"
+      },
+      {
+        "id": "projects/mini-lims",
+        "cuid": null,
+        "title": "Mini LIMS — Laboratory Information Prototype",
+        "collection": "projects",
+        "slug": "mini-lims",
+        "filePath": "projects/mini-lims.md"
+      },
+      {
+        "id": "projects/personal-knowledge-hub",
+        "cuid": null,
+        "title": "Personal Knowledge Hub",
+        "collection": "projects",
+        "slug": "personal-knowledge-hub",
+        "filePath": "projects/personal-knowledge-hub.md"
+      },
+      {
+        "id": "projects/scriptorium",
+        "cuid": null,
+        "title": "Scriptorium — The Second Brain Editor",
+        "collection": "projects",
+        "slug": "scriptorium",
+        "filePath": "projects/scriptorium.md"
+      },
+      {
+        "id": "projects/thunder-recall",
+        "cuid": null,
+        "title": "Thunder Recall — The Memory Engine",
+        "collection": "projects",
+        "slug": "thunder-recall",
+        "filePath": "projects/thunder-recall.md"
+      },
+      {
+        "id": "projects/ui-library",
+        "cuid": null,
+        "title": "Interactive UI System Library",
+        "collection": "projects",
+        "slug": "ui-library",
+        "filePath": "projects/ui-library.md"
+      },
+      {
+        "id": "projects/voyager-os",
+        "cuid": null,
+        "title": "Voyager OS (V-OS)",
+        "collection": "projects",
+        "slug": "voyager-os",
+        "filePath": "projects/voyager-os.md"
+      },
+      {
+        "id": "20241108154310",
+        "cuid": "20241108154310",
+        "title": "If I fail it is only because I have too much pride and ambition",
+        "collection": "quotes",
+        "slug": "if-i-fail-it-is-only-because-i-have-too-much-pride-and-ambition",
+        "filePath": "quotes/If I fail it is only because I have too much pride and ambition.md"
+      },
+      {
+        "id": "20241108162151",
+        "cuid": "20241108162151",
+        "title": "If you are asked to be the hero be the hero",
+        "collection": "quotes",
+        "slug": "if-you-are-asked-to-be-the-hero-be-the-hero",
+        "filePath": "quotes/If you are asked to be the hero be the hero.md"
+      },
+      {
+        "id": "20241108161826",
+        "cuid": "20241108161826",
+        "title": "The impact of what you are thinking is what is judged",
+        "collection": "quotes",
+        "slug": "the-impact-of-what-you-are-thinking-is-what-is-judged",
+        "filePath": "quotes/The impact of what you are thinking is what is judged.md"
+      },
+      {
+        "id": "20241209133153",
+        "cuid": "20241209133153",
+        "title": "The last tree the last fish the last river",
+        "collection": "quotes",
+        "slug": "the-last-tree-the-last-fish-the-last-river",
+        "filePath": "quotes/The last tree the last fish the last river.md"
+      },
+      {
+        "id": "20241108160044",
+        "cuid": "20241108160044",
+        "title": "Thought is mastery, calmness is power",
+        "collection": "quotes",
+        "slug": "thought-is-mastery-calmness-is-power",
+        "filePath": "quotes/Thought is mastery, calmness is power.md"
+      },
+      {
+        "id": "20241110085057",
+        "cuid": "20241110085057",
+        "title": "Use your weaknesses to drive your strengths",
+        "collection": "quotes",
+        "slug": "use-your-weaknesses-to-drive-your-strengths",
+        "filePath": "quotes/Use your weaknesses to drive your strengths.md"
+      },
+      {
+        "id": "20241108161155",
+        "cuid": "20241108161155",
+        "title": "Wealth is how long can you go without working",
+        "collection": "quotes",
+        "slug": "wealth-is-how-long-can-you-go-without-working",
+        "filePath": "quotes/Wealth is how long can you go without working.md"
+      },
+      {
+        "id": "20241108191138",
+        "cuid": "20241108191138",
+        "title": "You do and you are what he thinks of you — fathers to daughters",
+        "collection": "quotes",
+        "slug": "you-do-and-you-are-what-he-thinks-of-you-fathers-to-daughters",
+        "filePath": "quotes/You do and you are what he thinks of you — fathers to daughters.md"
+      },
+      {
+        "id": "20241216124803",
+        "cuid": "20241216124803",
+        "title": "10,000hrs 2024 - Art with Spaced Repetition",
+        "collection": "references",
+        "slug": "10-000hrs-2024-art-with-spaced-repetition",
+        "filePath": "references/10,000hrs 2024 - Art with Spaced Repetition.md"
+      },
+      {
+        "id": "20250402093821",
+        "cuid": "20250402093821",
+        "title": "Ali Abdaal 2024 - Build an Online Community",
+        "collection": "references",
+        "slug": "ali-abdaal-2024-build-an-online-community",
+        "filePath": "references/Ali Abdaal 2024 - Build an Online Community.md"
+      },
+      {
+        "id": "references/brian-p-moran-2013-the-12-week-year",
+        "cuid": null,
+        "title": "brian-p-moran-2013-the-12-week-year",
+        "collection": "references",
+        "slug": "brian-p-moran-2013-the-12-week-year",
+        "filePath": "references/Brian P Moran 2013 - The 12 Week Year.md"
+      },
+      {
+        "id": "videos/13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "cuid": null,
+        "title": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "collection": "videos",
+        "slug": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "filePath": "videos/$13,000 in a Month - The Digital Product Money-Making Blueprint.md"
+      },
+      {
+        "id": "videos/10-most-profitable-niches-for-freelance-copywriting-in-2021",
+        "cuid": null,
+        "title": "10 Most Profitable Niches for Freelance Copywriting in 2021",
+        "collection": "videos",
+        "slug": "10-most-profitable-niches-for-freelance-copywriting-in-2021",
+        "filePath": "videos/10 Most Profitable Niches for Freelance Copywriting in 2021.md"
+      },
+      {
+        "id": "videos/how-i-use-maps-of-content-mocs",
+        "cuid": null,
+        "title": "How I Use Maps Of Content (MOCs)",
+        "collection": "videos",
+        "slug": "how-i-use-maps-of-content-mocs",
+        "filePath": "videos/How I Use Maps Of Content (MOCs).md"
+      },
+      {
+        "id": "videos/how-i-use-tags-in-obsidian",
+        "cuid": null,
+        "title": "How I Use Tags In Obsidian",
+        "collection": "videos",
+        "slug": "how-i-use-tags-in-obsidian",
+        "filePath": "videos/How I Use Tags In Obsidian.md"
+      },
+      {
+        "id": "videos/how-to-backup-obsidian-best-options",
+        "cuid": null,
+        "title": "How To Backup Obsidian - Best Options",
+        "collection": "videos",
+        "slug": "how-to-backup-obsidian-best-options",
+        "filePath": "videos/How To Backup Obsidian - Best Options.md"
+      },
+      {
+        "id": "videos/how-to-motivate-yourself-out-of-rock-bottom",
+        "cuid": null,
+        "title": "how-to-motivate-yourself-out-of-rock-bottom",
+        "collection": "videos",
+        "slug": "how-to-motivate-yourself-out-of-rock-bottom",
+        "filePath": "videos/How To Motivate Yourself Out Of Rock Bottom.md"
+      },
+      {
+        "id": "videos/how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "cuid": null,
+        "title": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "collection": "videos",
+        "slug": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "filePath": "videos/How to Build a Successful YouTube Channel in 2023 with Ruri Ohama.md"
+      },
+      {
+        "id": "videos/i-made-800-000-in-one-year-writing-2-hours-a-day",
+        "cuid": null,
+        "title": "I Made $800,000 In One Year Writing 2 Hours A Day",
+        "collection": "videos",
+        "slug": "i-made-800-000-in-one-year-writing-2-hours-a-day",
+        "filePath": "videos/I Made $800,000 In One Year Writing 2 Hours A Day.md"
+      },
+      {
+        "id": "20241203144614",
+        "cuid": "20241203144614",
+        "title": "LEARN ART ON YOUR OWN - Complete Guide (no art school)",
+        "collection": "videos",
+        "slug": "learn-art-on-your-own-complete-guide-no-art-school",
+        "filePath": "videos/LEARN ART ON YOUR OWN - Complete Guide (no art school).md"
+      },
+      {
+        "id": "videos/phases-of-inner-work",
+        "cuid": null,
+        "title": "phases-of-inner-work",
+        "collection": "videos",
+        "slug": "phases-of-inner-work",
+        "filePath": "videos/Phases of Inner Work.md"
+      },
+      {
+        "id": "20241203100942",
+        "cuid": "20241203100942",
+        "title": "Start looking at EVERYTHING as Practice",
+        "collection": "videos",
+        "slug": "start-looking-at-everything-as-practice",
+        "filePath": "videos/Start looking at EVERYTHING as Practice.md"
+      },
+      {
+        "id": "videos/test-video",
+        "cuid": null,
+        "title": "Test Note",
+        "collection": "videos",
+        "slug": "test-video",
+        "filePath": "videos/Test Video.md"
+      },
+      {
+        "id": "videos/the-5-best-obsidian-plugins-i-use",
+        "cuid": null,
+        "title": "The 5 Best Obsidian Plugins I Use",
+        "collection": "videos",
+        "slug": "the-5-best-obsidian-plugins-i-use",
+        "filePath": "videos/The 5 Best Obsidian Plugins I Use.md"
+      },
+      {
+        "id": "videos/the-5-best-obsidian-themes",
+        "cuid": null,
+        "title": "The 5 Best Obsidian Themes",
+        "collection": "videos",
+        "slug": "the-5-best-obsidian-themes",
+        "filePath": "videos/The 5 Best Obsidian Themes.md"
+      },
+      {
+        "id": "videos/the-best-way-to-add-media-to-your-obsidian-vault",
+        "cuid": null,
+        "title": "The Best Way To Add Media To Your Obsidian Vault",
+        "collection": "videos",
+        "slug": "the-best-way-to-add-media-to-your-obsidian-vault",
+        "filePath": "videos/The Best Way To Add Media To Your Obsidian Vault.md"
+      },
+      {
+        "id": "videos/top-10-obsidian-plugins",
+        "cuid": null,
+        "title": "top-10-obsidian-plugins",
+        "collection": "videos",
+        "slug": "top-10-obsidian-plugins",
+        "filePath": "videos/Top 10 Obsidian Plugins.md"
+      },
+      {
+        "id": "videos/why-you-need-to-learn-obsidian",
+        "cuid": null,
+        "title": "Why You Need To Learn Obsidian",
+        "collection": "videos",
+        "slug": "why-you-need-to-learn-obsidian",
+        "filePath": "videos/Why You Need To Learn Obsidian.md"
+      },
+      {
+        "id": "videos/zettelkasten-smart-notes-step-by-step-with-obsidian",
+        "cuid": null,
+        "title": "Zettelkasten Smart Notes",
+        "collection": "videos",
+        "slug": "zettelkasten-smart-notes-step-by-step-with-obsidian",
+        "filePath": "videos/Zettelkasten Smart Notes Step by Step with Obsidian.md"
+      },
+      {
+        "id": "videos/my-simple-note-taking-setup",
+        "cuid": null,
+        "title": "My simple note-taking setup",
+        "collection": "videos",
+        "slug": "my-simple-note-taking-setup",
+        "filePath": "videos/my-simple-note-taking-setup.md"
+      },
+      {
+        "id": "videos/obsidian-note-taking-tutorial-for-beginners",
+        "cuid": null,
+        "title": "Obsidian Note Taking Tutorial for Beginners",
+        "collection": "videos",
+        "slug": "obsidian-note-taking-tutorial-for-beginners",
+        "filePath": "videos/obsidian-note-taking-tutorial-for-beginners.md"
+      },
+      {
+        "id": "videos/zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "cuid": null,
+        "title": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "collection": "videos",
+        "slug": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "filePath": "videos/zettelkasten-note-taking-what-i-wish-i-knew about-smart-notes.md"
+      }
+    ],
+    "noOutbound": [
+      {
+        "id": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+        "cuid": "{{date:YYYYMMDD}}{{time:HHmmss}}",
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "document-template",
+        "filePath": "_templates/Document Template.md"
+      },
+      {
+        "id": "_templates/process-1/contact",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-1/contact",
+        "filePath": "_templates/process 1/Contact.md"
+      },
+      {
+        "id": "_templates/process-1/daily",
+        "cuid": null,
+        "title": "daily",
+        "collection": "_templates",
+        "slug": "process-1/daily",
+        "filePath": "_templates/process 1/Daily.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-1",
+        "cuid": null,
+        "title": "template-daily-1",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-1",
+        "filePath": "_templates/process 1/Template Daily 1.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-2",
+        "cuid": null,
+        "title": "template-daily-2",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-2",
+        "filePath": "_templates/process 1/Template Daily 2.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily-xxx",
+        "cuid": null,
+        "title": "template-daily-xxx",
+        "collection": "_templates",
+        "slug": "process-1/template-daily-xxx",
+        "filePath": "_templates/process 1/Template Daily XXX.md"
+      },
+      {
+        "id": "_templates/process-1/template-daily",
+        "cuid": null,
+        "title": "template-daily",
+        "collection": "_templates",
+        "slug": "process-1/template-daily",
+        "filePath": "_templates/process 1/Template Daily.md"
+      },
+      {
+        "id": "_templates/process-1/template-diary",
+        "cuid": null,
+        "title": "template-diary",
+        "collection": "_templates",
+        "slug": "process-1/template-diary",
+        "filePath": "_templates/process 1/Template Diary.md"
+      },
+      {
+        "id": "_templates/process-1/template-master-1",
+        "cuid": null,
+        "title": "template-master-1",
+        "collection": "_templates",
+        "slug": "process-1/template-master-1",
+        "filePath": "_templates/process 1/Template Master 1.md"
+      },
+      {
+        "id": "_templates/process-1/template-master-2",
+        "cuid": null,
+        "title": "template-master-2",
+        "collection": "_templates",
+        "slug": "process-1/template-master-2",
+        "filePath": "_templates/process 1/Template Master 2.md"
+      },
+      {
+        "id": "_templates/process-1/template-master",
+        "cuid": null,
+        "title": "template-master",
+        "collection": "_templates",
+        "slug": "process-1/template-master",
+        "filePath": "_templates/process 1/Template Master.md"
+      },
+      {
+        "id": "_templates/process-1/template-monthly",
+        "cuid": null,
+        "title": "template-monthly",
+        "collection": "_templates",
+        "slug": "process-1/template-monthly",
+        "filePath": "_templates/process 1/Template Monthly.md"
+      },
+      {
+        "id": "_templates/process-1/template-project",
+        "cuid": null,
+        "title": "template-project",
+        "collection": "_templates",
+        "slug": "process-1/template-project",
+        "filePath": "_templates/process 1/Template Project.md"
+      },
+      {
+        "id": "_templates/process-1/template-quarterly",
+        "cuid": null,
+        "title": "template-quarterly",
+        "collection": "_templates",
+        "slug": "process-1/template-quarterly",
+        "filePath": "_templates/process 1/Template Quarterly.md"
+      },
+      {
+        "id": "_templates/process-3/day",
+        "cuid": null,
+        "title": "day",
+        "collection": "_templates",
+        "slug": "process-3/day",
+        "filePath": "_templates/process 3/Day.md"
+      },
+      {
+        "id": "_templates/process-3/project-default",
+        "cuid": null,
+        "title": "project-default",
+        "collection": "_templates",
+        "slug": "process-3/project-default",
+        "filePath": "_templates/process 3/Project — Default.md"
+      },
+      {
+        "id": "_templates/process-3/template-offer-vehicle",
+        "cuid": null,
+        "title": "template-offer-vehicle",
+        "collection": "_templates",
+        "slug": "process-3/template-offer-vehicle",
+        "filePath": "_templates/process 3/Template - Offer Vehicle.md"
+      },
+      {
+        "id": "_templates/process-4/template-base",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-base",
+        "filePath": "_templates/process 4/Template - Base.md"
+      },
+      {
+        "id": "_templates/process-4/template-day-old",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-day-old",
+        "filePath": "_templates/process 4/Template - Day old.md"
+      },
+      {
+        "id": "_templates/process-4/template-projects",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-projects",
+        "filePath": "_templates/process 4/Template - Projects.md"
+      },
+      {
+        "id": "_templates/process-4/template-sovereign",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-sovereign",
+        "filePath": "_templates/process 4/Template - Sovereign.md"
+      },
+      {
+        "id": "_templates/process-4/template-weekly",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-weekly",
+        "filePath": "_templates/process 4/Template - Weekly.md"
+      },
+      {
+        "id": "_templates/process-4/template-workshop",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-workshop",
+        "filePath": "_templates/process 4/Template - Workshop.md"
+      },
+      {
+        "id": "_templates/process-4/template-yearly",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-4/template-yearly",
+        "filePath": "_templates/process 4/Template - Yearly.md"
+      },
+      {
+        "id": "_templates/process-5/template-letter",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-5/template-letter",
+        "filePath": "_templates/process 5/Template - Letter.md"
+      },
+      {
+        "id": "_templates/process-5/template-video",
+        "cuid": null,
+        "title": "{{title}}",
+        "collection": "_templates",
+        "slug": "process-5/template-video",
+        "filePath": "_templates/process 5/Template - Video.md"
+      },
+      {
+        "id": "books/100m-leads-by-alex-harmozi",
+        "cuid": null,
+        "title": "100m-leads-by-alex-harmozi",
+        "collection": "books",
+        "slug": "100m-leads-by-alex-harmozi",
+        "filePath": "books/$100M Leads by Alex Harmozi.md"
+      },
+      {
+        "id": "books/100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "cuid": null,
+        "title": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "collection": "books",
+        "slug": "100m-offers-the-bonus-chapters-by-alex-hormozi",
+        "filePath": "books/$100M Offers - The Bonus Chapters by Alex Hormozi.md"
+      },
+      {
+        "id": "books/100m-offers-the-lost-chapter-by-alex-hormozi",
+        "cuid": null,
+        "title": "100m-offers-the-lost-chapter-by-alex-hormozi",
+        "collection": "books",
+        "slug": "100m-offers-the-lost-chapter-by-alex-hormozi",
+        "filePath": "books/$100M Offers - The Lost Chapter by Alex Hormozi.md"
+      },
+      {
+        "id": "books/100m-offers-by-alex-harmozi",
+        "cuid": null,
+        "title": "100m-offers-by-alex-harmozi",
+        "collection": "books",
+        "slug": "100m-offers-by-alex-harmozi",
+        "filePath": "books/$100M Offers by Alex Harmozi.md"
+      },
+      {
+        "id": "20250215182714",
+        "cuid": "20250215182714",
+        "title": "Breaking the Habit of Being Yourself",
+        "collection": "books",
+        "slug": "breaking-the-habit-of-being-yourself-by-joe-dispenza",
+        "filePath": "books/Breaking the Habit of Being Yourself by Joe Dispenza.md"
+      },
+      {
+        "id": "20241023102846",
+        "cuid": "20241023102846",
+        "title": "How to Take Smart Notes",
+        "collection": "books",
+        "slug": "how-to-take-smart-notes-by-s-nke-ahrens",
+        "filePath": "books/How to Take Smart Notes by Sönke Ahrens.md"
+      },
+      {
+        "id": "books/muslimah-rights-pdf",
+        "cuid": null,
+        "title": "muslimah-rights-pdf",
+        "collection": "books",
+        "slug": "muslimah-rights-pdf",
+        "filePath": "books/Muslimah rights PDF.md"
+      },
+      {
+        "id": "books/snow-leopard-by",
+        "cuid": null,
+        "title": "snow-leopard-by",
+        "collection": "books",
+        "slug": "snow-leopard-by",
+        "filePath": "books/Snow Leopard by.md"
+      },
+      {
+        "id": "20250215234038",
+        "cuid": "20250215234038",
+        "title": "The Creative Act",
+        "collection": "books",
+        "slug": "the-creative-act-by-rick-rubin",
+        "filePath": "books/The Creative Act by Rick Rubin.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+        "cuid": null,
+        "title": "draft-01-foundation-or-planning-1",
+        "collection": "books",
+        "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/draft-01-foundation-or-planning-1",
+        "filePath": "books/The Homebody Series/Book 01 - The Purpose Of Marriage for Women/Draft 01 - Foundation or Planning (1) -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+        "cuid": null,
+        "title": "the-purpose-of-marriage-it-s-never-been-about-love",
+        "collection": "books",
+        "slug": "the-homebody-series/book-01-the-purpose-of-marriage-for-women/the-purpose-of-marriage-it-s-never-been-about-love",
+        "filePath": "books/The Homebody Series/Book 01 - The Purpose Of Marriage for Women/The Purpose of Marriage - It's Never Been About Love.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+        "cuid": null,
+        "title": "draft-01-investing-2-preparation",
+        "collection": "books",
+        "slug": "the-homebody-series/book-02-getting-ready/draft-01-investing-2-preparation",
+        "filePath": "books/The Homebody Series/Book 02 - Getting Ready/Draft 01 Investing (2) - Preparation.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+        "cuid": null,
+        "title": "getting-ready-understanding-marriage-minded-men",
+        "collection": "books",
+        "slug": "the-homebody-series/book-02-getting-ready/getting-ready-understanding-marriage-minded-men",
+        "filePath": "books/The Homebody Series/Book 02 - Getting Ready/Getting Ready - Understanding Marriage Minded Men.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+        "cuid": null,
+        "title": "draft-01-ebook-positioning-for-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-01-ebook-positioning-for-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 01 eBook — Positioning for a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+        "cuid": null,
+        "title": "draft-02-human-review",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-02-human-review",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 02 — Human Review.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+        "cuid": null,
+        "title": "draft-04-chatgpt",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-04-chatgpt",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 04 - ChatGPT.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+        "cuid": null,
+        "title": "draft-05",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-05",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 05.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+        "cuid": null,
+        "title": "draft-06-final-draft-review",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-06-final-draft-review",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 06 - Final Draft Review.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+        "cuid": null,
+        "title": "draft-08",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-08",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 08 -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "cuid": null,
+        "title": "draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-09-the-unknown-wife-a-homebody-s-guide-to-being-found",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 09 - The Unknown Wife - A Homebody’s Guide To Being Found.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "cuid": null,
+        "title": "draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/draft-10-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/Draft 10 - The Hidden Wife - The Guide to Being Found by a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+        "cuid": null,
+        "title": "the-optional-chapter",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/book/the-optional-chapter",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Book/The Optional Chapter.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "cuid": null,
+        "title": "manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-the-guide-to-being-found-by-a-husband",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - The Guide to Being Found by a Husband.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+        "cuid": null,
+        "title": "manuscript-the-hidden-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/manuscript/manuscript-the-hidden-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Manuscript/Manuscript - The Hidden Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+        "cuid": null,
+        "title": "marketing-the-book",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/marketing-the-book",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Marketing the Book.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+        "cuid": null,
+        "title": "draft-01-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-01-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 01 — Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+        "cuid": null,
+        "title": "draft-02-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-02-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 02 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+        "cuid": null,
+        "title": "draft-03-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-03-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 03 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+        "cuid": null,
+        "title": "draft-04-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-04-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 04 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+        "cuid": null,
+        "title": "draft-05-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-05-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 05 - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+        "cuid": null,
+        "title": "draft-06-the-unknown-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-06-the-unknown-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 06 - The Unknown Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+        "cuid": null,
+        "title": "draft-07-the-hidden-wife-workbook",
+        "collection": "books",
+        "slug": "the-homebody-series/book-03-the-hidden-wife/workbook/draft-07-the-hidden-wife-workbook",
+        "filePath": "books/The Homebody Series/Book 03 - The Hidden Wife/Workbook/Draft 07 - The Hidden Wife - Workbook.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+        "cuid": null,
+        "title": "dating-is-stupid-courtship-is-the-only-way-to-marriage",
+        "collection": "books",
+        "slug": "the-homebody-series/book-04-dating-is-stupid/dating-is-stupid-courtship-is-the-only-way-to-marriage",
+        "filePath": "books/The Homebody Series/Book 04 - Dating Is Stupid/Dating Is Stupid - Courtship Is The Only Way To Marriage.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+        "cuid": null,
+        "title": "draft-01-courting-4",
+        "collection": "books",
+        "slug": "the-homebody-series/book-04-dating-is-stupid/draft-01-courting-4",
+        "filePath": "books/The Homebody Series/Book 04 - Dating Is Stupid/Draft 01 — Courting (4) -.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+        "cuid": null,
+        "title": "draft-01-the-four-pillars",
+        "collection": "books",
+        "slug": "the-homebody-series/book-05-the-four-pillars/draft-01-the-four-pillars",
+        "filePath": "books/The Homebody Series/Book 05 - The Four Pillars/Draft 01 - The Four Pillars.md"
+      },
+      {
+        "id": "books/the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+        "cuid": null,
+        "title": "the-four-pillars-the-foundation-for-a-functional-marriage",
+        "collection": "books",
+        "slug": "the-homebody-series/book-05-the-four-pillars/the-four-pillars-the-foundation-for-a-functional-marriage",
+        "filePath": "books/The Homebody Series/Book 05 - The Four Pillars/The Four Pillars - The Foundation For A Functional Marriage.md"
+      },
+      {
+        "id": "books/the-homebody-series/the-homebody-series-overview",
+        "cuid": null,
+        "title": "the-homebody-series-overview",
+        "collection": "books",
+        "slug": "the-homebody-series/the-homebody-series-overview",
+        "filePath": "books/The Homebody Series/The Homebody Series Overview.md"
+      },
+      {
+        "id": "20250301211643",
+        "cuid": "20250301211643",
+        "title": "The Way of Kings",
+        "collection": "books",
+        "slug": "the-way-of-kings-by-brandon-sanderson",
+        "filePath": "books/The Way of Kings by Brandon Sanderson.md"
+      },
+      {
+        "id": "books/think-and-grow-rich-by",
+        "cuid": null,
+        "title": "think-and-grow-rich-by",
+        "collection": "books",
+        "slug": "think-and-grow-rich-by",
+        "filePath": "books/Think and Grow Rich by.md"
+      },
+      {
+        "id": "books/ebook-post-course-reference-guide",
+        "cuid": null,
+        "title": "ebook-post-course-reference-guide",
+        "collection": "books",
+        "slug": "ebook-post-course-reference-guide",
+        "filePath": "books/eBook - Post Course Reference guide.md"
+      },
+      {
+        "id": "essays/being-in-a-relationship-as-a-neurodivergent-person",
+        "cuid": null,
+        "title": "being-in-a-relationship-as-a-neurodivergent-person",
+        "collection": "essays",
+        "slug": "being-in-a-relationship-as-a-neurodivergent-person",
+        "filePath": "essays/Being in a relationship as a neurodivergent person.md"
+      },
+      {
+        "id": "essays/building-self-worth-and-confidence",
+        "cuid": null,
+        "title": "building-self-worth-and-confidence",
+        "collection": "essays",
+        "slug": "building-self-worth-and-confidence",
+        "filePath": "essays/Building Self-Worth and Confidence.md"
+      },
+      {
+        "id": "essays/creating-a-fulfilling-life-beyond-trauma",
+        "cuid": null,
+        "title": "creating-a-fulfilling-life-beyond-trauma",
+        "collection": "essays",
+        "slug": "creating-a-fulfilling-life-beyond-trauma",
+        "filePath": "essays/Creating a Fulfilling Life Beyond Trauma.md"
+      },
+      {
+        "id": "essays/developing-healthy-relationships",
+        "cuid": null,
+        "title": "developing-healthy-relationships",
+        "collection": "essays",
+        "slug": "developing-healthy-relationships",
+        "filePath": "essays/Developing Healthy Relationships.md"
+      },
+      {
+        "id": "essays/enhancing-emotional-intelligence",
+        "cuid": null,
+        "title": "enhancing-emotional-intelligence",
+        "collection": "essays",
+        "slug": "enhancing-emotional-intelligence",
+        "filePath": "essays/Enhancing Emotional Intelligence.md"
+      },
+      {
+        "id": "essays/healing-emotional-wounds",
+        "cuid": null,
+        "title": "healing-emotional-wounds",
+        "collection": "essays",
+        "slug": "healing-emotional-wounds",
+        "filePath": "essays/Healing Emotional Wounds.md"
+      },
+      {
+        "id": "essays/the-ignored-trauma-of-men",
+        "cuid": null,
+        "title": "the-ignored-trauma-of-men",
+        "collection": "essays",
+        "slug": "the-ignored-trauma-of-men",
+        "filePath": "essays/The Ignored trauma. Of men.md"
+      },
+      {
+        "id": "essays/why-am-i-the-one-to-make-the-stand-for-men",
+        "cuid": null,
+        "title": "why-am-i-the-one-to-make-the-stand-for-men",
+        "collection": "essays",
+        "slug": "why-am-i-the-one-to-make-the-stand-for-men",
+        "filePath": "essays/Why am i the one to make the stand for men.md"
+      },
+      {
+        "id": "essays/the-burden-of-masculinity",
+        "cuid": null,
+        "title": "the burden of masculinity",
+        "collection": "essays",
+        "slug": "the-burden-of-masculinity",
+        "filePath": "essays/the burden of masculinity.md"
+      },
+      {
+        "id": "essays/the-change-need-to-fix-the-male-development-space",
+        "cuid": null,
+        "title": "the-change-need-to-fix-the-male-development-space",
+        "collection": "essays",
+        "slug": "the-change-need-to-fix-the-male-development-space",
+        "filePath": "essays/the change need to fix the male development space.md"
+      },
+      {
+        "id": "essays/the-problem-with-today-s-male-ladership-spaces",
+        "cuid": null,
+        "title": "the-problem-with-today-s-male-ladership-spaces",
+        "collection": "essays",
+        "slug": "the-problem-with-today-s-male-ladership-spaces",
+        "filePath": "essays/the problem with today's male ladership spaces.md"
+      },
+      {
+        "id": "essays/why-my-male-centered-content-needs-to-exist",
+        "cuid": null,
+        "title": "why-my-male-centered-content-needs-to-exist",
+        "collection": "essays",
+        "slug": "why-my-male-centered-content-needs-to-exist",
+        "filePath": "essays/why my male centered content needs to exist.md"
+      },
+      {
+        "id": "20241110195140",
+        "cuid": "20241110195140",
+        "title": "Match the story to the idea you want to express",
+        "collection": "notes",
+        "slug": "match-the-story-to-the-idea-you-want-to-express",
+        "filePath": "notes/Match the story to the idea you want to express.md"
+      },
+      {
+        "id": "20241209102640",
+        "cuid": "20241209102640",
+        "title": "Men want women who are childlike",
+        "collection": "notes",
+        "slug": "men-want-women-who-are-childlike",
+        "filePath": "notes/Men want women who are childlike.md"
+      },
+      {
+        "id": "20241108190055",
+        "cuid": "20241108190055",
+        "title": "Rough human beings around children",
+        "collection": "notes",
+        "slug": "rough-human-beings-around-children",
+        "filePath": "notes/Rough human beings around children.md"
+      },
+      {
+        "id": "20241024235705",
+        "cuid": "20241024235705",
+        "title": "WoW an acronym for walk on water",
+        "collection": "notes",
+        "slug": "the-necessary-alignment-of-belief-focus-and-action",
+        "filePath": "notes/The necessary alignment of belief, focus, and action.md"
+      },
+      {
+        "id": "20251113140926",
+        "cuid": "20251113140926",
+        "title": "Note One-A",
+        "collection": "notes",
+        "slug": "anote-1a",
+        "filePath": "notes/anote-1a.md"
+      },
+      {
+        "id": "20251113201624",
+        "cuid": "20251113201624",
+        "title": "Note Two-A",
+        "collection": "notes",
+        "slug": "anote-2a",
+        "filePath": "notes/anote-2a.md"
+      },
+      {
+        "id": "pages/about",
+        "cuid": null,
+        "title": "About",
+        "collection": "pages",
+        "slug": "about",
+        "filePath": "pages/about.md"
+      },
+      {
+        "id": "pages/contact",
+        "cuid": null,
+        "title": "contact",
+        "collection": "pages",
+        "slug": "contact",
+        "filePath": "pages/contact.md"
+      },
+      {
+        "id": "pages/essays",
+        "cuid": null,
+        "title": "Essays",
+        "collection": "pages",
+        "slug": "essays",
+        "filePath": "pages/essays.md"
+      },
+      {
+        "id": "pages/home",
+        "cuid": null,
+        "title": "Home",
+        "collection": "pages",
+        "slug": "home",
+        "filePath": "pages/home.md"
+      },
+      {
+        "id": "pages/loe-subscriber-offer",
+        "cuid": null,
+        "title": "Subscription Success",
+        "collection": "pages",
+        "slug": "loe-subscriber-offer",
+        "filePath": "pages/loe-subscriber-offer.md"
+      },
+      {
+        "id": "pages/loe-subscriber-reminder",
+        "cuid": null,
+        "title": "Subscription Reminder",
+        "collection": "pages",
+        "slug": "loe-subscriber-reminder",
+        "filePath": "pages/loe-subscriber-reminder.md"
+      },
+      {
+        "id": "pages/roadmap",
+        "cuid": null,
+        "title": "Website Roadmap",
+        "collection": "pages",
+        "slug": "roadmap",
+        "filePath": "pages/roadmap.md"
+      },
+      {
+        "id": "pages/staff",
+        "cuid": null,
+        "title": "Staff",
+        "collection": "pages",
+        "slug": "staff",
+        "filePath": "pages/staff.md"
+      },
+      {
+        "id": "home",
+        "cuid": "home",
+        "title": "test",
+        "collection": "pages",
+        "slug": "test",
+        "filePath": "pages/test.md"
+      },
+      {
+        "id": "persons/alan-watts-2",
+        "cuid": null,
+        "title": "alan-watts-2",
+        "collection": "persons",
+        "slug": "alan-watts-2",
+        "filePath": "persons/Alan Watts 2.md"
+      },
+      {
+        "id": "persons/alan-watts",
+        "cuid": null,
+        "title": "alan-watts",
+        "collection": "persons",
+        "slug": "alan-watts",
+        "filePath": "persons/Alan Watts.md"
+      },
+      {
+        "id": "persons/austin-kleon",
+        "cuid": null,
+        "title": "austin-kleon",
+        "collection": "persons",
+        "slug": "austin-kleon",
+        "filePath": "persons/Austin Kleon.md"
+      },
+      {
+        "id": "persons/bessel-van-der-kolk",
+        "cuid": null,
+        "title": "bessel-van-der-kolk",
+        "collection": "persons",
+        "slug": "bessel-van-der-kolk",
+        "filePath": "persons/Bessel van der Kolk.md"
+      },
+      {
+        "id": "persons/bren-brown",
+        "cuid": null,
+        "title": "bren-brown",
+        "collection": "persons",
+        "slug": "bren-brown",
+        "filePath": "persons/Brené Brown.md"
+      },
+      {
+        "id": "persons/charlie-munger",
+        "cuid": null,
+        "title": "charlie-munger",
+        "collection": "persons",
+        "slug": "charlie-munger",
+        "filePath": "persons/Charlie Munger.md"
+      },
+      {
+        "id": "persons/dale-carnegie",
+        "cuid": null,
+        "title": "dale-carnegie",
+        "collection": "persons",
+        "slug": "dale-carnegie",
+        "filePath": "persons/Dale Carnegie.md"
+      },
+      {
+        "id": "persons/elizabeth-gilbert",
+        "cuid": null,
+        "title": "elizabeth-gilbert",
+        "collection": "persons",
+        "slug": "elizabeth-gilbert",
+        "filePath": "persons/Elizabeth Gilbert.md"
+      },
+      {
+        "id": "persons/esther-perel",
+        "cuid": null,
+        "title": "esther-perel",
+        "collection": "persons",
+        "slug": "esther-perel",
+        "filePath": "persons/Esther Perel.md"
+      },
+      {
+        "id": "persons/gabor-mat",
+        "cuid": null,
+        "title": "gabor-mat",
+        "collection": "persons",
+        "slug": "gabor-mat",
+        "filePath": "persons/Gabor Maté.md"
+      },
+      {
+        "id": "persons/hassan-clay",
+        "cuid": null,
+        "title": "hassan-clay",
+        "collection": "persons",
+        "slug": "hassan-clay",
+        "filePath": "persons/Hassan Clay.md"
+      },
+      {
+        "id": "persons/james-allen",
+        "cuid": null,
+        "title": "james-allen",
+        "collection": "persons",
+        "slug": "james-allen",
+        "filePath": "persons/James Allen.md"
+      },
+      {
+        "id": "persons/james-clear",
+        "cuid": null,
+        "title": "james-clear",
+        "collection": "persons",
+        "slug": "james-clear",
+        "filePath": "persons/James Clear.md"
+      },
+      {
+        "id": "persons/john-gottman",
+        "cuid": null,
+        "title": "john-gottman",
+        "collection": "persons",
+        "slug": "john-gottman",
+        "filePath": "persons/John Gottman.md"
+      },
+      {
+        "id": "persons/marie-forleo",
+        "cuid": null,
+        "title": "marie-forleo",
+        "collection": "persons",
+        "slug": "marie-forleo",
+        "filePath": "persons/Marie Forleo.md"
+      },
+      {
+        "id": "persons/mike-nisbett",
+        "cuid": null,
+        "title": "mike-nisbett",
+        "collection": "persons",
+        "slug": "mike-nisbett",
+        "filePath": "persons/Mike Nisbett.md"
+      },
+      {
+        "id": "persons/peter-a-levine",
+        "cuid": null,
+        "title": "peter-a-levine",
+        "collection": "persons",
+        "slug": "peter-a-levine",
+        "filePath": "persons/Peter A. Levine.md"
+      },
+      {
+        "id": "persons/robert-greene",
+        "cuid": null,
+        "title": "robert-greene",
+        "collection": "persons",
+        "slug": "robert-greene",
+        "filePath": "persons/Robert Greene.md"
+      },
+      {
+        "id": "persons/shane-parrish",
+        "cuid": null,
+        "title": "shane-parrish",
+        "collection": "persons",
+        "slug": "shane-parrish",
+        "filePath": "persons/Shane Parrish.md"
+      },
+      {
+        "id": "persons/simon-sinek",
+        "cuid": null,
+        "title": "simon-sinek",
+        "collection": "persons",
+        "slug": "simon-sinek",
+        "filePath": "persons/Simon Sinek.md"
+      },
+      {
+        "id": "persons/souen-ursule-cyrus",
+        "cuid": null,
+        "title": "souen-ursule-cyrus",
+        "collection": "persons",
+        "slug": "souen-ursule-cyrus",
+        "filePath": "persons/Souen Ursule-Cyrus.md"
+      },
+      {
+        "id": "persons/sue-johnson",
+        "cuid": null,
+        "title": "sue-johnson",
+        "collection": "persons",
+        "slug": "sue-johnson",
+        "filePath": "persons/Sue Johnson.md"
+      },
+      {
+        "id": "persons/s-nke-ahrens",
+        "cuid": null,
+        "title": "s-nke-ahrens",
+        "collection": "persons",
+        "slug": "s-nke-ahrens",
+        "filePath": "persons/Sönke Ahrens.md"
+      },
+      {
+        "id": "persons/tony-robbins",
+        "cuid": null,
+        "title": "tony-robbins",
+        "collection": "persons",
+        "slug": "tony-robbins",
+        "filePath": "persons/Tony Robbins.md"
+      },
+      {
+        "id": "20250302093919",
+        "cuid": "20250302093919",
+        "title": "How to Build an Online Community - Jay Clouse",
+        "collection": "podcasts",
+        "slug": "how-to-build-an-online-community-jay-clouse",
+        "filePath": "podcasts/How to Build an Online Community - Jay Clouse.md"
+      },
+      {
+        "id": "projects/data-viz-dashboard",
+        "cuid": null,
+        "title": "Data Visualization Dashboard",
+        "collection": "projects",
+        "slug": "data-viz-dashboard",
+        "filePath": "projects/data-viz-dashboard.md"
+      },
+      {
+        "id": "projects/mini-lims",
+        "cuid": null,
+        "title": "Mini LIMS — Laboratory Information Prototype",
+        "collection": "projects",
+        "slug": "mini-lims",
+        "filePath": "projects/mini-lims.md"
+      },
+      {
+        "id": "projects/personal-knowledge-hub",
+        "cuid": null,
+        "title": "Personal Knowledge Hub",
+        "collection": "projects",
+        "slug": "personal-knowledge-hub",
+        "filePath": "projects/personal-knowledge-hub.md"
+      },
+      {
+        "id": "projects/scriptorium",
+        "cuid": null,
+        "title": "Scriptorium — The Second Brain Editor",
+        "collection": "projects",
+        "slug": "scriptorium",
+        "filePath": "projects/scriptorium.md"
+      },
+      {
+        "id": "projects/thunder-recall",
+        "cuid": null,
+        "title": "Thunder Recall — The Memory Engine",
+        "collection": "projects",
+        "slug": "thunder-recall",
+        "filePath": "projects/thunder-recall.md"
+      },
+      {
+        "id": "projects/ui-library",
+        "cuid": null,
+        "title": "Interactive UI System Library",
+        "collection": "projects",
+        "slug": "ui-library",
+        "filePath": "projects/ui-library.md"
+      },
+      {
+        "id": "projects/voyager-os",
+        "cuid": null,
+        "title": "Voyager OS (V-OS)",
+        "collection": "projects",
+        "slug": "voyager-os",
+        "filePath": "projects/voyager-os.md"
+      },
+      {
+        "id": "20241108154310",
+        "cuid": "20241108154310",
+        "title": "If I fail it is only because I have too much pride and ambition",
+        "collection": "quotes",
+        "slug": "if-i-fail-it-is-only-because-i-have-too-much-pride-and-ambition",
+        "filePath": "quotes/If I fail it is only because I have too much pride and ambition.md"
+      },
+      {
+        "id": "20241108161826",
+        "cuid": "20241108161826",
+        "title": "The impact of what you are thinking is what is judged",
+        "collection": "quotes",
+        "slug": "the-impact-of-what-you-are-thinking-is-what-is-judged",
+        "filePath": "quotes/The impact of what you are thinking is what is judged.md"
+      },
+      {
+        "id": "20241209133153",
+        "cuid": "20241209133153",
+        "title": "The last tree the last fish the last river",
+        "collection": "quotes",
+        "slug": "the-last-tree-the-last-fish-the-last-river",
+        "filePath": "quotes/The last tree the last fish the last river.md"
+      },
+      {
+        "id": "20241108160044",
+        "cuid": "20241108160044",
+        "title": "Thought is mastery, calmness is power",
+        "collection": "quotes",
+        "slug": "thought-is-mastery-calmness-is-power",
+        "filePath": "quotes/Thought is mastery, calmness is power.md"
+      },
+      {
+        "id": "20241108161155",
+        "cuid": "20241108161155",
+        "title": "Wealth is how long can you go without working",
+        "collection": "quotes",
+        "slug": "wealth-is-how-long-can-you-go-without-working",
+        "filePath": "quotes/Wealth is how long can you go without working.md"
+      },
+      {
+        "id": "20241108191138",
+        "cuid": "20241108191138",
+        "title": "You do and you are what he thinks of you — fathers to daughters",
+        "collection": "quotes",
+        "slug": "you-do-and-you-are-what-he-thinks-of-you-fathers-to-daughters",
+        "filePath": "quotes/You do and you are what he thinks of you — fathers to daughters.md"
+      },
+      {
+        "id": "references/brian-p-moran-2013-the-12-week-year",
+        "cuid": null,
+        "title": "brian-p-moran-2013-the-12-week-year",
+        "collection": "references",
+        "slug": "brian-p-moran-2013-the-12-week-year",
+        "filePath": "references/Brian P Moran 2013 - The 12 Week Year.md"
+      },
+      {
+        "id": "20250402091639",
+        "cuid": "20250402091639",
+        "title": "Game of Thrones 2011 - Season 5",
+        "collection": "references",
+        "slug": "game-of-thrones-2011-season-5",
+        "filePath": "references/Game of Thrones 2011 - Season 5.md"
+      },
+      {
+        "id": "20250314004100",
+        "cuid": "20250314004100",
+        "title": "The Walking Dead 2010 - Season 8",
+        "collection": "references",
+        "slug": "the-walking-dead-2010-season-8",
+        "filePath": "references/The Walking Dead 2010 - Season 8.md"
+      },
+      {
+        "id": "videos/13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "cuid": null,
+        "title": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "collection": "videos",
+        "slug": "13-000-in-a-month-the-digital-product-money-making-blueprint",
+        "filePath": "videos/$13,000 in a Month - The Digital Product Money-Making Blueprint.md"
+      },
+      {
+        "id": "videos/10-most-profitable-niches-for-freelance-copywriting-in-2021",
+        "cuid": null,
+        "title": "10 Most Profitable Niches for Freelance Copywriting in 2021",
+        "collection": "videos",
+        "slug": "10-most-profitable-niches-for-freelance-copywriting-in-2021",
+        "filePath": "videos/10 Most Profitable Niches for Freelance Copywriting in 2021.md"
+      },
+      {
+        "id": "videos/how-i-use-maps-of-content-mocs",
+        "cuid": null,
+        "title": "How I Use Maps Of Content (MOCs)",
+        "collection": "videos",
+        "slug": "how-i-use-maps-of-content-mocs",
+        "filePath": "videos/How I Use Maps Of Content (MOCs).md"
+      },
+      {
+        "id": "videos/how-i-use-tags-in-obsidian",
+        "cuid": null,
+        "title": "How I Use Tags In Obsidian",
+        "collection": "videos",
+        "slug": "how-i-use-tags-in-obsidian",
+        "filePath": "videos/How I Use Tags In Obsidian.md"
+      },
+      {
+        "id": "videos/how-to-backup-obsidian-best-options",
+        "cuid": null,
+        "title": "How To Backup Obsidian - Best Options",
+        "collection": "videos",
+        "slug": "how-to-backup-obsidian-best-options",
+        "filePath": "videos/How To Backup Obsidian - Best Options.md"
+      },
+      {
+        "id": "videos/how-to-motivate-yourself-out-of-rock-bottom",
+        "cuid": null,
+        "title": "how-to-motivate-yourself-out-of-rock-bottom",
+        "collection": "videos",
+        "slug": "how-to-motivate-yourself-out-of-rock-bottom",
+        "filePath": "videos/How To Motivate Yourself Out Of Rock Bottom.md"
+      },
+      {
+        "id": "videos/how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "cuid": null,
+        "title": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "collection": "videos",
+        "slug": "how-to-build-a-successful-youtube-channel-in-2023-with-ruri-ohama",
+        "filePath": "videos/How to Build a Successful YouTube Channel in 2023 with Ruri Ohama.md"
+      },
+      {
+        "id": "20241110135020",
+        "cuid": "20241110135020",
+        "title": "How to Write a Mini-Essay",
+        "collection": "videos",
+        "slug": "how-to-write-a-mini-essay-by-odysseas",
+        "filePath": "videos/How to Write a Mini-Essay by Odysseas.md"
+      },
+      {
+        "id": "videos/i-made-800-000-in-one-year-writing-2-hours-a-day",
+        "cuid": null,
+        "title": "I Made $800,000 In One Year Writing 2 Hours A Day",
+        "collection": "videos",
+        "slug": "i-made-800-000-in-one-year-writing-2-hours-a-day",
+        "filePath": "videos/I Made $800,000 In One Year Writing 2 Hours A Day.md"
+      },
+      {
+        "id": "20241216124905",
+        "cuid": "20241216124905",
+        "title": "Improve Your Art With Spaced Repitition - the ultimate step-by-step guide",
+        "collection": "videos",
+        "slug": "improve-your-art-with-spaced-repitition-the-ultimate-step-by-step-guide",
+        "filePath": "videos/Improve Your Art With Spaced Repitition - the ultimate step-by-step guide.md"
+      },
+      {
+        "id": "20241203144614",
+        "cuid": "20241203144614",
+        "title": "LEARN ART ON YOUR OWN - Complete Guide (no art school)",
+        "collection": "videos",
+        "slug": "learn-art-on-your-own-complete-guide-no-art-school",
+        "filePath": "videos/LEARN ART ON YOUR OWN - Complete Guide (no art school).md"
+      },
+      {
+        "id": "20241108225900",
+        "cuid": "20241108225900",
+        "title": "Mini Essays",
+        "collection": "videos",
+        "slug": "mini-essays-the-ultimate-learning-tool-by-odysseas",
+        "filePath": "videos/Mini Essays - The Ultimate Learning Tool by Odysseas.md"
+      },
+      {
+        "id": "videos/phases-of-inner-work",
+        "cuid": null,
+        "title": "phases-of-inner-work",
+        "collection": "videos",
+        "slug": "phases-of-inner-work",
+        "filePath": "videos/Phases of Inner Work.md"
+      },
+      {
+        "id": "20241203100942",
+        "cuid": "20241203100942",
+        "title": "Start looking at EVERYTHING as Practice",
+        "collection": "videos",
+        "slug": "start-looking-at-everything-as-practice",
+        "filePath": "videos/Start looking at EVERYTHING as Practice.md"
+      },
+      {
+        "id": "videos/test-video",
+        "cuid": null,
+        "title": "Test Note",
+        "collection": "videos",
+        "slug": "test-video",
+        "filePath": "videos/Test Video.md"
+      },
+      {
+        "id": "videos/the-5-best-obsidian-plugins-i-use",
+        "cuid": null,
+        "title": "The 5 Best Obsidian Plugins I Use",
+        "collection": "videos",
+        "slug": "the-5-best-obsidian-plugins-i-use",
+        "filePath": "videos/The 5 Best Obsidian Plugins I Use.md"
+      },
+      {
+        "id": "videos/the-5-best-obsidian-themes",
+        "cuid": null,
+        "title": "The 5 Best Obsidian Themes",
+        "collection": "videos",
+        "slug": "the-5-best-obsidian-themes",
+        "filePath": "videos/The 5 Best Obsidian Themes.md"
+      },
+      {
+        "id": "videos/the-best-way-to-add-media-to-your-obsidian-vault",
+        "cuid": null,
+        "title": "The Best Way To Add Media To Your Obsidian Vault",
+        "collection": "videos",
+        "slug": "the-best-way-to-add-media-to-your-obsidian-vault",
+        "filePath": "videos/The Best Way To Add Media To Your Obsidian Vault.md"
+      },
+      {
+        "id": "videos/top-10-obsidian-plugins",
+        "cuid": null,
+        "title": "top-10-obsidian-plugins",
+        "collection": "videos",
+        "slug": "top-10-obsidian-plugins",
+        "filePath": "videos/Top 10 Obsidian Plugins.md"
+      },
+      {
+        "id": "videos/why-you-need-to-learn-obsidian",
+        "cuid": null,
+        "title": "Why You Need To Learn Obsidian",
+        "collection": "videos",
+        "slug": "why-you-need-to-learn-obsidian",
+        "filePath": "videos/Why You Need To Learn Obsidian.md"
+      },
+      {
+        "id": "videos/zettelkasten-smart-notes-step-by-step-with-obsidian",
+        "cuid": null,
+        "title": "Zettelkasten Smart Notes",
+        "collection": "videos",
+        "slug": "zettelkasten-smart-notes-step-by-step-with-obsidian",
+        "filePath": "videos/Zettelkasten Smart Notes Step by Step with Obsidian.md"
+      },
+      {
+        "id": "videos/my-simple-note-taking-setup",
+        "cuid": null,
+        "title": "My simple note-taking setup",
+        "collection": "videos",
+        "slug": "my-simple-note-taking-setup",
+        "filePath": "videos/my-simple-note-taking-setup.md"
+      },
+      {
+        "id": "videos/obsidian-note-taking-tutorial-for-beginners",
+        "cuid": null,
+        "title": "Obsidian Note Taking Tutorial for Beginners",
+        "collection": "videos",
+        "slug": "obsidian-note-taking-tutorial-for-beginners",
+        "filePath": "videos/obsidian-note-taking-tutorial-for-beginners.md"
+      },
+      {
+        "id": "videos/zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "cuid": null,
+        "title": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "collection": "videos",
+        "slug": "zettelkasten-note-taking-what-i-wish-i-knew-about-smart-notes",
+        "filePath": "videos/zettelkasten-note-taking-what-i-wish-i-knew about-smart-notes.md"
+      }
+    ]
+  }
+}
