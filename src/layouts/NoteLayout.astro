@@ -1,0 +1,40 @@
+---
+// File: src/layouts/NoteLayout.astro
+import BaseLayout from './BaseLayout.astro';
+
+import SourceLinks from '../components/links/SourceLinks.astro';
+import ChainLinks from '../components/links/ChainLinks.astro';
+import ResourceLinks from '../components/links/ResourceLinks.astro';
+import Backlinks from '../components/links/Backlinks.astro';
+
+import {
+  getNodeBySlug,
+  flattenNodeLinks,
+  type ContentLink,
+} from '../lib/graph';
+
+interface Props {
+  slug: string;  // must match the slug used in content-map.json
+  title: string;
+}
+
+const { slug, title } = Astro.props;
+
+// Look up this note in the content-map and flatten its links
+const node = getNodeBySlug(slug);
+const links: ContentLink[] = node ? flattenNodeLinks(node) : [];
+---
+
+<BaseLayout pageTitle={title}>
+  <article>
+    <h1>{title}</h1>
+    <slot />
+  </article>
+
+  <aside>
+    <SourceLinks links={links} />
+    <ChainLinks links={links} />
+    <!-- <ResourceLinks links={links} /> -->
+    <Backlinks links={links} />
+  </aside>
+</BaseLayout>

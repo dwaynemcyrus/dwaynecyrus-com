@@ -1,0 +1,152 @@
+---
+// File: ./src/components/links/ChainLinks.astro
+import type { ContentLink } from '../../lib/graph';
+
+interface Props {
+  links: ContentLink[];
+  heading?: string;
+  description?: string;
+  emptyLabel?: string;
+  referencedLabel?: string;
+}
+
+const {
+  links = [],
+  heading,
+  description,
+  emptyLabel = 'This note is not part of any chain yet.',
+  referencedLabel = 'This note is not part of any chain yet, but other notes reference it.',
+} = Astro.props;
+
+// Outbound chain neighbors: notes this note explicitly chains TO
+const outboundChain = links.filter(
+  (link) => link.direction === 'chain'
+);
+
+// Inbound chain neighbors: notes that explicitly chain TO this note
+const inboundChain = links.filter(
+  (link) => link.direction === 'inbound' && link.kind === 'chains'
+);
+
+// Backlinks = inbound non-source links (for hybrid empty state)
+const backlinks = links.filter(
+  (link) => link.direction === 'inbound' && link.kind !== 'source'
+);
+
+const hasChain = outboundChain.length > 0 || inboundChain.length > 0;
+const hasBacklinks = backlinks.length > 0;
+---
+
+<section class="chains">
+  <h2>{heading ?? 'Chain'}</h2>
+
+  {description && (
+    <p class="chains__description">
+      {description}
+    </p>
+  )}
+
+  {hasChain ? (
+    <>
+      {outboundChain.length > 0 && (
+        <div class="chains__group">
+          <h3 class="chains__subheading">This note connects to</h3>
+          <ul>
+            {outboundChain.map((link) => (
+              <li>
+                <a href={`/${link.collection}/${link.slug}/`}>
+                  {link.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {inboundChain.length > 0 && (
+        <div class="chains__group">
+          <h3 class="chains__subheading">This note is connected from</h3>
+          <ul>
+            {inboundChain.map((link) => (
+              <li>
+                <a href={`/${link.collection}/${link.slug}/`}>
+                  {link.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </>
+  ) : hasBacklinks ? (
+    // Hybrid empty state: no chain, but referenced elsewhere
+    <p class="chains__empty chains__empty--referenced">
+      {referencedLabel}
+    </p>
+  ) : (
+    // No chain, no backlinks
+    <p class="chains__empty">
+      {emptyLabel}
+    </p>
+  )}
+</section>
+
+<style>
+  .chains {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  .chains h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .chains__description {
+    font-size: 0.95rem;
+    margin: 0 0 0.75rem;
+    color: #4a5568;
+  }
+
+  .chains__group + .chains__group {
+    margin-top: 1rem;
+  }
+
+  .chains__subheading {
+    font-size: 0.9rem;
+    margin: 0 0 0.5rem;
+    color: #4a5568;
+    font-weight: 600;
+  }
+
+  .chains ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .chains li {
+    margin-bottom: 0.5rem;
+  }
+
+  .chains a {
+    color: #00539f;
+    text-decoration: none;
+  }
+
+  .chains a:hover {
+    text-decoration: underline;
+  }
+
+  .chains__empty {
+    font-size: 0.9rem;
+    color: #718096;
+    font-style: italic;
+    margin-top: 0.5rem;
+  }
+
+  .chains__empty--referenced {
+    color: #4a5568;
+  }
+</style>

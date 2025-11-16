@@ -1,0 +1,77 @@
+---
+// File: ./src/components/links/Backlinks.astro
+import type { ContentLink } from '../../lib/graph';
+
+interface Props {
+  links: ContentLink[];
+  heading?: string;
+  description?: string;
+}
+
+const { links = [], heading, description } = Astro.props;
+
+// Backlinks = inbound links that are not purely "source" citations.
+const items = links.filter(
+  (link) => link.direction === 'inbound' && link.kind !== 'source' && link.kind !== 'chains'
+);
+---
+
+{items.length > 0 && (
+  <section class="backlinks">
+    <h2>{heading ?? 'Backlinks'}</h2>
+
+    {description && (
+      <p class="backlinks__description">
+        {description}
+      </p>
+    )}
+
+    <ul>
+      {items.map((link) => (
+        <li> nEw: 
+          <a href={`/${link.collection}/${link.slug}/`}>
+            {link.title}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .backlinks {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  .backlinks h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .backlinks__description {
+    font-size: 0.95rem;
+    margin: 0 0 0.75rem;
+    color: #4a5568;
+  }
+
+  .backlinks ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .backlinks li {
+    margin-bottom: 0.5rem;
+  }
+
+  .backlinks a {
+    color: #00539f;
+    text-decoration: none;
+  }
+
+  .backlinks a:hover {
+    text-decoration: underline;
+  }
+</style>

@@ -1,0 +1,30 @@
+---
+import LinkSection from './LinkSection.astro';
+import type { ContentLink } from '../../lib/graph';
+
+interface Props {
+  links: ContentLink[];
+  heading?: string;
+  description?: string;
+  emptyLabel?: string;
+}
+
+const { links = [], heading, description, emptyLabel } = Astro.props;
+
+// Backlinks = inbound links that are not purely "source" citations.
+const items = links.filter(
+  (link) => link.direction === 'inbound' && link.kind !== 'source'
+);
+---
+
+{items.length === 0 ? null : (
+  <LinkSection
+    heading={heading ?? 'Backlinks'}
+    items={items}
+    description={description}
+    emptyLabel={emptyLabel ?? 'Nothing links here yet.'}
+    showCollection={false}
+    showDirection={false}
+    showKind={false}
+  />
+)}

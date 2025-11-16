@@ -1,0 +1,141 @@
+---
+import type { ContentLink } from '../../lib/graph';
+
+interface Props {
+  heading: string;
+  items: ContentLink[];
+  description?: string;
+  emptyLabel?: string;
+  showCollection?: boolean;
+  showDirection?: boolean;
+  showKind?: boolean;
+}
+
+const {
+  heading,
+  items = [],
+  description,
+  emptyLabel = 'No links yet.',
+  showCollection = true,
+  showDirection = false,
+  showKind = false,
+} = Astro.props;
+---
+
+{items.length === 0 ? null : (
+  <section class="link-section" aria-label={heading}>
+    <h2 class="link-section__title">{heading}</h2>
+
+    {description && (
+      <p class="link-section__description">
+        {description}
+      </p>
+    )}
+
+    <ul class="link-section__list">
+      {items.map((item) => (
+        <li class="link-section__item">
+          <a href={`/${item.collection}/${item.slug}/`} class="link-section__link">
+            <span class="link-section__primary">
+              {item.title}
+            </span>
+
+            <span class="link-section__meta">
+              {showCollection && (
+                <span class="link-section__pill">
+                  {item.collection}
+                </span>
+              )}
+
+              {showDirection && (
+                <span class="link-section__pill link-section__pill--direction">
+                  {item.direction}
+                </span>
+              )}
+
+              {showKind && (
+                <span class="link-section__pill link-section__pill--kind">
+                  {item.kind}
+                </span>
+              )}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .link-section {
+    margin-block: 2rem;
+    padding-block: 1.25rem;
+    border-top: 1px solid var(--link-section-border, rgba(255, 255, 255, 0.08));
+    border-bottom: 1px solid var(--link-section-border, rgba(255, 255, 255, 0.08));
+  }
+
+  .link-section__title {
+    font-size: 0.9rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.8;
+    margin: 0 0 0.5rem;
+  }
+
+  .link-section__description {
+    font-size: 0.9rem;
+    opacity: 0.7;
+    margin: 0 0 0.75rem;
+  }
+
+  .link-section__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.4rem;
+  }
+
+  .link-section__item {
+    font-size: 0.95rem;
+  }
+
+  .link-section__link {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .link-section__link:hover .link-section__primary {
+    text-decoration: underline;
+  }
+
+  .link-section__primary {
+    font-weight: 500;
+  }
+
+  .link-section__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    font-size: 0.75rem;
+    opacity: 0.8;
+  }
+
+  .link-section__pill {
+    border-radius: 999px;
+    padding: 0.1rem 0.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(6px);
+  }
+
+  .link-section__pill--direction {
+    text-transform: lowercase;
+  }
+
+  .link-section__pill--kind {
+    text-transform: lowercase;
+    opacity: 0.9;
+  }
+</style>

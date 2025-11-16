@@ -1,0 +1,77 @@
+---
+// File: ./src/components/links/ResourceLinks.astro
+import type { ContentLink } from '../../lib/graph';
+
+interface Props {
+  links: ContentLink[];
+  heading?: string;
+  description?: string;
+}
+
+const { links = [], heading, description } = Astro.props;
+
+// Resources = outbound links with kind "resources"
+const items = links.filter(
+  (link) => link.direction === 'outbound' && link.kind === 'resources'
+);
+---
+
+{items.length > 0 && (
+  <section class="resources">
+    <h2>{heading ?? 'Resources'}</h2>
+
+    {description && (
+      <p class="resources__description">
+        {description}
+      </p>
+    )}
+
+    <ul>
+      {items.map((link) => (
+        <li>
+          <a href={`/${link.collection}/${link.slug}/`}>
+            {link.title}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .resources {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  .resources h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .resources__description {
+    font-size: 0.95rem;
+    margin: 0 0 0.75rem;
+    color: #4a5568;
+  }
+
+  .resources ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .resources li {
+    margin-bottom: 0.5rem;
+  }
+
+  .resources a {
+    color: #00539f;
+    text-decoration: none;
+  }
+
+  .resources a:hover {
+    text-decoration: underline;
+  }
+</style>

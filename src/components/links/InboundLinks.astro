@@ -1,0 +1,29 @@
+---
+import LinkSection from './LinkSection.astro';
+import type { ContentLink } from '../../lib/graph';
+
+interface Props {
+  links: ContentLink[];
+  heading?: string;
+  description?: string;
+  emptyLabel?: string;
+}
+
+const { links = [], heading, description, emptyLabel } = Astro.props;
+
+// All inbound edges including "source" citations.
+// Use Backlinks.astro if you only want non-source conceptual backlinks.
+const items = links.filter((link) => link.direction === 'inbound');
+---
+
+{items.length === 0 ? null : (
+  <LinkSection
+    heading={heading ?? 'Inbound Links'}
+    items={items}
+    description={description}
+    emptyLabel={emptyLabel ?? 'No inbound links.'}
+    showCollection={true}
+    showDirection={false}
+    showKind={true}
+  />
+)}
