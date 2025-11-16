@@ -100,3 +100,11 @@ html.dark {
 .dark a {
   color: #ff9776;
 }
+
+/* Wikilinks */
+.wikilink--missing {
+  cursor: help;
+  opacity: 0.7;
+  text-decoration: underline dotted;
+  pointer-events: none; /* stops the '#' navigation */
+}

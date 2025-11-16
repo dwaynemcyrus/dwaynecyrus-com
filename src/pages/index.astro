@@ -1,62 +1,74 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-const pageTitle = "Home Page";
-
-const identity = {
-  firstName: "Sarah",
-  country: "Canada",
-  occupation: "Technical Writer",
-  hobbies: ["photography", "birdwatching", "baseball"],
-};
-const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
-const skillColor = "crimson";
-
-const fontWeight = "bold"
-const textCase = "uppercase"
-
-const happy = true;
-const finished = false;
-const goal = 3;
+const pageTitle = "AI Design Engineer | Dwayne M. Cyrus";
 ---
 <BaseLayout pageTitle={pageTitle}>
-  
-<style define:vars={{skillColor, fontWeight, textCase}}>
-  h1 {
-    color: purple;
-    font-size: 4rem;
-  }
-  .skill {
-    color: var(--skillColor);
-    font-weight: var(--fontWeight);
-    text-transform: var(--textCase);
-  }
-</style>
+  <section>
+    <h1>Dwayne M. Cyrus</h1>
+    <p>AI Design Engineer · Basel, Switzerland</p>
+    <p>Building systems that think, interfaces that feel, and tools that free.</p>
 
-<main>
-		<h1>{pageTitle}</h1>
-		<p>Welcome to my website, let's get you up to speed!</p>
+    <p>
+      <a href="/cv">View CV</a>
+      <a href="/projects">Explore Projects</a>
+    </p>
+  </section>
 
-<p>Here are a few facts about me:</p>
-<ul>
-  <li>My name is {identity.firstName}.</li>
-  <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
-  {identity.hobbies.length >= 2 &&
-    <li>Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
-  }
-</ul>
+  <section>
+    <h2>Introduction</h2>
+    <p>
+      I design and engineer human-centered systems where code, intelligence,
+      and discipline converge into clarity. My work lives at the intersection
+      of frontend architecture, design systems, and applied AI — crafting interfaces
+      that feel human yet operate with machine precision.
+    </p>
+  </section>
 
-		<p>My skills are:</p>
-<ul>
-  {skills.map((skill) => <li class="skill">{skill}</li>)}
-</ul>
+  <section>
+    <h2>Current Focus</h2>
+    <ul>
+      <li>AI Design Engineer Portfolio — Astro + React + local AI systems</li>
+      <li>Thunder Recall — local-first AI memory engine for Markdown/YAML</li>
+      <li>Voyager OS — sovereign life-planning and productivity environment</li>
+      <li>Scriptorium — writer’s studio combining iA Writer, Bear, and Obsidian</li>
+    </ul>
+  </section>
 
-{happy && <p>I am happy to be learning Astro!</p>}
+  <section>
+    <h2>Philosophy</h2>
+    <blockquote>
+      Design as discipline. Engineering as order. AI as clarity.
+    </blockquote>
+    <p>
+      Technology should refine, not replace, human awareness. I build systems that
+      amplify intent and preserve sovereignty — tools that think with you, not for you.
+    </p>
+  </section>
 
-{finished && <p>I finished this tutorial!</p>}
+  <section>
+    <h2>Stack</h2>
+    <!-- you can render a table later via a component -->
+    <ul>
+      <li>Frontend: Astro, React, TypeScript, Tailwind CSS</li>
+      <li>Backend / Data: Node.js, Express, MongoDB, IndexedDB, CloudKit</li>
+      <li>AI / ML: OpenAI API, MLX, LangChain, local embeddings</li>
+      <li>Design: Figma, Procreate, Nomad Sculpt</li>
+      <li>Deployment: Vercel, GitHub Actions</li>
+    </ul>
+  </section>
 
-{goal === 3 ? <p>My goal is to finish in 3 days.</p> : <p>My goal is not 3 days.</p>}
+<section>
+  <h1>Lab</h1>
+  <p>Explorations, prototypes, and unfinished ideas — testing new ways to merge design, code, and intelligence.</p>
 
-</main>
+  <div class="lab-grid">
+    [list of experiments → card component]
+  </div>
+</section>, labs are always written like field notes, ask GPT to give you your first one build based on your works.
 
+  <section>
+    <h2>Connect</h2>
+    <p>hey@dwaynemcyrus.com · GitHub · LinkedIn · X</p>
+  </section>
 
 </BaseLayout>

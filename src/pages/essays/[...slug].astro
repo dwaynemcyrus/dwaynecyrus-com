@@ -1,27 +1,23 @@
 ---
-// TODO add the if 404
-// const { slug } = Astro.params;
-// const page = pages.find((page) => page.slug === slug);
-// if (!page) return Astro.redirect("/404");
-// const { title, text } = page;
-
-
-// File: ./src/pages/essays/[...slug].astro
+// src/pages/essays/[...slug].astro
 import { getCollection, render } from 'astro:content';
-import MarkdownPostLayout from '../../layouts/MarkdownPostLayout.astro';
+import EssayLayout from '../../layouts/EssayLayout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('essays');
-  return posts.map(post => ({
-    params: { slug: post.id }, props: { post },
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
   }));
 }
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+// This slug should match what you use in content-map.json
+const pageSlug = post.slug ?? post.id;
+const pageTitle = post.data.title ?? pageSlug;
 ---
-<MarkdownPostLayout frontmatter={post.data}>
+<EssayLayout slug={pageSlug} title={pageTitle}>
   <Content />
-</MarkdownPostLayout>
-
-
+</EssayLayout>
