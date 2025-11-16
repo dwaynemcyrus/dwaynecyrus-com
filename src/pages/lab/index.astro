@@ -1,5 +1,8 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro"
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('lab');
 const pageTitle = "Lab Cyrus"
 ---
 <BaseLayout pageTitle={pageTitle}>
@@ -7,8 +10,8 @@ const pageTitle = "Lab Cyrus"
   <p>Experiments, prototypes, and unfinished ideas at the intersection of AI, design, and systems.</p>
 
   <ul>
-    <li>Local embeddings test in-browser with MLX</li>
-    <li>AI-driven layout suggestions prototype</li>
-    <li>Obsidian → local AI context pipeline sketch</li>
+  {posts.map(post => (
+    <li><a href={`/lab/${post.id}`}>{post.data.title}</a></li>
+  ))}
   </ul>
 </BaseLayout>
