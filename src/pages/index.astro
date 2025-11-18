@@ -1,8 +1,33 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+import { getCollection } from 'astro:content';
+
+const essayPosts = await getCollection('essays');
+const notePosts = await getCollection('notes');
+
+
+// Combine all posts
+// const allPosts = [...blogPosts, ...notePosts];
+
 const pageTitle = "AI Design Engineer | Dwayne M. Cyrus";
 ---
 <BaseLayout pageTitle={pageTitle}>
+
+  <section>
+    <h2>Essays List</h2>
+    <ul>
+  {essayPosts.map(post => (
+    <li><a href={`/essays/${post.id}`}>{post.data.title}</a></li>
+  ))}
+
+      <h2>Notes List</h2>
+    <ul>
+  {notePosts.map(post => (
+    <li><a href={`/notes/${post.id}`}>{post.data.title}</a></li>
+  ))}
+  </section>
+
   <section>
     <h1>Dwayne M. Cyrus</h1>
     <p>AI Design Engineer · Basel, Switzerland</p>
