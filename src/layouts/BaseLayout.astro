@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import NavMain from '../components/navs/NavMain.astro';
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
@@ -12,12 +13,25 @@ const { pageTitle } = Astro.props;
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{pageTitle}</title>
-
-
-        
+		<title>{pageTitle}</title> 
 	</head>
 	<body>
+	<nav>
+		<a href="/">Dwayne M. Cyrus</a>
+		<div>
+			<button aria-expanded="false" aria-controls="main-menu" class="menu">Menu</button>
+		</div>
+		<ul id="main-menu" class="nav-links">
+			<li><a href="/dev/">Dev</a></li>
+			<li></li>
+			
+			<a href="/about/">About</a>
+			<a href="/blog/">Blog</a>
+			<a href="/changelog/">changelog</a>
+			<a href="/roadmap/">Roadmap</a>
+			<a href="/tags/">Tags</a>
+		</ul>
+	</nav>
 <Header />
 <slot />
 
