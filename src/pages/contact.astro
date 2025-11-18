@@ -1,0 +1,56 @@
+---
+// File: ./src/pages/contact.astro
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const contactDetails = {
+    firstName: "Dwayne",
+    lastName: "Cyrus",
+    preferredName: "Cyrus",
+    occupation: "Storyteller",
+    services: ["writing", "drawing", "painting", "teaching", "guiding"],
+    email: "hey@dwaynemcyrus.com",
+    hobbies: ["photography", "birdwatching", "baseball"],
+};
+
+const availableClientSpots = true;
+const goal = 4;
+const finished = true;
+
+const pageTitle = 'Contact Page';
+---
+<BaseLayout pageTitle={pageTitle}>
+    <h1>{pageTitle}</h1>
+    <p>This is some text just to fill the space of the contact page.</p>
+
+    <p>My name is {contactDetails.firstName} {contactDetails.lastName} and I am a {contactDetails.occupation}, but everyone calls me {contactDetails.preferredName} and that's what I prefer.</p>
+
+    {availableClientSpots && <p>I am available to take on clients</p>}
+
+    <p>Email me at *{contactDetails.email}*.</p>
+
+    <p>My services are the folowing:</p>
+    <ul>
+        {contactDetails.services.map((service) => <li class="service">{service}</li>)}
+    </ul>
+
+    {
+        goal === 3 ? (
+          <p>My goal is to finish in 3 days.</p>
+        ) : (
+          <p>My goal is not 3 days.</p>
+        )
+      }
+<ul>
+{
+    contactDetails.hobbies.length >= 2 && (
+      <li>
+        Two of my hobbies are: {contactDetails.hobbies[0]} and {contactDetails.hobbies[1]}
+      </li>
+    )
+  }
+</ul>
+
+<p>The Finish Statement: (false is no show, true is show)</p>
+{finished && <p>I finished this tutorial!</p>}
+
+</BaseLayout>
