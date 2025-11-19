@@ -1,7 +1,13 @@
 ---
-// File: src/pages/notes/[...slug].astro
 import { getCollection, render } from 'astro:content';
 import NoteLayout from '../../layouts/NoteLayout.astro';
+
+// graph helpers now live here, not in the layout
+import {
+  getNodeBySlug,
+  flattenNodeLinks,
+  type ContentLink,
+} from '../../lib/graph';
 
 export async function getStaticPaths() {
   const notes = await getCollection('notes');
@@ -18,8 +24,18 @@ const { Content } = await render(note);
 // This should match the slug used in content-map.json for this note
 const pageSlug = note.slug ?? note.id;
 const pageTitle = note.data.title ?? pageSlug;
+
+// Build graph links for this note
+const node = getNodeBySlug(pageSlug);
+const links: ContentLink[] = node ? flattenNodeLinks(node) : [];
+const tags: string[] | undefined = note.data.tags;
 ---
 
-<NoteLayout slug={pageSlug} title={pageTitle}>
+<NoteLayout
+  slug={pageSlug}
+  title={pageTitle}
+  links={links}
+  tags={tags}
+>
   <Content />
 </NoteLayout>

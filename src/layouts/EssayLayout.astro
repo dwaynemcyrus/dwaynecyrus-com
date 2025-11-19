@@ -1,35 +1,37 @@
 ---
+// File: src/layouts/EssayLayout.astro
 import BaseLayout from './BaseLayout.astro';
-import Backlinks from '../components/links/Backlinks.astro';
-import ResourceLinks from '../components/links/ResourceLinks.astro';
 
-import {
-  getNodeBySlug,
-  flattenNodeLinks,
-  type ContentLink,
-} from '../lib/graph';
+import TagList from '../components/TagList.astro';
+
+import SourceLinks from '../components/links/SourceLinks.astro';
+import ChainLinks from '../components/links/ChainLinks.astro';
+// import ResourceLinks from '../components/links/ResourceLinks.astro';
+import Backlinks from '../components/links/Backlinks.astro';
+
+import type { ContentLink } from '../lib/graph';
 
 interface Props {
-  slug: string;   // must match slug in content-map.json (e.g. "aessay-b")
+  slug: string;
   title: string;
+  links: ContentLink[];
+  tags?: string[];
 }
 
-const { slug, title } = Astro.props;
-
-const node = getNodeBySlug(slug);
-const links: ContentLink[] = node ? flattenNodeLinks(node) : [];
+const { slug, title, links, tags } = Astro.props;
 ---
 
 <BaseLayout pageTitle={title}>
   <article>
-    <h1>H1: {title}</h1>
+    <h1>{title}</h1>
+    <TagList tags={tags} />
     <slot />
   </article>
 
   <aside>
+    <SourceLinks links={links} />
+    <ChainLinks links={links} />
+    <!-- <ResourceLinks links={links} /> -->
     <Backlinks links={links} />
-    <hr>
-    <ResourceLinks links={links} />
   </aside>
-  
 </BaseLayout>

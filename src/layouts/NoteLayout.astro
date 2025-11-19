@@ -5,34 +5,25 @@ import TagList from '../components/TagList.astro';
 
 import SourceLinks from '../components/links/SourceLinks.astro';
 import ChainLinks from '../components/links/ChainLinks.astro';
-import ResourceLinks from '../components/links/ResourceLinks.astro';
+// import ResourceLinks from '../components/links/ResourceLinks.astro';
 import Backlinks from '../components/links/Backlinks.astro';
 
-import {
-  getNodeBySlug,
-  flattenNodeLinks,
-  type ContentLink,
-} from '../lib/graph';
+import type { ContentLink } from '../lib/graph';
 
 interface Props {
-  slug: string;
+  slug: string;          // kept for context / data attrs if needed
   title: string;
-  note: any; // new
+  links: ContentLink[];  // already prepared by the page
+  tags?: string[];       // optional, passed from the page
 }
 
-const { slug, title, note } = Astro.props;
-
-const node = getNodeBySlug(slug);
-const links: ContentLink[] = node ? flattenNodeLinks(node) : [];
+const { slug, title, links, tags } = Astro.props;
 ---
 
 <BaseLayout pageTitle={title}>
   <article>
     <h1>{title}</h1>
-    <!-- <TagList tags={note.data.tags} /> -->
-     <!-- <TagList tags={note.data.tags} /> -->
- <!-- * <TagList tags={entry.data.tags} /> -->
- <!-- * <TagList tags={Astro.props.post.frontmatter.tags} /> -->
+    <TagList tags={tags} />
     <slot />
   </article>
 

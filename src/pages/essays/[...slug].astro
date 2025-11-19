@@ -1,23 +1,41 @@
 ---
-// src/pages/essays/[...slug].astro
+// File: src/pages/essays/[...slug].astro
 import { getCollection, render } from 'astro:content';
 import EssayLayout from '../../layouts/EssayLayout.astro';
 
+import {
+  getNodeBySlug,
+  flattenNodeLinks,
+  type ContentLink,
+} from '../../lib/graph';
+
 export async function getStaticPaths() {
-  const posts = await getCollection('essays');
-  return posts.map((post) => ({
-    params: { slug: post.id },
-    props: { post },
+  const essays = await getCollection('essays');
+
+  return essays.map((essay) => ({
+    params: { slug: essay.id },
+    props: { essay },
   }));
 }
 
-const { post } = Astro.props;
-const { Content } = await render(post);
+const { essay } = Astro.props;
+const { Content } = await render(essay);
 
-// This slug should match what you use in content-map.json
-const pageSlug = post.slug ?? post.id;
-const pageTitle = post.data.title ?? pageSlug;
+// This should match the slug used in content-map.json for this essay
+const pageSlug = essay.slug ?? essay.id;
+const pageTitle = essay.data.title ?? pageSlug;
+
+// Build graph links for this essay
+const node = getNodeBySlug(pageSlug);
+const links: ContentLink[] = node ? flattenNodeLinks(node) : [];
+const tags: string[] | undefined = essay.data.tags;
 ---
-<EssayLayout slug={pageSlug} title={pageTitle}>
+
+<EssayLayout
+  slug={pageSlug}
+  title={pageTitle}
+  links={links}
+  tags={tags}
+>
   <Content />
 </EssayLayout>
