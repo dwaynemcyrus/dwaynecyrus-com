@@ -1,0 +1,46 @@
+---
+/**
+ * Usage:
+ * <TagList tags={note.data.tags} />
+ * <TagList tags={entry.data.tags} />
+ * <TagList tags={Astro.props.post.frontmatter.tags} />
+ *
+ * Pass an array of strings. If undefined, component hides itself.
+ */
+
+const { tags } = Astro.props;
+
+// No tags? Render nothing.
+if (!tags || !Array.isArray(tags) || tags.length === 0) {
+  return null;
+}
+---
+
+<style>
+  .tag-list {
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .tag-list a {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.9rem;
+    border-radius: 0.4rem;
+    background: #f2f2f2;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .tag-list a:hover {
+    background: #e4e4e4;
+  }
+</style>
+
+<div class="tag-list">
+  {tags.map((tag) => (
+    <a href={`/tags/${tag}`}>#{tag}</a>
+  ))}
+</div>

@@ -1,27 +1,104 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import BlogPost from '../../components/BlogPost.astro';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const allPosts = Object.values(import.meta.glob('../posts/*.md', { eager: true }));
+  // Legacy markdown posts
+  const allPosts = Object.values(
+    import.meta.glob('../posts/*.md', { eager: true })
+  );
 
-  const uniqueTags = [...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat())];
+  // Content collections
+  const notes = await getCollection('notes');
+  const essays = await getCollection('essays');
+
+  // Collect tags
+  const postTags = allPosts.flatMap((post: any) => post.frontmatter.tags ?? []);
+  const noteTags = notes.flatMap((n) => n.data.tags ?? []);
+  const essayTags = essays.flatMap((e) => e.data.tags ?? []);
+
+  const uniqueTags = [...new Set([...postTags, ...noteTags, ...essayTags])];
 
   return uniqueTags.map((tag) => {
-    const filteredPosts = allPosts.filter((post: any) => post.frontmatter.tags.includes(tag));
+    const filteredPosts = allPosts.filter((post: any) =>
+      (post.frontmatter.tags ?? []).includes(tag)
+    );
+
+    const filteredNotes = notes.filter((n) =>
+      (n.data.tags ?? []).includes(tag)
+    );
+
+    const filteredEssays = essays.filter((e) =>
+      (e.data.tags ?? []).includes(tag)
+    );
+
     return {
       params: { tag },
-      props: { posts: filteredPosts },
+      props: {
+        tag,
+        posts: filteredPosts,
+        notes: filteredNotes,
+        essays: filteredEssays,
+      },
     };
   });
 }
 
 const { tag } = Astro.params;
-const { posts } = Astro.props;
+const { posts = [], notes = [], essays = [] } = Astro.props;
+
+const totalCount = posts.length + notes.length + essays.length;
 ---
+
 <BaseLayout pageTitle={tag}>
-  <p>Posts tagged with {tag}</p>
-  <ul>
-    {posts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title}/>)}
-  </ul>
+  <p>
+    Content tagged with <strong>{tag}</strong>
+    {` (${totalCount})`}
+  </p>
+
+  {posts.length > 0 && (
+    <>
+      <h2>Posts ({posts.length})</h2>
+      <ul>
+        {posts.map((post: any) => (
+          <BlogPost url={post.url} title={post.frontmatter.title} />
+        ))}
+      </ul>
+    </>
+  )}
+
+  {notes.length > 0 && (
+    <>
+      <h2>Notes ({notes.length})</h2>
+      <ul>
+        {notes.map((note) => (
+          <li>
+            <a href={`/notes/${note.id}`}>
+              {note.data.title ?? note.id}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  {essays.length > 0 && (
+    <>
+      <h2>Essays ({essays.length})</h2>
+      <ul>
+        {essays.map((essay) => (
+          <li>
+            <a href={`/essays/${essay.id}`}>
+              {essay.data.title ?? essay.id}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  {posts.length === 0 && notes.length === 0 && essays.length === 0 && (
+    <p>No content found for this tag.</p>
+  )}
 </BaseLayout>

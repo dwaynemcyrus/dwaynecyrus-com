@@ -1,9 +1,47 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-const allPosts = Object.values(import.meta.glob('../posts/*.md', { eager: true }));
-const tags = [...new Set(allPosts.map((post: any) => post.frontmatter.tags).flat())];
-const pageTitle = "Tag Index";
+import { getCollection } from 'astro:content';
+
+const pageTitle = 'Tag Index';
+
+// Legacy posts
+const allPosts = Object.values(
+  import.meta.glob('../posts/*.md', { eager: true })
+);
+
+// Content collections
+const notes = await getCollection('notes');
+const essays = await getCollection('essays');
+
+// Normalize helper
+const normalizeTags = (value: unknown): string[] => {
+  if (!value) return [];
+  if (Array.isArray(value)) return value.map(String);
+  return [String(value)];
+};
+
+// Gather all tagged entries into one array of tag-lists
+const allTagSets = [
+  ...allPosts.map((p: any) => normalizeTags(p.frontmatter?.tags)),
+  ...notes.map((n) => normalizeTags(n.data.tags)),
+  ...essays.map((e) => normalizeTags(e.data.tags)),
+];
+
+// Build a frequency map: { tagName: count }
+const tagCountMap = allTagSets.reduce((map, tagList) => {
+  for (const tag of tagList) {
+    if (!tag) continue;
+    map.set(tag, (map.get(tag) || 0) + 1);
+  }
+  return map;
+}, new Map<string, number>());
+
+// Convert to array and sort alphabetically
+const tags = Array.from(tagCountMap.entries()).sort(([a], [b]) =>
+  a.localeCompare(b)
+);
 ---
+
 <style>
   a {
     color: #00539F;
@@ -22,12 +60,20 @@ const pageTitle = "Tag Index";
     font-size: 1.15em;
     background-color: #F8FCFD;
   }
+
+  .count {
+    opacity: 0.6;
+    margin-left: 0.25em;
+  }
 </style>
 
 <BaseLayout pageTitle={pageTitle}>
   <div class="tags">
-    {tags.map((tag) => (
-      <p class="tag"><a href={`/tags/${tag}`}>{tag}</a></p>
+    {tags.map(([tag, count]) => (
+      <p class="tag">
+        <a href={`/tags/${tag}`}>{tag}</a>
+        <span class="count">({count})</span>
+      </p>
     ))}
   </div>
 </BaseLayout>
