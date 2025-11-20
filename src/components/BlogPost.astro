@@ -1,5 +1,58 @@
 ---
 const { title, url } = Astro.props;
+// const { url, title, date, description, tags } = Astro.props;
 ---
 <li><a href={url}>{title}</a></li>
 
+<!-- <li class="post-item">
+  <a href={url} class="post-link">
+    <h2 class="post-title">{title}</h2>
+    {date && <p class="post-date">{date}</p>}
+    {description && <p class="post-description">{description}</p>}
+    {tags?.length > 0 && (
+      <ul class="post-tags">
+        {tags.map((tag) => (
+          <li class="tag">{tag}</li>
+        ))}
+      </ul>
+    )}
+  </a>
+</li>
+
+<style>
+  .post-item {
+    margin-bottom: 1.5rem;
+  }
+  .post-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  .post-title {
+    margin: 0;
+    font-size: 1.25rem;
+  }
+  .post-date {
+    margin: 0.25rem 0;
+    font-size: 0.875rem;
+    color: #666;
+  }
+  .post-description {
+    margin: 0.5rem 0;
+    font-size: 0.9375rem;
+    color: #444;
+  }
+  .post-tags {
+    display: flex;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+  }
+  .tag {
+    background: #e2e8f0;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    color: #4a5568;
+  }
+</style> -->

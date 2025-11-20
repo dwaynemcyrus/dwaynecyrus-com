@@ -1,0 +1,532 @@
+/* BROWSER RESET STUFF */
+/* Credit: https://www.joshwcomeau.com/css/custom-css-reset/ */
+
+/*
+  1. Use a more-intuitive box-sizing model.
+*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+/*
+    2. Remove default margin
+  */
+* {
+  margin: 0;
+}
+/*
+    Typographic tweaks!
+    3. Add accessible line-height
+    4. Improve text rendering
+  */
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  padding: 0 24px; /* NOTE Temporary for the side margins for icons that are fixed. */
+}
+/*
+    5. Improve media defaults
+  */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+/*
+    6. Remove built-in form typography styles
+  */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+/*
+    7. Avoid text overflows
+  */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+/*
+    8. Create a root stacking context
+  */
+#root,
+#__next {
+  isolation: isolate;
+}
+
+blockquote {
+  border: 2px solid yellow;
+}
+
+/* ********************************************************** */
+/* NO CLASS STUFF */
+
+* {
+  box-sizing: inherit; /*sticky footer*/
+}
+html {
+  height: 100%; /*sticky footer*/
+  box-sizing: border-box; /*sticky footer*/
+  /* color: black; */
+  /* font-family: sans-serif; */
+}
+body {
+  height: 100%; /*sticky footer*/
+
+  /* 300 Book 400 Regular 500 Medium 700 Bold 800 Black */
+  font-family: "Atten New", "Helvetica", "Arial", sans-serif;
+  /* font-weight: 400;  */
+  font-weight: 300;
+  font-size: 16px;
+  /* font-size: 15px; */
+  color: #fff6e8;
+  color: #1b2021;
+  color: #000000;
+  color: #28282B; /* Matte Black */
+  /* color: #fff6e8; */
+  background-color: #acacac;
+  background-color: #f7f7f7;
+  background-color: #fff6e8;
+  background-color: #fdbf1e;
+  background-color: #f75c03;
+  background-color: #7f2ccb;
+  background-color: #30343f;
+  background-color: #1b2021; /* USe this as a background darkmode */
+  background-color: #eeeade; /* */
+  background-color: #fff6e8; /* Use this as a background light mode */
+  /* background-color: #FFFFFF; */
+  background-color: #28282B;
+  background-color: #010A13; /* NOTE: Very nice deep black */
+  background-color: #101215;
+  /* background-color: #f7f7f7; */
+  background-color: #fff6e8;;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  padding: 20px 0;
+
+}
+
+main {
+  padding: 20px 0;
+  margin: 0 auto 24px;
+  max-width: 576px;
+  /* max-width: 504px; */
+}
+
+footer {
+  padding: 0px 0;
+  margin: 24px 0 24px 0;
+}
+
+h2 {
+  font-size: 28px;
+  /* margin: 0px 24px 8px; */
+  line-height: 1.25;
+}
+h3 {
+  font-size: 24px;
+  margin: 0px 24px 8px;
+  line-height: 1.25;
+}
+
+p {
+  /* padding: 0 0 1em; */
+  /* line-height: 1.5; */
+  font-weight: 400;
+  margin: 1.35em 24px;
+  max-width: 480px;
+  max-width: 456px;
+}
+
+/* p > ul {
+bottom-margin: ;
+} */
+
+ul {
+  /* font-weight: 400; */
+    margin: 1.35em 24px;
+    padding: 0 0 0 24px;
+    max-width: 480px;
+}
+ul li {
+  margin-bottom: 0.25em;
+}
+
+/* NOTE: This is to customize striked text. */
+del {
+    text-decoration-color: #0EB1D2;
+    /* text-decoration-color: #28282B; */
+    text-decoration: red;
+    text-decoration-thickness: 0.1em;
+    text-underline-offset: 1.5px;
+    text-decoration-style: solid;
+    color: red;
+}
+
+/* NOTE: Proper order is visited, hover, focus, active */
+a {
+/* color: #28282B; */
+color: #fff6e8;
+  /* color: #18272F; */
+  /* color: #4059AD; */
+  /* color: #0EB1D2; */
+  /* font-weight: 400; */
+  position: relative;
+
+  text-decoration-color: #fdbf1e;
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 1.6px;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: auto;
+}
+
+/* Hover effect to try */
+/* a:link::before {
+  content: "";
+  background-color: hsla(43, 98%, 55%, 0.75);
+
+  position: absolute;
+  left: 0;
+  bottom: 2px;
+  width: 100%;
+  height: 1px;
+  z-index: -1;
+  transition: all 0.3s ease-in-out;
+} */
+
+/* a:link { */
+  /* color: #fff6e8; */
+  /* text-decoration-color: #fdbf1e; */
+  /* text-decoration: underline; */
+/* } */
+
+a:visited {
+    /* color: #28282B; */
+    /* color: #f75c03; */
+
+    /* text-decoration-color: #0EB1D2; */
+    /* text-decoration-color: #28282B; */
+    /* text-decoration-color: #f75c03; */
+    text-decoration-color: #fdbf1e;
+    text-decoration-thickness: 0.125em;
+    text-underline-offset: 1.5px;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+  /* color: #fff6e8; */
+  /* text-decoration-color: #fdbf1e; */
+}
+
+a:hover {
+    /* color: #28282B; */
+  color: #f75c03;
+  color: #fdbf1e;
+  /* color: #f7f7f7; */
+  /* text-decoration: none; */
+  text-decoration-thickness: 0em;
+  /* font-weight: 500; */
+}
+
+a:focus {
+    color: #28282B;
+  /* color: #F75C03; */
+  /* color: greenyellow; */
+  /* color: #fff6e8; */
+  /* text-decoration-line: overline; */
+  /* text-decoration-line: underline; */
+}
+
+
+
+/* Hover effect to try */
+/* a:hover::before {
+  bottom: 0;
+  height: 100%;
+} */
+
+a:active {
+    color: #28282B;
+  /* color: #f75c03; */
+  /* color: #7f2ccb; */
+  /* color: #fdbf1e; */
+  /* color: #fff6e8; */
+  /* text-decoration: none; */
+  /* text-decoration-line: overline; */
+}
+
+form {
+  /* FIX: Not a good solution for the form. */
+  max-width: 480px;
+}
+
+code {
+  font-family: "Overpass Mono", monospace;
+  /* font-size: 15px; */
+}
+
+::placeholder {
+  color: red;
+}
+
+/* ********************************************************** */
+/* CLASS STUFF */
+
+.body-inner {
+    /* height: 100%;  */
+    /*sticky footer*/
+}
+.content-wrapper {
+  min-height: 100%; /*sticky footer*/
+  display: grid; /*sticky footer*/
+  grid-template-rows: auto 1fr auto;
+  padding: 0 24px;
+  padding: 0 32px;
+  padding: 0 8px;
+}
+
+.kicker {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 0 0px;
+  margin: 0 24px 0;
+}
+
+.form-newsletter .kicker,
+.reminder .kicker {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 0 0px;
+  margin: 0 24px 0;
+}
+
+.form-newsletter h3,
+.reminder h3 {
+  font-size: 24px;
+  margin: 0px 24px 8px;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+.form-newsletter h3 + p,
+.reminder h3 + p {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0 24px;
+  padding: 0 0 12px 0;
+  padding: 0 0 1em 0;
+  line-height: 1.5;
+  /* background-color: #F75C03; */
+}
+
+.form-policy-notice {
+  padding: 0 1em;
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.3;
+  color: #515856;
+  color: #ACACAC;
+ }
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.legal-stuff {
+  font-size: 12px;
+  font-weight: 400;
+  /* padding: 0 0 1em 0; */
+  /* margin: 0px 24px 8px; */
+  text-align: center;
+  color: #acacac;
+  color: #515856;
+  /* padding: 0px 0 48px; */
+  margin: 0 auto 0px;
+  max-width: 576px;
+}
+.legal-stuff span:last-of-type {
+  display: block;
+}
+.legal-stuff a:link {
+  color: #acacac;
+  color: #515856;
+  text-decoration: none;
+}
+.legal-stuff a:link::before {
+  color: #acacac;
+  color: #515856;
+  text-decoration: none;
+  content: none;
+  /* background-color: none; */
+}
+.legal-stuff a:visited {
+  color: #acacac;
+  color: #515856;
+}
+.legal-stuff a:focus {
+  color: #acacac;
+  /* color: #515856; */
+  text-decoration-line: none;
+  /* text-decoration-color: #fdbf1e; */
+}
+.legal-stuff a:hover {
+  color: #acacac;
+  /* color: #515856; */
+  text-decoration-line: none;
+  /* text-decoration-color: #fdbf1e; */
+}
+.legal-stuff a:active {
+  color: #acacac;
+  /* color: #515856; */
+  text-decoration-line: none;
+  /* text-decoration-color: #fdbf1e; */
+}
+
+/* Plugin: Callouts */
+/* Base styles for callouts */
+.callout {
+  border-left: 4px solid;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.callout-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.callout-content {
+  display: block;
+}
+
+.callout.folded .callout-content {
+  display: none;
+}
+
+.callout-info {
+  background-color: #e0f7fa;
+  border-color: #00acc1;
+}
+
+/* Foldable logic */
+.callout.foldable .callout-title {
+  cursor: pointer;
+}
+
+.callout.foldable .callout-title:after {
+  content: "▼";
+  float: right;
+}
+
+.callout.folded .callout-title:after {
+  content: "►";
+}
+
+
+
+/* Basic styling for callouts */
+.callout {
+  border-left: 4px solid #ccc;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+.callout.info {
+  border-color: #2c7be5;
+  background-color: #e9f4ff;
+}
+
+.callout.warning {
+  border-color: #f0ad4e;
+  background-color: #fcf8e3;
+}
+
+.callout-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.callout-content {
+  padding-left: 10px;
+}
+
+.invalid-link {
+  color: red;
+  color: #eb5e28;
+  cursor: help;
+}
+
+.external-link {
+  color: lightblue;
+  text-decoration: underline;
+}
+
+
+/* Style for external links using the external-link class */
+a.external-link::after {
+  content: " \2197";  /* Unicode for upward-right arrow */
+  margin-left: 0px;   /* Add some space between the link text and the icon */
+  font-size: 0.9em;   /* Slightly smaller icon for better alignment */
+  vertical-align: top; /* Align the icon vertically */
+}
+
+/* Optional: Add hover effect for external links */
+a.external-link:hover {
+  text-decoration: underline;
+  color: red;  /* Change color on hover, optional */
+}
+
+.nav-main {
+  padding: 0px 0 48px;
+  margin: 0 auto 24px;
+  max-width: 576px;
+  text-align: center;
+}
+
+.nav-main a:link {
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0 0 1em 0;
+  margin: 0px 8px 8px;
+  /* text-align: center; */
+  color: #acacac;
+  /* color: #515856; */
+  text-decoration: none;
+}
+
+.nav-main a:visited {
+  color: #acacac;
+  /* color: #515856; */
+}
+.nav-main a:focus {
+  color: #acacac;
+  /* color: #515856; */
+  text-decoration-line: none;
+  /* text-decoration-color: #fdbf1e; */
+}
+.nav-main a:hover {
+  color: #acacac;
+  color: #fdbf1e;
+  /* color: #515856; */
+  text-decoration-line: none;
+  /* text-decoration-color: #fdbf1e; */
+}
+.nav-main a:active {
+  color: #acacac;
+  /* color: #515856; */
+  text-decoration-line: none;
+  /* text-decoration-color: #fdbf1e; */
+}

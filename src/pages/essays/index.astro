@@ -9,6 +9,17 @@ const pageTitle = "List Essays";
     <!-- <h2>So H2: {pageTitle}</h2> -->
 <p>This is where you will get to see my essays.</p>
 
+        <p>Learn from me, consume what is written, and challenge what you do not understand or agree with. To do this <a href="https://x.com/dwaynemcyrus" target="_blank" class="external-link external-link external-link external-link external-link external-link">find me on X</a> or send me a message through my guestbook found at the bottom of every page.</p>
+
+<p>The essays are grouped and published as follows:</p>
+<ul>
+  <li>Mini-Essays — Daily</li>
+  <li>Extended Essays — Weekly</li>
+  <li>Visual Essays — Monthly</li>
+</ul>
+
+<p>Now scroll and explore.</p>
+
 <ul>
   {posts.map(post => (
     <li><a href={`/essays/${post.id}`}>{post.data.title}</a></li>
