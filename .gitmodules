@@ -1,4 +1,4 @@
 [submodule "src/content"]
 	path = src/content
-	url = https://github.com/dwaynemcyrus/knowledge.git
+	url = git@github.com:dwaynemcyrus/knowledge.git
 	branch = main
