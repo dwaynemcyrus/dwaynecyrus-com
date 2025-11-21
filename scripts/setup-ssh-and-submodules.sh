@@ -1,29 +1,25 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
 
 echo ">> Setting up SSH for Git submodules"
+echo ">> HOME is: $HOME"
 
 # 1. Prepare SSH directory
-mkdir -p ~/.ssh
-chmod 700 ~/.ssh
+mkdir -p "$HOME/.ssh"
+chmod 700 "$HOME/.ssh"
 
-# 2. Write private key from env (strip any Windows CR if they sneaked in)
-echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
-chmod 600 ~/.ssh/id_ed25519
+# 2. Write private key from env (strip any CR if present)
+echo "$SSH_PRIVATE_KEY" | tr -d '\r' > "$HOME/.ssh/id_ed25519"
+chmod 600 "$HOME/.ssh/id_ed25519"
 
-# 3. SSH config – explicitly tell git/ssh how to talk to GitHub
-cat <<EOF > ~/.ssh/config
-Host github.com
-  HostName github.com
-  User git
-  IdentityFile ~/.ssh/id_ed25519
-  StrictHostKeyChecking no
-EOF
-chmod 600 ~/.ssh/config
+# 3. Trust GitHub host (this avoids interactive host key prompts)
+ssh-keyscan github.com >> "$HOME/.ssh/known_hosts" 2>/dev/null || true
+chmod 644 "$HOME/.ssh/known_hosts"
 
-# 4. (Optional but useful) show which key we're using
-echo ">> SSH config:"
-cat ~/.ssh/config
+# 4. Force git to use our key + options for ALL SSH ops
+export GIT_SSH_COMMAND="ssh -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=no -o UserKnownHostsFile=$HOME/.ssh/known_hosts"
+
+echo ">> GIT_SSH_COMMAND is: $GIT_SSH_COMMAND"
 
 # 5. Sync submodule config and pull latest
 git submodule sync --recursive
