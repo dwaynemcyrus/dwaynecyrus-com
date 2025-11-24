@@ -1,0 +1,168 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import { getCollection } from 'astro:content';
+
+const essayPosts = await getCollection('essays');
+const notePosts = await getCollection('notes');
+
+
+// Combine all posts
+// const allPosts = [...blogPosts, ...notePosts];
+
+const pageTitle = "AI Design Engineer | Dwayne M. Cyrus";
+---
+<BaseLayout pageTitle={pageTitle}>
+
+  <section>
+    <h2>Essays List</h2>
+    <ul>
+  {essayPosts.map(post => (
+    <li><a href={`/essays/${post.id}`}>{post.data.title}</a></li>
+  ))}
+
+      <h2>Notes List</h2>
+    <ul>
+  {notePosts.map(post => (
+    <li><a href={`/notes/${post.id}`}>{post.data.title}</a></li>
+  ))}
+  </section>
+
+  <section>
+    <h1>Dwayne M. Cyrus</h1>
+    <p>AI Design Engineer · Basel, Switzerland</p>
+    <p>Building systems that think, interfaces that feel, and tools that free.</p>
+
+    <p>
+      <a href="/cv">View CV</a>
+      <a href="/projects">Explore Projects</a>
+    </p>
+  </section>
+
+  <section>
+    <h2>Introduction</h2>
+    <p>
+      I design and engineer human-centered systems where code, intelligence,
+      and discipline converge into clarity. My work lives at the intersection
+      of frontend architecture, design systems, and applied AI — crafting interfaces
+      that feel human yet operate with machine precision.
+    </p>
+  </section>
+
+  <section>
+    <h2>Current Focus</h2>
+    <ul>
+      <li>AI Design Engineer Portfolio — Astro + React + local AI systems</li>
+      <li>Thunder Recall — local-first AI memory engine for Markdown/YAML</li>
+      <li>Voyager OS — sovereign life-planning and productivity environment</li>
+      <li>Scriptorium — writer’s studio combining iA Writer, Bear, and Obsidian</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Philosophy</h2>
+    <blockquote>
+      Design as discipline. Engineering as order. AI as clarity.
+    </blockquote>
+    <p>
+      Technology should refine, not replace, human awareness. I build systems that
+      amplify intent and preserve sovereignty — tools that think with you, not for you.
+    </p>
+  </section>
+
+  <section>
+    <h2>Stack</h2>
+    <!-- you can render a table later via a component -->
+    <ul>
+      <li>Frontend: Astro, React, TypeScript, Tailwind CSS</li>
+      <li>Backend / Data: Node.js, Express, MongoDB, IndexedDB, CloudKit</li>
+      <li>AI / ML: OpenAI API, MLX, LangChain, local embeddings</li>
+      <li>Design: Figma, Procreate, Nomad Sculpt</li>
+      <li>Deployment: Vercel, GitHub Actions</li>
+    </ul>
+  </section>
+
+<section>
+  <h1>Lab</h1>
+  <p>Explorations, prototypes, and unfinished ideas — testing new ways to merge design, code, and intelligence.</p>
+
+  <div class="lab-grid">
+    [list of experiments → card component]
+  </div>
+</section>, labs are always written like field notes, ask GPT to give you your first one build based on your works.
+
+  <section>
+    <h2>Connect</h2>
+    <p>hey@dwaynemcyrus.com · GitHub · LinkedIn · X</p>
+  </section>
+
+<hr>
+
+<code>
+  <header>
+			<a href="/">Go Home</a>
+			<!-- ADD: strapeline of "Design Engineer" -->
+			<h1>Frontend Developer for Life Sciences Researchers</h1>
+			<p>I design and build applications and tools that make research more reliable, precise, and efficient.</p>
+			<ul>
+				<li>
+					<a href="/Dwayne-Cyrus-Lebenslauf-Frontend-Developer.pdf" target="_blank">Download the CV</a>
+					<!-- TODO Make the download (by adding the "download" attribute) button a drop down that give the option to view in browser or download local copy -->
+				</li>  
+				
+				<li>
+					<a href="/projects">Explore Projects</a>
+				</li>
+				<li>
+					<a href="https://github.com/dwaynemcyrus">View Source on GitHub</a>
+				</li>
+			</ul>
+		</header>
+		<main>
+			<section>
+				<h2>Projects</h2>
+				<p>Selected works — building applications and tools for life sciences researchers.</p>
+				<ul>
+					<li>
+						<h3>Mini-LIMS</h3>
+						<p>A lightweight Laboratory Information Management System designed for researchers to track experiments with reliability and precision and an enjoyable intuitive ease of use</p>
+						<ul>
+							<li>Next.js</li>
+							<li>MongoDB</li>
+							<li>Tech stack tag item</li>
+						</ul>
+						<ul>
+							<li><a href="https://github.com/dwaynecyrus.com">Source Code</a></li>
+							<li><a href="">Live demo</a></p></li>
+						</ul>
+					</li>
+
+					<li>
+						<h3>Data Visualization Dashboard</h3>
+						<p>Interactive dashboard for visualizing lab results and workflows, helping scientists uncover insights quickly.</p>
+						<ul>
+							<li>React</li>
+							<li>D3.js</li>
+						</ul>
+						<ul>
+							<li><a href="https://github.com/dwaynecyrus.com">Source Code</a></li>
+							<li><a href="">Live demo</a></p></li>
+						</ul>
+					</li>
+				</ul>
+			</section>
+			<section>
+				<h2>Contact</h2>
+				<p>Currently seeking opportunities as a Software Engineer in Basel. Contact me via email or LinkedIn to discuss how I can contribute to your team.</p>
+				<ul>
+					<li><a href="mailto:cyrus@dwaynemcyrus.com">Email me</a></li>
+					<li><a href="https://linkedin.com/">LinkedIn</a></li>
+				</ul>
+			</section>
+		</main>
+		<footer>
+			<p>© 2025 Dwayne M. Cyrus · Basel, Switzerland</p>
+		</footer>
+</code>
+
+</BaseLayout>

@@ -5,18 +5,35 @@ const username = "withastro";
 import Social from './Social.astro';
 
 ---
-<style>
+<!-- <style>
   footer {
     display: flex;
     gap: 1rem;
     margin-top: 2rem;
   }
-</style>
+</style> -->
 
 <footer>
-  <p>Learn more about my projects on <a href={`https://www.${platform}.com/${username}`}>{platform}</a>!</p>
+  <p>
+© 2021-2025 Dwayne M Cyrus</p>
+
+<ul>
+  <li><a href="./contact">Contact</a></li>
+  <!-- <li><a href="">Legal</a></li> -->
+  <!-- TODO: Theme Switcher like buka.studio <li><a href=""></a></li> -->
+</ul>
+
+<!-- <span>© Dwayne M. Cyrus OR DM Cyrus 2020 or 2021-2025</span>
+hey@dwaynemcyrus.com
+<a href="">GitHub</a> · <a href="">LinkedIn</a> · <a href="">X(formally Twitter)</a> -->
+
+  <!-- <p>Learn more about my projects on <a href={`https://www.${platform}.com/${username}`}>{platform}</a>!</p>
     <Social platform="twitter" username="astrodotbuild" />
   <Social platform="github" username="withastro" />
   <Social platform="youtube" username="astrodotbuild" />
-  <p>2025 DM Cyrus</p>
+  <p>2025 DM Cyrus</p> -->
 </footer>
+
+  <script>
+import "../scripts/menu.js";
+  </script>

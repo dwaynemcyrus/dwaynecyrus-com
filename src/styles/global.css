@@ -1,111 +1,204 @@
+* {
+    box-sizing: border-box;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-book.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-book-italic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-regular-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-medium-italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-bold-italic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-extrabold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "New Atten";
+  src: url("/fonts/new-atten-extrabold-italic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+.visually-hidden {
+    position: absolute;
+    overflow: hidden;
+    height: 1px;
+    width: 1px;
+    padding: 0;
+    margin: 0;
+}
+
 html {
-  background-color: #fff;
-  font-family: sans-serif;
-  /* font-family: serif; */
+    background-color: #fff;
+    /* background-color: #ff9776; */
+    background-color: hsl(20deg 5.88% 90%);
+    font-family: "New Atten", "Verdana", "Geneva", "Tahoma", sans-serif;
+    font-size: 15px;
+    color: hsl(24 10% 10%);
+    /* font-family: "New Atten", serif; */
 }
 
 body {
-  color: #000;
-  margin: 0 auto;
-  width: 100%;
-  max-width: 80ch;
-  /* padding: 0; */
-  /* margin: 2ch 4ch; */
-  line-height: 1.5;
+    padding: 2rem 1.25rem;
+    /* margin: 2rem 0; */
+    /* background-color: blue; */
 }
 
-* {
-  box-sizing: border-box;
+h2, h3, h4, h5, h6 {
+    padding: 0 0.75rem;
+    margin-bottom: 0.5rem;
 }
 
-h1 {
-  margin: 1.5rem 0 1rem;
-  font-size: 2.5rem;
+p {
+    width: 100%;
+    max-width: 516px;
+    padding: 0 0.75rem;
+    /* margin: 0 2rem; */
+    /* background-color: red; */
+    line-height: 1.4rem;
 }
 
-
-/* nav styles */
-.menu {
-  background-color: transparent;
-  border: none;
-  color: #000;
-  font-size: 1rem;
-  font-weight: normal;
-  margin: 4px 8px;
+.identity-statement {
+    margin: 8rem 0 4rem;
+}
+.identity-statement h2 {
+    margin-bottom: 0.25em;
+    font-size: 1.5rem;
+color: hsl(12 84% 53%);
 }
 
-.nav-links {
-  width: 100%;
-  display: none;
-  margin: 0;
+.identity-statement p:first-of-type{
+    margin-top: 0.25em;
+    font-size: 0.85rem;
+/* color: hsl(12 84% 53%); */
 }
 
-.nav-links a {
-  display: block;
-  text-align: center;
-  padding: 10px 0;
-  text-decoration: none;
-  font-size: 1.2rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  color: #0d0950;
+.identity-statement p:last-of-type{
+    /* margin-top: 0.25em; */
+    font-size: 1.25rem;
+/* color: hsl(12 84% 53%); */
 }
 
-.nav-links a:hover,
-.nav-links a:focus {
-  background-color: #ff9776;
+hr {
+    max-width: 516px;
+}
+.content-gates div {
+margin-bottom: 3rem;
 }
 
-:has(.menu[aria-expanded="true"]) .nav-links {
-  display: unset;
+.content-gates div p:first-of-type {
+    /* font-size: 300; */
+    /* color: red; */
+    margin-top: 0.5rem;
 }
 
-@media screen and (min-width: 636px) {
-  .nav-links {
-    margin-left: 5em;
-    display: block;
-    position: static;
-    width: auto;
-    background: none;
-  }
-
-  .nav-links a {
-    display: inline-block;
-    padding: 15px 20px;
-  }
-    .menu {
-    display: none;
-  }
+main {
+    margin-bottom: 4rem;
 }
 
-/* Daek mode */
-html.dark {
-  background-color: #0d0950;
-  color: #fff;
+a {
+    color: hsl(24 10% 10%);
+    /* color: green; */
+    text-decoration: underline solid hsl(12 84% 53%);
+    /* text-decoration: underline solid green; */
 }
 
-.dark .menu {
-  background-color: #fff;
-  color: #000;
+/* unvisited link */
+a:link {
+  color: hsl(24 10% 10%);
+    text-decoration: underline solid hsl(12 84% 53%);
 }
 
-.dark .nav-links a:hover,
-.dark .nav-links a:focus {
-  color: #0d0950;
+/* visited link */
+a:visited {
+  color: hsl(24 10% 10%);
+    text-decoration: underline solid hsl(12 84% 53%);
 }
 
-.dark .nav-links a {
-  color: #fff;
+/* mouse over link */
+a:hover {
+  color: hsl(12 84% 53%);
+    text-decoration: none;
 }
 
-.dark a {
-  color: #ff9776;
+/* selected link */
+a:active {
+  color: hsl(24 10% 10%);
+    text-decoration: underline solid hsl(12 84% 53%);
 }
 
-/* Wikilinks */
-.wikilink--missing {
-  cursor: help;
-  opacity: 0.7;
-  text-decoration: underline dotted;
-  pointer-events: none; /* stops the '#' navigation */
+footer {
+    max-width: 516px;
+    font-size: 0.85rem;
+    
+    display: flex;
+    justify-content: space-between;
+}
+footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+footer ul li {
+    padding: 0 0.75rem;
+}
+footer ul a:link {
+color: hsl(24 10% 10%);
+text-decoration: none;
+}
+footer ul a:hover {
+  color: hsl(12 84% 53%);
+    text-decoration: none;
 }
