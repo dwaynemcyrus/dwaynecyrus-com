@@ -18,8 +18,35 @@ const finished = true;
 
 const pageTitle = 'Contact Page';
 ---
+
+
 <BaseLayout pageTitle={pageTitle}>
-    <h1>{pageTitle}</h1>
+    <nav class="temp-nav">
+        <h2><a href="/">Cyrus</a></h2>
+        <p>Artist · Engineer · Mentor</p>
+    </nav>
+
+  <div class="contact-introduction">
+<p>For collaboration, consulting, or a direct introduction.</p>
+<p><a href="mailto:hey@dwaynemcyrus.com">hey@dwaynemcyrus.com</a> <!-- 
+  - <button data-copy="hey@dwaynemcyrus.com">Copy email</button>
+-->
+  </p>
+</div>
+
+<ul class="contact-list">
+  <!-- <li></li> -->
+  <li><a href="https://github.com/dwaynemcyrus" rel="noopener">GitHub</a></li>
+  <li><a href="https://linkedin.com/in/dwaynemcyrus" rel="noopener">LinkedIn</a></li>
+  <li><a href="https://x.com/dwaynemcyrus" rel="noopener">X</a></li>
+  <!-- <li><a href="">Bluesky</a></li> -->
+</ul>
+
+
+
+
+
+    <!-- <h1>{pageTitle}</h1>
     <p>This is some text just to fill the space of the contact page.</p>
 
     <p>My name is {contactDetails.firstName} {contactDetails.lastName} and I am a {contactDetails.occupation}, but everyone calls me {contactDetails.preferredName} and that's what I prefer.</p>
@@ -51,6 +78,6 @@ const pageTitle = 'Contact Page';
 </ul>
 
 <p>The Finish Statement: (false is no show, true is show)</p>
-{finished && <p>I finished this tutorial!</p>}
+{finished && <p>I finished this tutorial!</p>} -->
 
 </BaseLayout>

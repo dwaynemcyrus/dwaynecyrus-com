@@ -111,12 +111,38 @@ p {
     line-height: 1.4rem;
 }
 
+/* NAVIGATION */
+
+.temp-nav {
+    margin: 0rem 0 4rem;
+}
+.temp-nav h2 {
+    margin: 0;
+    font-size: 1.25rem;
+color: hsl(12 84% 53%);
+}
+.temp-nav p:first-of-type{
+    margin-top: 0.25em;
+    font-size: 0.85rem;
+/* color: hsl(12 84% 53%); */
+}
+
+.temp-nav h2 a, .temp-nav h2 a:link, .temp-nav h2 a:visited, .temp-nav h2 a:hover, .temp-nav h2 a:active {
+      margin-bottom: 0.25em;
+    /* font-size: 1.5rem; */
+color: hsl(12 84% 53%);
+text-decoration: none;
+}
+
+
+
+/* HOME */
 .identity-statement {
     margin: 8rem 0 4rem;
 }
 .identity-statement h2 {
     margin-bottom: 0.25em;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 color: hsl(12 84% 53%);
 }
 
@@ -180,6 +206,7 @@ a:active {
     text-decoration: underline solid hsl(12 84% 53%);
 }
 
+/* FOOTER */
 footer {
     max-width: 516px;
     font-size: 0.85rem;
@@ -202,3 +229,44 @@ footer ul a:hover {
   color: hsl(12 84% 53%);
     text-decoration: none;
 }
+
+/* CONTACT */
+.contact-introduction {
+    margin: 8rem 0 4rem;
+}
+
+.contact-list {
+  display: flex;
+    /* justify-content: space-between; */
+    max-width: 516px;
+    padding-left:0;
+}
+.contact-list li {
+      list-style-type: none;
+    padding-left: 0;
+    padding: 0 0.75rem;
+}
+
+blockquote {
+  font-size: 1.25rem;
+  font-style: italic;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+/* DEV/ENGINEERING HOMEPAGE */
+h3 {
+font-size: 1.3rem;
+}
+  
+
+
+      /* <code>
+        GitHub READMEs // 
+
+Use the full sections plus a “Roadmap” heading linking to your phases.
+      </code> */
